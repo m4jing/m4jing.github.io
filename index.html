@@ -1,0 +1,253 @@
+<!--<html lang="zh">-->
+<html>
+<head>
+    <title>@m4jing learning HTML</title>
+    <!--<meta http-equiv="content-type" content="text/html;charset="utf-8"">-->
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta http-equiv="Content-Language" content="zh-cn" />
+    <meta name="author" content="m4jing" />
+    <meta name="copyright" content="Copyright 2013 @m4jing" />
+    <meta name="keywords" content="HTML, DIV, CSS, JavaScript, jQuery, Python, Django, Linux, MySQL, Git" />
+    <meta name="description" content="This @m4jing learning HTML and Python." />
+    <link rel="shortcut icon" href="http://www.w3school.com.cn/favicon.ico" type="image/x-icon" />
+    
+</head>
+
+
+<body bgcolor="#fff">
+<hr />
+<h1>body 标记</h1>
+<ul>
+    <li>bgcolor: 背景颜色:bgcolor="#fff"</li>
+    <li>background: 背景图片:图片在颜色层之上:background="html-meta.png"</li>
+    <li>text: 文本颜色</li>
+    <li>link: 链接文字颜色</li>
+    <li>vlink: 访问过的文本颜色</li>
+    <li>alink: 激活的链接文本颜色</li>
+    <li>leftmargin: 左边界</li>
+    <li>rightmargin: 右边界</li>
+    <li>topmargin: 上边界</li>
+    <li>bottommargin: 下边界</li>
+    <br/>
+    <li>默认情况下：左／上／右／下边界均默认为10px;</li>
+</ul>
+
+<h1>font 标记</h1>
+<ul>
+    <li>color: 颜色</li>
+    <li>size: 字号</li>
+    <li>face: 字体</li>
+    <br />
+    <li>网页中的文本 字体／字号一般用CSS控制</li>
+</ul>
+
+<h1>字符格式</h1>
+<ul>
+    <li><b>加粗：b</b></li>
+    <li><i>倾斜：i</i></li>
+    <li><strong>加强语气(加粗)：strong</strong></li>
+    <li><em>加强语气(倾斜)：em</em></li>
+    <li><u>下划线：u</u></li>
+    <li><s>删除线：s</s></li>
+    <li>上标：sup A<sup>B</sup></li>
+    <li>下标：sub A<sub>B</sub></li>
+    <br />
+    <li>同样是加粗，一般来说用 &lt;strong&gt; 而不用 &lt;b&gt; :strong对于搜索引擎有积极作用(strong更有利于 SEO)，而 b 则对于搜索引擎没有反应</li>
+    <li></li>
+</ul>
+
+<h1>段落标记 p</h1>
+<ul>
+    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
+    <li>align: left(左对齐，默认)/center居中/right右对齐</li>
+    <br />
+    <li>如果不用 p 标记，几段文字放在一起，即使源文件中已经分段，但是最终呈现给用户的仍然是3段文件粘在一起…使用 p 标记，可以使文章结构更清晰。</li>
+    <li></li>
+</ul>
+
+<h1>段落标题 hx</h1>
+<ul>
+    <li>&lt;hx align=".."&gt;..&lt;/hx&gt;</li>
+    <li>x取值：1-6；hx内的文字会加粗显示；hx针对段落，font针对任意文本</li>
+    <li>br：换行(换行不换段)</li>
+    <blockquote cite="http://www.w3school.com.cn/tiy/t.asp?f=html_headers">请仅仅把标题标签用于标题文本。不要仅仅为了产生粗体文本而使用它们。请使用其它标签或 CSS 代替。搜索引擎使用标题为您的网页的结构和内容编制索引。因为用户可以通过标题来快速浏览您的网页，所以用标题来呈现文档结构是很重要的。<br />浏览器会自动地在标题的前后添加空行. <br />默认情况下，HTML 会自动地在块级元素前后添加一个额外的空行，比如段落、标题元素前后。</blockquote>
+    <p><em>title</em>的作用：除了给 user 提供信息，还给搜索引擎提供抓取。可以在 title 中写上 keywords。还有 meta 信息可供使用。</p>
+</ul>
+
+
+<h1>HTML 中的特殊字符</h1>
+<ul>
+    <li>空格：&nbsp;</li>
+    <li>版权号：&copy;</li>
+    <li>注册商标：&reg;</li>
+    <li>"：&quot;</li>
+    <li>&amp;</li>
+    <li>&lt;</li>
+    <li>&gt;</li>
+    <br />
+    <li><strong>网页布局：实质是使用合适的标记来定义元素。使用 DIV+CSS 布局时，一定要考虑标记本身的自带属性，比如默认的边框／间距。</strong></li>
+</ul>
+
+<h1>HTML 中的特殊标记</h1>
+<ul>
+    <li>定义一个块引用：使用文本缩进&lt;blockquote&gt;..&lt;/blockquote&gt;</li>
+    <blockquote cite="http://www.w3school.com.cn/">blockquote 标记中的所有文本都会从常规文本中分离出来，经常会在左右两边缩进(增加外边距)，而且有时候会使用斜体。也就是说，块引用拥有它们自己的空间。</blockquote>
+    <li>属性名称：cite=url 被引用的地址；这个属性有利于 SEO</li>
+    <li>居中标记：&lt;center&gt;..&lt;/center&gt;<del> (deprecated)</del></li>
+    <li>预格式化标记：&lt;pre&gt;..&lt;/pre&gt;：显示已经格式化好的文字。不加此标记，HTML 会忽略所有空格和制表符</li>
+    <blockquote cite="http://www.w3school.com.cn/html/html_paragraphs.asp">当显示页面时，浏览器会移除源代码中多余的空格和空行。所有连续的空格或空行都会被算作一个空格。需要注意的是，HTML 代码中的所有连续的空行（换行）也被显示为一个空格。</blockquote>
+</ul>
+
+<h1>列表 ul，ol，dl</h1>
+<p>列表标记可以创建无序／有序／定义列表。还可以在一种列表中嵌套另一种列表。便于概括显示一系列相关内容</p>
+<ul type="circle">
+    <li type="disc">无序：&lt;ul&gt;..&lt;/ul&gt;</li>
+        <pre>
+        &lt;ul type="项目符号类型"&gt;
+            &lt;li type="项目符号类型"&gt;..&lt;/li&gt;
+            &lt;li&gt;...&lt;/li&gt;
+        &lt;/ul&gt;
+        </pre>
+        <p>项目符号类型：disc(default)／circle／square</p>
+    <li type="circle">有序：&lt;ol&gt;..&lt;/ol&gt;</li>
+        <pre>
+        &lt;ol <strong>start="列表起点"</strong> type="项目符号类型"&gt;
+            &lt;li&gt;..&lt;/li&gt;
+            &lt;li&gt;...&lt;/li&gt;
+        &lt;/ol&gt;
+        </pre>
+        <p>项目符号类型：1(default)／a／A／i／I</p>
+ 
+    <li type="square">定义：&lt;dl&gt;..&lt;/dl&gt;</li>
+        <pre>
+        &lt;dl&gt;
+            &lt;dt&gt;..&lt;/dt&gt;
+            &lt;dd&gt;...&lt;/dd&gt;
+            &lt;dt&gt;..&lt;/dt&gt;
+            &lt;dd&gt;...&lt;/dd&gt;
+        &lt;/dl&gt;
+        </pre>
+        <p>dt 表示一个项目；dd 表示这个项目的具体描述</p>
+ 
+</ul>
+
+<h1>图片标记 img</h1>
+<p align="center"><img src="http://www.w3school.com.cn/i/w3school_logo_white.gif" /></p>
+
+<img src="Lazar Angelov.jpg" width="480px" alt="Fitness-Lazar-Angelov" title="Lazar Angelov" border="6" align="middle" vspace="20" hspace="100" />
+<p>把图片的 img 代码插入到一堆文字中，来实现“图文混排”，并设置好 hspace 和 vspace 来控制图片与文字之间的空隙。</p>
+<blockquote><font color="blue">要善于查手册！一次性把所有属性及其取值都记住，太难＆效率太低。记住主要标记和常用属性。其他的，随时用＆随时查。</font></blockquote>
+
+<h1>表格标记与属性 table/tr/td/th</h1>
+<p>table 默认的边框 border=“0”，即没有边框。</p>
+<table width="600px" align="center" border="3" cellpadding="8" cellspacing="10" bordercolor="red">
+    <caption align="bottom">粗外边框(红色)，加入cellpadding和cellspacing</caption>
+    <tr border="red" align="center">
+        <td>1.1</td>
+        <td>1.2</td>
+    </tr>
+    <tr>
+        <td>2.1</td>
+        <td>2.2</td>
+    </tr>
+</table>
+
+<hr width="100%" size="3" color="green" />
+
+<table border="6" width="600px" align="center" rules="rows" bordercolor="blue">
+    <caption>粗外边框(蓝色)，只显示横线</caption>
+    <tr>
+        <td>1.1</td>
+        <td>1.2</td>
+    </tr>
+    <tr>
+        <td>2.1</td>
+        <td>2.2</td>
+    </tr>
+    <tr>
+        <td colspan="2">table 表格的格式化：<br />
+            <pre>
+            &lt;table&gt;
+                &lt;thead&gt;..&lt;/thead&gt;
+                &lt;tbody&gt;..&lt;/tbody&gt;
+                &lt;tfooot&gt;..&lt;/tfoot&gt;
+            &lt;/table&gt;
+            </pre>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">table 表格的直列化：<br /><strong>colgroup</strong>: 前 span 列均变色<br /><strong>col</strong>: 单独改变某一列。上述2个标记，默认均为从第一列开始。可以用 span 参数改变覆盖范围；可以有多个 col 标记，分别标识不同的背景色，以达到<font color="red">高亮某一列</font>的目的。</td>
+    </tr>
+    <tr>
+        <td colspan="2"><font color="red">网页优化</font>：优化源码：网页源码越少，网页加载速度越快=&gt;尽量较少标记的嵌套。<br />当浏览器读到一个 table 标记时，会找到结束的 table 标记才会把整个 table 的内容显示出来。</td>
+    </tr>
+</table>
+
+<hr width="100%" size="3" color="green" />
+
+<table border="3">
+    <tr>
+        <td>1.1</td>
+        <td>1.2</td>
+    </tr>
+    <tr>
+        <td>2.1</td>
+        <td>2.2</td>
+    </tr>
+</table>
+
+
+
+<ul>
+    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
+    <li></li>
+    <li></li>
+</ul>
+
+<h1>*</h1>
+<ul>
+    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
+    <li></li>
+    <li></li>
+</ul>
+
+
+
+
+
+
+
+
+<hr />
+<h3>vim中如何跳转到指定行？</h3>
+ngg, nG, :n+Enter
+<h3>vim中如何全选？</h3>
+ggvG
+
+
+
+<h1>hr 的属性＆实例</h1>
+<hr align="center" width="80%" size="5" noshade="noshade" color="green"/>
+<p>
+在 HTML 中，如果属性没有值，则直接写属性名称即可:&lt;hr noshade&gt;；在 xHTML 中，属性必须有值:&lt;hr noshade="noshade"&gt;<br />
+使用水平线 (&lt;hr&gt; 标签) 来分隔文章中的小节是一个办法（但并不是唯一的办法）
+</p>
+
+<hr width="70%" size="3" color="green"/>
+<br/>
+<p align="center">
+    Copyright&copy; 2013 @m4jing.
+    HTML -&gt; xHTML
+    所有标记用小写来符合xHTML标准
+</p>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
