@@ -1,215 +1,81 @@
-<!--<html lang="zh">-->
-<html>
-<head>
-    <title>@m4jing learning HTML</title>
-    <!--<meta http-equiv="content-type" content="text/html;charset="utf-8"">-->
-    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
-    <meta http-equiv="Content-Language" content="zh-cn" />
-    <meta name="author" content="m4jing" />
-    <meta name="copyright" content="Copyright 2013 @m4jing" />
-    <meta name="keywords" content="HTML, DIV, CSS, JavaScript, jQuery, Python, Django, Linux, MySQL, Git" />
-    <meta name="description" content="This @m4jing learning HTML and Python." />
-    <link rel="shortcut icon" href="http://www.w3school.com.cn/favicon.ico" type="image/x-icon" />
-    
-</head>
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <title>imajing</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="@m4jing">
+    <link rel="shortcut icon" href="favicon.jpg">
 
+    <meta name="description" content="">
+    <meta name="keyword" content="">
+    <!-- Bootstrap -->
+    <!-- Hi，如果你要在自己的网站上引入bootstrap样式文件的话，请使用当前最新版本v3.0.3的CDN链接，页面加载速度会更快！
+    <link rel="stylesheet" href="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/css/bootstrap.min.css">
+    -->
+    <!-- <link rel="stylesheet" href="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/css/bootstrap.min.css"> -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="index.css" rel="stylesheet">
 
-<body bgcolor="#fff">
-<hr />
-<h1>body 标记</h1>
-<ul>
-    <li>bgcolor: 背景颜色:bgcolor="#fff"</li>
-    <li>background: 背景图片:图片在颜色层之上:background="html-meta.png"</li>
-    <li>text: 文本颜色</li>
-    <li>link: 链接文字颜色</li>
-    <li>vlink: 访问过的文本颜色</li>
-    <li>alink: 激活的链接文本颜色</li>
-    <li>leftmargin: 左边界</li>
-    <li>rightmargin: 右边界</li>
-    <li>topmargin: 上边界</li>
-    <li>bottommargin: 下边界</li>
-    <br/>
-    <li>默认情况下：左／上／右／下边界均默认为10px;</li>
-</ul>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
 
-<h1>font 标记</h1>
-<ul>
-    <li>color: 颜色</li>
-    <li>size: 字号</li>
-    <li>face: 字体</li>
-    <br />
-    <li>网页中的文本 字体／字号一般用CSS控制</li>
-</ul>
+  <body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">iMaJing</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li><a href="#lab"><span class="glyphicon glyphicon-gift"></span> Lab</a></li>
+<!--             <li><a href="#technology">Technology</a></li>
+            <li><a href="#service">Service</a></li> -->
+            <li><a href="#about"><span class="glyphicon glyphicon-user"></span> About</a></li>
 
-<h1>字符格式</h1>
-<ul>
-    <li><b>加粗：b</b></li>
-    <li><i>倾斜：i</i></li>
-    <li><strong>加强语气(加粗)：strong</strong></li>
-    <li><em>加强语气(倾斜)：em</em></li>
-    <li><u>下划线：u</u></li>
-    <li><s>删除线：s</s></li>
-    <li>上标：sup A<sup>B</sup></li>
-    <li>下标：sub A<sub>B</sub></li>
-    <br />
-    <li>同样是加粗，一般来说用 &lt;strong&gt; 而不用 &lt;b&gt; :strong对于搜索引擎有积极作用(strong更有利于 SEO)，而 b 则对于搜索引擎没有反应</li>
-    <li></li>
-</ul>
+<!--             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li> -->
 
-<h1>段落标记 p</h1>
-<ul>
-    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
-    <li>align: left(左对齐，默认)/center居中/right右对齐</li>
-    <br />
-    <li>如果不用 p 标记，几段文字放在一起，即使源文件中已经分段，但是最终呈现给用户的仍然是3段文件粘在一起…使用 p 标记，可以使文章结构更清晰。</li>
-    <li></li>
-</ul>
+          </ul>
+<!--           <ul class="nav navbar-nav navbar-right">
+            <li><a href="../navbar/">Default</a></li>
+            <li><a href="../navbar-static-top/">Static top</a></li>
+            <li class="active"><a href="./">Fixed top</a></li>
+          </ul> -->
 
-<h1>段落标题 hx</h1>
-<ul>
-    <li>&lt;hx align=".."&gt;..&lt;/hx&gt;</li>
-    <li>x取值：1-6；hx内的文字会加粗显示；hx针对段落，font针对任意文本</li>
-    <li>br：换行(换行不换段)</li>
-    <blockquote cite="http://www.w3school.com.cn/tiy/t.asp?f=html_headers">请仅仅把标题标签用于标题文本。不要仅仅为了产生粗体文本而使用它们。请使用其它标签或 CSS 代替。搜索引擎使用标题为您的网页的结构和内容编制索引。因为用户可以通过标题来快速浏览您的网页，所以用标题来呈现文档结构是很重要的。<br />浏览器会自动地在标题的前后添加空行. <br />默认情况下，HTML 会自动地在块级元素前后添加一个额外的空行，比如段落、标题元素前后。</blockquote>
-    <p><em>title</em>的作用：除了给 user 提供信息，还给搜索引擎提供抓取。可以在 title 中写上 keywords。还有 meta 信息可供使用。</p>
-</ul>
-
-
-<h1>HTML 中的特殊字符</h1>
-<ul>
-    <li>空格：&nbsp;</li>
-    <li>版权号：&copy;</li>
-    <li>注册商标：&reg;</li>
-    <li>"：&quot;</li>
-    <li>&amp;</li>
-    <li>&lt;</li>
-    <li>&gt;</li>
-    <br />
-    <li><strong>网页布局：实质是使用合适的标记来定义元素。使用 DIV+CSS 布局时，一定要考虑标记本身的自带属性，比如默认的边框／间距。</strong></li>
-</ul>
-
-<h1>HTML 中的特殊标记</h1>
-<ul>
-    <li>定义一个块引用：使用文本缩进&lt;blockquote&gt;..&lt;/blockquote&gt;</li>
-    <blockquote cite="http://www.w3school.com.cn/">blockquote 标记中的所有文本都会从常规文本中分离出来，经常会在左右两边缩进(增加外边距)，而且有时候会使用斜体。也就是说，块引用拥有它们自己的空间。</blockquote>
-    <li>属性名称：cite=url 被引用的地址；这个属性有利于 SEO</li>
-    <li>居中标记：&lt;center&gt;..&lt;/center&gt;<del> (deprecated)</del></li>
-    <li>预格式化标记：&lt;pre&gt;..&lt;/pre&gt;：显示已经格式化好的文字。不加此标记，HTML 会忽略所有空格和制表符</li>
-    <blockquote cite="http://www.w3school.com.cn/html/html_paragraphs.asp">当显示页面时，浏览器会移除源代码中多余的空格和空行。所有连续的空格或空行都会被算作一个空格。需要注意的是，HTML 代码中的所有连续的空行（换行）也被显示为一个空格。</blockquote>
-</ul>
-
-<h1>列表 ul，ol，dl</h1>
-<p>列表标记可以创建无序／有序／定义列表。还可以在一种列表中嵌套另一种列表。便于概括显示一系列相关内容</p>
-<ul type="circle">
-    <li type="disc">无序：&lt;ul&gt;..&lt;/ul&gt;</li>
-        <pre>
-        &lt;ul type="项目符号类型"&gt;
-            &lt;li type="项目符号类型"&gt;..&lt;/li&gt;
-            &lt;li&gt;...&lt;/li&gt;
-        &lt;/ul&gt;
-        </pre>
-        <p>项目符号类型：disc(default)／circle／square</p>
-    <li type="circle">有序：&lt;ol&gt;..&lt;/ol&gt;</li>
-        <pre>
-        &lt;ol <strong>start="列表起点"</strong> type="项目符号类型"&gt;
-            &lt;li&gt;..&lt;/li&gt;
-            &lt;li&gt;...&lt;/li&gt;
-        &lt;/ol&gt;
-        </pre>
-        <p>项目符号类型：1(default)／a／A／i／I</p>
- 
-    <li type="square">定义：&lt;dl&gt;..&lt;/dl&gt;</li>
-        <pre>
-        &lt;dl&gt;
-            &lt;dt&gt;..&lt;/dt&gt;
-            &lt;dd&gt;...&lt;/dd&gt;
-            &lt;dt&gt;..&lt;/dt&gt;
-            &lt;dd&gt;...&lt;/dd&gt;
-        &lt;/dl&gt;
-        </pre>
-        <p>dt 表示一个项目；dd 表示这个项目的具体描述</p>
- 
-</ul>
-
-<h1>图片标记 img</h1>
-<p align="center"><img src="http://www.w3school.com.cn/i/w3school_logo_white.gif" /></p>
-
-<img src="Lazar Angelov.jpg" width="480px" alt="Fitness-Lazar-Angelov" title="Lazar Angelov" border="6" align="middle" vspace="20" hspace="100" />
-<p>把图片的 img 代码插入到一堆文字中，来实现“图文混排”，并设置好 hspace 和 vspace 来控制图片与文字之间的空隙。</p>
-<blockquote><font color="blue">要善于查手册！一次性把所有属性及其取值都记住，太难＆效率太低。记住主要标记和常用属性。其他的，随时用＆随时查。</font></blockquote>
-
-<h1>表格标记与属性 table/tr/td/th</h1>
-<p>table 默认的边框 border=“0”，即没有边框。</p>
-<table width="600px" align="center" border="3" cellpadding="8" cellspacing="10" bordercolor="red">
-    <caption align="bottom">粗外边框(红色)，加入cellpadding和cellspacing</caption>
-    <tr border="red" align="center">
-        <td>1.1</td>
-        <td>1.2</td>
-    </tr>
-    <tr>
-        <td>2.1</td>
-        <td>2.2</td>
-    </tr>
-</table>
-
-<hr width="100%" size="3" color="green" />
-
-<table border="6" width="600px" align="center" rules="rows" bordercolor="blue">
-    <caption>粗外边框(蓝色)，只显示横线</caption>
-    <tr>
-        <td>1.1</td>
-        <td>1.2</td>
-    </tr>
-    <tr>
-        <td>2.1</td>
-        <td>2.2</td>
-    </tr>
-    <tr>
-        <td colspan="2">table 表格的格式化：<br />
-            <pre>
-            &lt;table&gt;
-                &lt;thead&gt;..&lt;/thead&gt;
-                &lt;tbody&gt;..&lt;/tbody&gt;
-                &lt;tfooot&gt;..&lt;/tfoot&gt;
-            &lt;/table&gt;
-            </pre>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">table 表格的直列化：<br /><strong>colgroup</strong>: 前 span 列均变色<br /><strong>col</strong>: 单独改变某一列。上述2个标记，默认均为从第一列开始。可以用 span 参数改变覆盖范围；可以有多个 col 标记，分别标识不同的背景色，以达到<font color="red">高亮某一列</font>的目的。</td>
-    </tr>
-    <tr>
-        <td colspan="2"><font color="red">网页优化</font>：优化源码：网页源码越少，网页加载速度越快=&gt;尽量较少标记的嵌套。<br />当浏览器读到一个 table 标记时，会找到结束的 table 标记才会把整个 table 的内容显示出来。</td>
-    </tr>
-</table>
-
-<hr width="100%" size="3" color="green" />
-
-<table border="3">
-    <tr>
-        <td>1.1</td>
-        <td>1.2</td>
-    </tr>
-    <tr>
-        <td>2.1</td>
-        <td>2.2</td>
-    </tr>
-</table>
-
-
-
-<ul>
-    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
-    <li></li>
-    <li></li>
-</ul>
-
-<h1>*</h1>
-<ul>
-    <li>&lt;p align=".."&gt;..&lt;/p&gt;</li>
-    <li></li>
-    <li></li>
-</ul>
+          <p class="navbar-text navbar-right">
+            <!-- How bad do you want to succeed <span class="glyphicon glyphicon-question-sign"></span> -->
+            <span class="label label-success"><span class="glyphicon glyphicon-refresh"></span></span> <span title="嫁我是你一生的赌注，我怎么舍得让你输？！">Sleep well, live better.</span>
+            <a href="http://weibo.com/1834092432/profile?topnav=1&wvr=5&user=1" class="navbar-link" target="__blank"> @m4jing</a>
+          </p>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div> <!-- navbar end -->
 
 
 
@@ -217,29 +83,23 @@
 
 
 
+<div class="tooltip">
+  <div class="tooltip-inner">
+    Tooltip!
+  </div>
+  <div class="tooltip-arrow"></div>
+</div>
 
-<hr />
-<h3>vim中如何跳转到指定行？</h3>
-ngg, nG, :n+Enter
-<h3>vim中如何全选？</h3>
-ggvG
+<a href="#" data-toggle="tooltip" title="first tooltip">Hover over me</a>
 
+<p class="muted" style="margin-bottom: 0;">Tight pants next level keffiyeh <a href="#" data-toggle="tooltip" title="" data-original-title="Default tooltip">you probably</a> haven't heard of them. Photo booth beard raw denim letterpress vegan messenger bag stumptown. Farm-to-table seitan, mcsweeney's fixie sustainable quinoa 8-bit american apparel <a href="#" data-toggle="tooltip" title="Another tooltip">have a</a> terry richardson vinyl chambray. Beard stumptown, cardigans banh mi lomo thundercats. Tofu biodiesel williamsburg marfa, four loko mcsweeney's cleanse vegan chambray. A really ironic artisan <a href="#" data-toggle="tooltip" title="" data-original-title="Another one here too">whatever keytar</a>, scenester farm-to-table banksy Austin <a href="#" data-toggle="tooltip" title="The last tip!">twitter handle</a> freegan cred raw denim single-origin coffee viral.</p>
 
-
-<h1>hr 的属性＆实例</h1>
-<hr align="center" width="80%" size="5" noshade="noshade" color="green"/>
-<p>
-在 HTML 中，如果属性没有值，则直接写属性名称即可:&lt;hr noshade&gt;；在 xHTML 中，属性必须有值:&lt;hr noshade="noshade"&gt;<br />
-使用水平线 (&lt;hr&gt; 标签) 来分隔文章中的小节是一个办法（但并不是唯一的办法）
-</p>
-
-<hr width="70%" size="3" color="green"/>
-<br/>
-<p align="center">
-    Copyright&copy; 2013 @m4jing.
-    HTML -&gt; xHTML
-    所有标记用小写来符合xHTML标准
-</p>
+<div class="bs-example-tooltips">
+  <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="left" title="" data-original-title="Tooltip on left">左侧Tooltip</button>
+  <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="" data-original-title="Tooltip on top">上方Tooltip</button>
+  <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Tooltip on bottom">下方Tooltip</button>
+  <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="" data-original-title="Tooltip on right">右侧Tooltip</button>
+</div>
 
 
 
@@ -247,7 +107,1462 @@ ggvG
 
 
 
+    <!-- 标签页tab.js - 通过添加标签页功能，可以让多个内容区域快速、动态切换。下拉菜单也可以使用 -->
+    <!-- <div class="bs-example bs-example-tabs"> -->
+    <div class="container">
+      <!-- <ul id="myTab" class="nav nav-tabs"> -->
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+        <li class=""><a href="#profile" data-toggle="tab">Profile</a></li>
+        <li class="dropdown">
+          <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+            <li><a href="#dropdown1" tabindex="-1" data-toggle="tab">@fat</a></li>
+            <li><a href="#dropdown2" tabindex="-1" data-toggle="tab">@mdo</a></li>
+          </ul>
+        </li>
+      </ul>
+      <!-- <div id="myTabContent" class="tab-content"> -->
+      <div class="tab-content">
+        <div class="tab-pane fade active in" id="home">
+          <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+        </div>
+        <div class="tab-pane fade" id="profile">
+          <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit. Keytar helvetica VHS salvia yr, vero magna velit sapiente labore stumptown. Vegan fanny pack odio cillum wes anderson 8-bit, sustainable jean shorts beard ut DIY ethical culpa terry richardson biodiesel. Art party scenester stumptown, tumblr butcher vero sint qui sapiente accusamus tattooed echo park.</p>
+        </div>
+        <div class="tab-pane fade" id="dropdown1">
+          <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+        </div>
+        <div class="tab-pane fade" id="dropdown2">
+          <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater. Lomo wolf viral, mustache readymade thundercats keffiyeh craft beer marfa ethical. Wolf salvia freegan, sartorial keffiyeh echo park vegan.</p>
+        </div>
+      </div>
+
+      <!-- <ul id="imyTab" class="nav nav-tabs"> -->
+      <ul class="nav nav-pills">
+        <li class="active"><a href="#ihome" data-toggle="tab">Home</a></li>
+        <li class=""><a href="#iprofile" data-toggle="tab">Profile</a></li>
+        <li class="dropdown">
+          <a href="#" id="imyTabDrop1" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="imyTabDrop1">
+            <li><a href="#idropdown1" tabindex="-1" data-toggle="tab">@fat</a></li>
+            <li><a href="#idropdown2" tabindex="-1" data-toggle="tab">@mdo</a></li>
+          </ul>
+        </li>
+      </ul>
+      <!-- <div id="myTabContent" class="tab-content"> -->
+      <div class="tab-content">
+        <div class="tab-pane fade active in" id="ihome">
+          <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+        </div>
+        <div class="tab-pane fade" id="iprofile">
+          <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit. Keytar helvetica VHS salvia yr, vero magna velit sapiente labore stumptown. Vegan fanny pack odio cillum wes anderson 8-bit, sustainable jean shorts beard ut DIY ethical culpa terry richardson biodiesel. Art party scenester stumptown, tumblr butcher vero sint qui sapiente accusamus tattooed echo park.</p>
+        </div>
+        <div class="tab-pane fade" id="idropdown1">
+          <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+        </div>
+        <div class="tab-pane fade" id="idropdown2">
+          <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater. Lomo wolf viral, mustache readymade thundercats keffiyeh craft beer marfa ethical. Wolf salvia freegan, sartorial keffiyeh echo park vegan.</p>
+        </div>
+      </div>
+
+    </div>
 
 
-</body>
+    <!-- 滚动监听 scrollspy.js
+    滚动监听插件可以根据滚动条的位置自动更新所对应的导航标记 -->
+    <div class="container">
+      <nav id="navbar-example2" class="navbar navbar-default navbar-static" role="navigation">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-js-navbar-scrollspy">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project Name</a>
+        </div>
+        <div class="collapse navbar-collapse bs-js-navbar-scrollspy">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#fat">@fat</a></li>
+            <li><a href="#mdo">@mdo</a></li>
+            <li class="dropdown">
+              <a href="#" id="navbarDrop1" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="navbarDrop1">
+                <li><a href="#one" tabindex="-1">one</a></li>
+                <li><a href="#two" tabindex="-1">two</a></li>
+                <li class="divider"></li>
+                <li><a href="#three" tabindex="-1">three</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div data-spy="scroll" data-target="#navbar-example2" data-offset="0" class="scrollspy-example">
+        <h4 id="fat">@fat</h4>
+        <p>Ad leggings keytar, brunch id art party dolor labore. Pitchfork yr enim lo-fi before they sold out qui. Tumblr farm-to-table bicycle rights whatever. Anim keffiyeh carles cardigan. Velit seitan mcsweeney's photo booth 3 wolf moon irure. Cosby sweater lomo jean shorts, williamsburg hoodie minim qui you probably haven't heard of them et cardigan trust fund culpa biodiesel wes anderson aesthetic. Nihil tattooed accusamus, cred irony biodiesel keffiyeh artisan ullamco consequat.</p>
+        <h4 id="mdo">@mdo</h4>
+        <p>Veniam marfa mustache skateboard, adipisicing fugiat velit pitchfork beard. Freegan beard aliqua cupidatat mcsweeney's vero. Cupidatat four loko nisi, ea helvetica nulla carles. Tattooed cosby sweater food truck, mcsweeney's quis non freegan vinyl. Lo-fi wes anderson +1 sartorial. Carles non aesthetic exercitation quis gentrify. Brooklyn adipisicing craft beer vice keytar deserunt.</p>
+        <h4 id="one">one</h4>
+        <p>Occaecat commodo aliqua delectus. Fap craft beer deserunt skateboard ea. Lomo bicycle rights adipisicing banh mi, velit ea sunt next level locavore single-origin coffee in magna veniam. High life id vinyl, echo park consequat quis aliquip banh mi pitchfork. Vero VHS est adipisicing. Consectetur nisi DIY minim messenger bag. Cred ex in, sustainable delectus consectetur fanny pack iphone.</p>
+        <h4 id="two">two</h4>
+        <p>In incididunt echo park, officia deserunt mcsweeney's proident master cleanse thundercats sapiente veniam. Excepteur VHS elit, proident shoreditch +1 biodiesel laborum craft beer. Single-origin coffee wayfarers irure four loko, cupidatat terry richardson master cleanse. Assumenda you probably haven't heard of them art party fanny pack, tattooed nulla cardigan tempor ad. Proident wolf nesciunt sartorial keffiyeh eu banh mi sustainable. Elit wolf voluptate, lo-fi ea portland before they sold out four loko. Locavore enim nostrud mlkshk brooklyn nesciunt.</p>
+        <h4 id="three">three</h4>
+        <p>Ad leggings keytar, brunch id art party dolor labore. Pitchfork yr enim lo-fi before they sold out qui. Tumblr farm-to-table bicycle rights whatever. Anim keffiyeh carles cardigan. Velit seitan mcsweeney's photo booth 3 wolf moon irure. Cosby sweater lomo jean shorts, williamsburg hoodie minim qui you probably haven't heard of them et cardigan trust fund culpa biodiesel wes anderson aesthetic. Nihil tattooed accusamus, cred irony biodiesel keffiyeh artisan ullamco consequat.</p>
+        <p>Keytar twee blog, culpa messenger bag marfa whatever delectus food truck. Sapiente synth id assumenda. Locavore sed helvetica cliche irony, thundercats you probably haven't heard of them consequat hoodie gluten-free lo-fi fap aliquip. Labore elit placeat before they sold out, terry richardson proident brunch nesciunt quis cosby sweater pariatur keffiyeh ut helvetica artisan. Cardigan craft beer seitan readymade velit. VHS chambray laboris tempor veniam. Anim mollit minim commodo ullamco thundercats.
+        </p>
+      </div>
+    </div>
+
+
+    <!-- 下拉菜单 dropdown.js -->
+    <div class="container">
+      <!-- 下拉菜单 dropdown.js- 用于导航条 -->
+      <!-- <nav id="navbar-example" class="navbar navbar-default navbar-static" role="navigation"> -->
+      <nav class="navbar navbar-default navbar-static" role="navigation">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-js-navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project Name</a>
+        </div>
+        <div class="collapse navbar-collapse bs-js-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a id="drop1" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown">Dropdown 2 <b class="caret"></b></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li id="fat-menu" class="dropdown">
+              <a href="#" id="drop3" role="button" class="dropdown-toggle" data-toggle="dropdown">Dropdown 3 <b class="caret"></b></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </nav>
+      <!-- 下拉菜单 dropdown.js- 用于标签页 -->
+      <ul class="nav nav-pills">
+        <li class="active"><a href="#">Regular link</a></li>
+        <li class="dropdown">
+          <a id="drop4" role="button" data-toggle="dropdown" href="#">Dropdown <b class="caret"></b></a>
+          <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a id="drop5" role="button" data-toggle="dropdown" href="#">Dropdown 2 <b class="caret"></b></a>
+          <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop5">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a id="drop6" role="button" data-toggle="dropdown" href="#">Dropdown 3 <b class="caret"></b></a>
+          <ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop6">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Another action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Something else here</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://twitter.com/fat">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+
+
+    <div class="container">
+      <!-- 模态框 modal.js -->
+      <h4><b>模态框 modal.js</b>-静态案例-以下模态框包含了模态框的头、体和一组在放置于底部的按钮</h4>
+      <div class="modal fade">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">Modal title</h4>
+            </div>
+            <div class="modal-body">
+              <p>One fine body&hellip;</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+
+      <!-- Button trigger modal -->
+      <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+        <div class="modal-dialog">
+          <div class="modal-content">
+
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+              <h4 class="modal-title" id="myModalLabel">Modal Heading</h4>
+            </div>
+            <div class="modal-body">
+              <h4>Text in a modal</h4>
+              <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
+
+              <h4>Popover in a modal</h4>
+              <p>This <a href="#" role="button" class="btn btn-default popover-test" title="" data-content="And here's some amazing content. It's very engaging. right?" data-original-title="A Title">button</a> should trigger a popover on click.</p>
+
+              <h4>Tooltips in a modal</h4>
+              <p><a href="#" class="tooltip-test" title="" data-original-title="Tooltip">This link</a> and <a href="#" class="tooltip-test" title="" data-original-title="Tooltip">that link</a> should have tooltips on hover.</p>
+
+              <hr />
+
+              <h4>Overflowing text to show scroll behavior</h4>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div>
+      <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+        Launch demo modal
+      </button>
+    </div>
+
+
+
+    <!-- Well -->
+    <div class="container">
+      <h4>默认效果-把Well用在元素上，能有嵌入(inset)的的简单效果</h4>
+      <div class="well">
+        Look, I'm in a well!
+      </div>
+      <h4>可选类-用这两种可选修饰类，可以控制内补（padding）和圆角</h4>
+      <div class="well well-lg">
+        Look, I'm in a <strong>large</strong> well!
+      </div>
+      <div class="well well-sm">
+        Look, I'm in a <strong>small</strong> well!
+      </div>
+    </div>
+
+
+    <!-- 媒体对象-默认媒体:默认的媒体允许在一个内容块的左边或右边浮动一个媒体对象（图像，视频，音频） -->
+<!--     <div class="media">
+      <a class="pull-left" href="#">
+        <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Media heading</h4>
+        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+      </div>
+    </div> -->
+
+    <hr />
+    <!-- 媒体对象 -->
+    <div class="container">
+      <h4>媒体对象-默认媒体:默认的媒体允许在一个内容块的左边或右边浮动一个媒体对象（图像，视频，音频）</h4>
+      <div class="media">
+        <a class="pull-left" href="#">
+          <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Media heading</h4>
+          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+        </div>
+      </div>
+      <div class="media">
+        <a class="pull-left" href="#">
+          <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Media heading</h4>
+          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+          <div class="media">
+            <a class="pull-left" href="#">
+              <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+            </a>
+            <div class="media-body">
+              <h4 class="media-heading">Nested media heading</h4>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+            </div>
+          </div>
+        </div>
+      </div>
+      <h4>媒体对象-媒体列表:用一点点额外的标记，就能在列表内使用媒体（对评论或文章列表很有用）</h4>
+      <ul class="media-list">
+        <li class="media">
+          <a class="pull-left" href="#">
+            <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Media heading</h4>
+            <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+            <!-- Nested media object -->
+            <div class="media">
+              <a class="pull-left" href="#">
+                <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+              </a>
+              <div class="media-body">
+                <h4 class="media-heading">Nested media heading</h4>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+                <!-- Nested media object -->
+                <div class="media">
+                  <a class="pull-left" href="#">
+                    <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+                  </a>
+                  <div class="media-body">
+                    <h4 class="media-heading">Nested media heading</h4>
+                    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Nested media object -->
+            <div class="media">
+              <a class="pull-left" href="#">
+                <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+              </a>
+              <div class="media-body">
+                <h4 class="media-heading">Nested media heading</h4>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="media">
+          <a class="pull-right" href="#">
+            <img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="image/original_ItoK_7d68000055c1118f.jpg">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Media heading</h4>
+            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+          </div>
+        </li>
+      </ul>
+
+    </div>
+    <hr />
+
+
+    <!-- 列表组 -->
+    <div class="container">
+      <h4><b>列表组</b>-基本案例-最简单的列表只是无顺序列表，列表条目和正确的类</h4>
+      <ul class="list-group">
+        <li class="list-group-item">Cras justo odio</li>
+        <li class="list-group-item">Dapibus ac facilisis in</li>
+        <li class="list-group-item">Morbi leo risus</li>
+        <li class="list-group-item">Porta ac consectetur ac</li>
+        <li class="list-group-item">Vestibulum at eros</li>
+      </ul>
+
+      <h4><b>列表组</b>-徽章-给列表组加入徽章，它会自动地放在右面</h4>
+      <ul class="list-group">
+        <li class="list-group-item">
+          <span class="badge">14</span>
+          Cras justo odio
+        </li>
+        <li class="list-group-item">
+          <span class="badge">2</span>
+          Dapibus ac facilisis in
+        </li>
+        <li class="list-group-item">
+          <span class="badge">1</span>
+          Morbi leo risus
+        </li>
+      </ul>
+      <h4><b>列表组</b>-链接条目</h4>
+      <p>用<code>&lt;a&gt;</code>标签而不是<code>&lt;li&gt;</code>标签（也就是说父元素是<code>&lt;div&gt;</code>而不是<code>&lt;ul&gt;</code>）。没必要给每个元素都加一个父元素。</p>
+      <div class="list-group">
+        <a href="#" class="list-group-item active">Cras justo odio</a>
+        <a href="#" class="list-group-item">Dapibus ac facilisis in</a>
+        <a href="#" class="list-group-item">Morbi leo risus</a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac</a>
+        <a href="#" class="list-group-item">Vestibulum at eros</a>
+      </div>
+      <h4><b>列表组</b>-定制内容-在里面可以加几乎任何HTML，甚至是像下面的带链接的列表组</h4>
+      <div class="list-group">
+        <a href="#" class="list-group-item active">
+          <h4 class="list-group-item-heading">List group item heading</h4>
+          <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+        </a>
+        <a href="#" class="list-group-item">
+          <h4 class="list-group-item-heading">List group item heading</h4>
+          <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+        </a>
+        <a href="#" class="list-group-item">
+          <h4 class="list-group-item-heading">List group item heading</h4>
+          <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+        </a>
+      </div>
+    </div>
+
+
+    <!-- 面版 -->
+    <div class="container">
+      <h4><b>面版</b>-基本案例-<p>默认的<code>.panel</code>所做的只是提供基本的边界和内部，来包含内容。</p></h4>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          Basic panel example
+        </div>
+      </div>
+
+      <h4><b>面版</b>-带标题的面版-<p>用<code>.panel-heading</code>可以简单地加入一个标题容器。您也可以用<code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code>和<code>.panel-title</code>类加入预定义样式的标题。</p></h4>
+      <div class="panel panel-default">
+        <div class="panel-heading">Panel heading without title</div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+
+      <h4><b>面版</b>-带脚注的面版-<p>把按钮或次要的文本放入<code>.panel-footer</code>。注意面版的脚注<strong>不会</strong>从带意义的替换中继承颜色，因为它不是在前面的内容。</p></h4>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          Panel content
+        </div>
+        <div class="panel-footer">Panel footer</div>
+      </div>
+
+      <h4><b>面版</b>-有意义的替换-像其它组件一样，可以简单地通过加入有意义的状态类，给特定的内容使用更有意义的面版</h4>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+      <div class="panel panel-success">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+      <div class="panel panel-warning">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+      <div class="panel panel-danger">
+        <div class="panel-heading">
+          <h3 class="panel-title">Panel title</h3>
+        </div>
+        <div class="panel-body">
+          Panel content
+        </div>
+      </div>
+
+      <h4><b>面版</b>-带表格的面版-<p>为了无缝的设计，在面版中加入<code>.table</code>。如果有<code>.panel-body</code>，就在表格的上方加上一个用于分割的边界。</p></h4>
+      <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <div class="panel-heading">Panel heading</div>
+        <div class="panel-body">
+          <p>Some default panel content here. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        </div>
+        <!-- Table -->
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Username</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Mark</td>
+              <td>Otto</td>
+              <td>@mdo</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Jacob</td>
+              <td>Thornton</td>
+              <td>@fat</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Larry</td>
+              <td>the Bird</td>
+              <td>@twitter</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>如果没有<code>.panel-body</code>，面版标题会和表格连接起来，没有空隙。</p>
+      <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <div class="panel-heading">Panel heading</div>
+        <!-- Table -->
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Username</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Mark</td>
+              <td>Otto</td>
+              <td>@mdo</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Jacob</td>
+              <td>Thornton</td>
+              <td>@fat</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Larry</td>
+              <td>the Bird</td>
+              <td>@twitter</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h4><b>面版</b>-带列表组的面版-可以简单地在任何面版中使用最大宽度的列表组</h4>
+      <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <div class="panel-heading">Panel heading</div>
+        <div class="panel-body">
+          <p>Some default panel content here. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        </div>
+        <!-- List group -->
+        <ul class="list-group">
+          <li class="list-group-item">Cras justo odio</li>
+          <li class="list-group-item">Dapibus ac facilisis in</li>
+          <li class="list-group-item">Morbi leo risus</li>
+          <li class="list-group-item">Porta ac consectetur ac</li>
+          <li class="list-group-item">Vestibulum at eros</li>
+        </ul>
+      </div>
+
+    </div>
+
+
+
+
+
+    <!-- 进度条-基本案例 -->
+    <div class="progress">
+      <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+        <span class="sr-only">60% Complete</span>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+          <span class="sr-only">40% Complete</span>
+        </div>
+      </div>
+      <!-- 有意义的替换 -->
+      <div class="progress">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+          <span class="sr-only">40% Complete (success)</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+          <span class="sr-only">20% Complete</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+          <span class="sr-only">60% Complete (warning)</span>
+        </div>
+      </div>
+      <div class="progress">
+        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+          <span class="sr-only">80% Complete</span>
+        </div>
+      </div>
+      <!-- 条纹效果 -->
+      <div class="progress progress-striped">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+          <span class="sr-only">40% Complete (success)</span>
+        </div>
+      </div>
+      <div class="progress progress-striped">
+        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+          <span class="sr-only">20% Complete</span>
+        </div>
+      </div>
+      <div class="progress progress-striped">
+        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+          <span class="sr-only">60% Complete (warning)</span>
+        </div>
+      </div>
+      <div class="progress progress-striped">
+        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+          <span class="sr-only">80% Complete (danger)</span>
+        </div>
+      </div>
+      <!-- 运动效果 -->
+      <div class="progress progress-striped active">
+        <div class="progress-bar"  role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+          <span class="sr-only">45% Complete</span>
+        </div>
+      </div>
+      <!-- 堆叠效果: 把多个进度条放入同一个.progress，使它们堆叠 -->
+      <div class="progress">
+        <div class="progress-bar progress-bar-success" style="width: 45%">
+          <span class="sr-only">35% Complete (success)</span>
+        </div>
+        <div class="progress-bar progress-bar-warning" style="width: 20%">
+          <span class="sr-only">20% Complete (warning)</span>
+        </div>
+        <div class="progress-bar progress-bar-danger" style="width: 10%">
+          <span class="sr-only">10% Complete (danger)</span>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- 缩略图-默认案例 -->
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 col-md-3">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_P6xf_4637000001331262.jpg">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_P6xf_4637000001331262.jpg">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_P6xf_4637000001331262.jpg">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_P6xf_4637000001331262.jpg">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 col-md-4">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_lwjR_17260000101e1261.jpg">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-4">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_P6xf_4637000001331262.jpg">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-4">
+          <a href="#" class="thumbnail">
+            <img data-src="holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;" src="image/b_large_lwjR_17260000101e1261.jpg">
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- 缩略图-定制内容 -->
+    <!-- <div class="bs-example"> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="image/b_large_lwjR_17260000101e1261.jpg">
+            <div class="caption">
+              <h3>Thumbnail label</h3>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="image/b_large_lwjR_17260000101e1261.jpg">
+            <div class="caption">
+              <h3>Thumbnail label</h3>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="image/b_large_lwjR_17260000101e1261.jpg">
+            <div class="caption">
+              <h3>Thumbnail label</h3>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 警告框: alerts -->
+    <div class="container">
+      <div class="alert alert-success">
+        <strong>Well done!</strong> You successfully read this important alert message.
+      </div>
+      <div class="alert alert-info">
+        <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+      </div>
+      <div class="alert alert-warning">
+        <strong>Warning!</strong> Best check yo self, you're not looking too good.
+      </div>
+      <div class="alert alert-danger">
+        <strong>Oh snap!</strong> Change a few things up and try submitting again.
+      </div>
+      <!-- 可关闭的警告框 -->
+      <div class="alert alert-warning alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <strong>Warning!</strong> Best check yo self, you're not looking too good.
+      </div>
+    </div>
+    <!-- 警告框中的链接 -->
+    <div class="container">
+      <div class="alert alert-success">
+        <strong>Well done!</strong> You successfully read <a href="#" class="alert-link">this important alert message</a>.
+      </div>
+      <div class="alert alert-info">
+        <strong>Heads up!</strong> This <a href="#" class="alert-link">alert needs your attention</a>, but it's not super important.
+      </div>
+      <div class="alert alert-warning">
+        <strong>Warning!</strong> Best check yo self, you're <a href="#" class="alert-link">not looking too good</a>.
+      </div>
+      <div class="alert alert-danger">
+        <strong>Oh snap!</strong> <a href="#" class="alert-link">Change a few things up</a> and try submitting again.
+      </div>
+    </div>
+
+
+
+
+    <!-- 大屏幕 -->
+    <div class="jumbotron">
+      <h1>Hello, world!</h1>
+      <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+    </div>
+    <!-- 大屏幕 container在外 -->
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Hello, world!</h1>
+        <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+        <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+      </div>
+    </div>
+    <!-- 大屏幕 container在内-->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Hello, world!</h1>
+        <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+        <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <ol class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Library</a></li>
+        <li class="active">Data</li>
+      </ol>
+      <!-- 标签 -->
+      <span class="label label-default">Default</span>
+      <span class="label label-primary">Primary</span>
+      <span class="label label-success">Success</span>
+      <span class="label label-info">Info</span>
+      <span class="label label-warning">Warning</span>
+      <span class="label label-danger">Danger</span>
+
+      <!-- 徽章 -->
+      <h2>徽章</h2>
+      <ul class="nav nav-pills nav-stacked" style="max-width: 260px;">
+        <li class="active">
+          <a href="#">
+            <span class="badge pull-right">42</span>
+            Home
+          </a>
+        </li>
+        <li><a href="#">Profile</a></li>
+        <li>
+          <a href="#">
+            <span class="badge pull-right">3</span>
+            Messages
+          </a>
+        </li>
+      </ul>
+      <ul class="nav nav-pills">
+        <li class="active"><a href="#">Home <span class="badge">42</span></a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages <span class="badge">3</span></a></li>
+      </ul>
+      <button class="btn btn-primary" type="button">
+        Messages <span class="badge">4</span>
+      </button>
+
+
+
+      <!-- 分页 -->
+      <h2>分页</h2>
+      <ul class="pagination pagination-sm">
+        <li><a href="#">&laquo;</a></li>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+      </ul>
+      <ul class="pagination">
+        <li class="disabled"><a href="#">&laquo;</a></li>
+        <li class="active"><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+      </ul>
+      <ul class="pagination pagination-lg">
+        <li class="disabled"><span>&laquo;</span></li>
+        <li class="active"><span>1 <span class="sr-only">(current)</span></span></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+      </ul>
+
+      <!-- 翻页 -->
+      <h2>翻页</h2>
+      <ul class="pager">
+        <li><a href="#">Previous</a></li>
+        <li><a href="#">Next</a></li>
+      </ul>
+      <ul class="pager">
+        <li class="previous"><a href="#">&larr; Older</a></li>
+        <li class="next"><a href="#">Newer &rarr;</a></li>
+      </ul>
+      <ul class="pager">
+        <li class="previous disabled"><a href="#">&larr; Older</a></li>
+        <li class="next"><a href="#">Newer &rarr;</a></li>
+      </ul>
+
+
+      <div class="row">
+        <div class="col-xs-6"><img src="image/b_large_P6xf_4637000001331262.jpg" class="img-responsive img-thumbnail" alt="Responsive image"></div>
+        <div class="col-xs-6"><img src="image/b_large_lwjR_17260000101e1261.jpg" class="img-responsive img-circle" alt="Responsive image"></div>
+      </div>
+    </div>
+
+    <div class="container">
+      <ul class="list-inline">
+        <hr />
+        <li><span class="glyphicon glyphicon-star"></span> 因为</li>
+        <li>像我们这样的人</li>
+        <li>生来彷徨 </li><span class="glyphicon glyphicon-star"></span>
+      </ul>
+
+
+      <div class="btn-group">
+        <button type="button" class="btn btn-default">Left</button>
+        <button type="button" class="btn btn-default">Middle</button>
+        <button type="button" class="btn btn-primary">Right</button>
+      </div>
+
+      <div class="btn-group-vertical">
+        <button type="button" class="btn btn-default">Left</button>
+        <button type="button" class="btn btn-default">Middle</button>
+        <button type="button" class="btn btn-primary">Right</button>
+      </div>
+
+      <!-- btn-group-justified: only available for <a> -->
+      <div class="btn-group btn-group-justified">
+        <button type="button" class="btn btn-default">Left</button>
+        <button type="button" class="btn btn-default">Middle</button>
+        <button type="button" class="btn btn-primary">Right</button>
+      </div>
+
+      <!-- Single button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+          Action <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-warning">Action</button>
+        <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-info">Action</button>
+        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-danger btn-xs">Action</button>
+        <button type="button" class="btn btn-danger btn-xs dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-success btn-sm">Action</button>
+        <button type="button" class="btn btn-success btn-sm dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-primary btn-lg">Action</button>
+        <button type="button" class="btn btn-primary btn-lg dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-default">Action</button>
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+      <!-- Split button: dropup -->
+      <div class="btn-group dropup">
+        <button type="button" class="btn btn-primary btn-lg">Action</button>
+        <button type="button" class="btn btn-primary btn-lg dropdown-toggle" data-toggle="dropdown">
+          <span class="caret"></span>
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+      </div>
+
+      <!-- 输入框组 -->
+      <div class="input-group">
+        <span class="input-group-addon">@</span>
+        <input type="text" class="form-control" placeholder="Username">
+      </div>
+      <div class="input-group input-group-lg">
+        <input type="text" class="form-control">
+        <span class="input-group-addon">.00</span>
+      </div>
+      <div class="input-group input-group-sm">
+        <span class="input-group-addon">$</span>
+        <input type="text" class="form-control">
+        <span class="input-group-addon">.00</span>
+      </div>
+      <div class="input-group input-group-xs">
+        <span class="input-group-addon">$</span>
+        <input type="text" class="form-control" placeholder="Evilhex">
+        <span class="input-group-addon">.00</span>
+      </div>
+
+      <!-- 复选框与单选框 -->
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="input-group">
+            <span class="input-group-addon">
+              <input type="checkbox">
+            </span>
+            <input type="text" class="form-control">
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+        <div class="col-lg-6">
+          <div class="input-group">
+            <span class="input-group-addon">
+              <input type="radio">
+            </span>
+            <input type="text" class="form-control">
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+      </div><!-- /.row -->
+
+      <!-- 附加按钮 -->
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="input-group">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="button">Go!</button>
+            </span>
+            <input type="text" class="form-control">
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+        <div class="col-lg-6">
+          <div class="input-group">
+            <input type="text" class="form-control">
+            <span class="input-group-btn">
+              <button class="btn btn-primary" type="button">Go!</button>
+            </span>
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+      </div><!-- /.row -->
+
+      <!-- 带下拉菜单的按钮 -->
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="input-group">
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Action <span class="caret"></span></button>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </div><!-- /btn-group -->
+            <input type="text" class="form-control">
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+        <div class="col-lg-6">
+          <div class="input-group">
+            <input type="text" class="form-control">
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Action <span class="caret"></span></button>
+              <ul class="dropdown-menu pull-right">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </div><!-- /btn-group -->
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+      </div><!-- /.row -->
+
+      <!-- 分段按钮 -->
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="input-group">
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-primary" tabindex="-1">Action</button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" tabindex="-1">
+                <span class="caret"></span>
+                <span class="sr-only">Toggle Dropdown</span>
+              </button>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </div>
+            <input type="text" class="form-control">
+          </div><!-- /.input-group -->
+        </div><!-- /.col-lg-6 -->
+        <div class="col-lg-6">
+          <div class="input-group">
+            <input type="text" class="form-control">
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-default" tabindex="-1">Action</button>
+              <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" tabindex="-1">
+                <span class="caret"></span>
+                <span class="sr-only">Toggle Dropdown</span>
+              </button>
+              <ul class="dropdown-menu pull-right" role="menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </div>
+          </div><!-- /.input-group -->
+        </div><!-- /.col-lg-6 -->
+      </div>
+
+      <hr />
+      <h2>标签页</h2>
+      <!-- 标签页 -->
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages</a></li>
+      </ul>
+      <ul class="nav nav-tabs nav-justified">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages</a></li>
+      </ul>
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            Dropdown <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Messages</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <h2>胶囊式标签页</h2>
+      <!-- 胶囊式标签页 -->
+      <ul class="nav nav-pills">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages</a></li>
+      </ul>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="#">Messages</a></li>
+      </ul>
+      <ul class="nav nav-pills nav-justified">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+        <li class="disabled"><a href="#">Messages</a></li>
+      </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <hr />
+
+      <div class="btn-toolbar" role="toolbar">
+        <div class="btn-group">
+          <button type="button" class="btn btn-default">Left</button>
+          <button type="button" class="btn btn-default">Middle1</button>
+          <button type="button" class="btn btn-default">Middle2</button>
+          <button type="button" class="btn btn-primary">Right</button>
+        </div>
+        <div class="btn-group btn-group-lg">
+          <button type="button" class="btn btn-default">Left</button>
+          <button type="button" class="btn btn-default">Middle</button>
+          <button type="button" class="btn btn-primary">Right</button>
+        </div>
+        <div class="btn-group btn-group-sm">
+          <button type="button" class="btn btn-default">Left</button>
+          <button type="button" class="btn btn-default">Middle</button>
+          <button type="button" class="btn btn-primary">Right</button>
+        </div>
+        <div class="btn-group btn-group-xs">
+          <button type="button" class="btn btn-default">Left</button>
+          <button type="button" class="btn btn-default">Middle</button>
+          <button type="button" class="btn btn-primary">Right</button>
+        </div>
+      </div>
+
+
+      <div class="btn-group btn-group-lg">
+        <button type="button" class="btn btn-primary">1</button>
+        <button type="button" class="btn btn-default">2</button>
+
+        <div class="btn-group">
+          <button type="button" class="btn btn-lg dropdown-toggle" data-toggle="dropdown">
+            Dropdown
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a href="#">Dropdown link</a></li>
+            <li><a href="#">Dropdown link</a></li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="btn-group">
+        <button type="button" class="btn btn-primary">1</button>
+        <button type="button" class="btn btn-default">2</button>
+
+        <div class="btn-group">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            Dropdown
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a href="#">Dropdown link</a></li>
+            <li><a href="#">Dropdown link</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <dl>
+        <dt><span class="glyphicon glyphicon-music"></span> 董小姐</dt>
+        <dd>你从没忘记你的微笑</dd>
+        <dt>就算你和我一样</dt>
+        <dd>渴望着衰老</dd>
+        <dt>董小姐</dt>
+        <dd>你嘴角向下的时候很美 就像安和桥下 清澈的水</dd>
+      </dl>
+
+      <hr />
+
+      <dl class="dl-horizontal">
+        <dt><span class="glyphicon glyphicon-play"></span> 董小姐</dt>
+        <dd>你从没忘记你的微笑</dd>
+        <dt>就算你和我一样</dt>
+        <dd>渴望着衰老</dd>
+        <dt><span class="glyphicon glyphicon-random"></span> 董小姐</dt>
+        <dd>你嘴角向下的时候很美 就像安和桥下 清澈的水</dd>
+      </dl>
+    </div>
+
+
+
+
+    <!-- 大屏幕 -->
+    <div class="container">
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Navbar example</h1>
+        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
+        <p>To see the difference between static and fixed top navbars, just scroll.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+        </p>
+      </div>
+    </div> <!-- /container -->
+
+
+
+    <!-- 2 列图片 -->
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6"><img src="image/b_large_P6xf_4637000001331262.jpg" class="img-responsive" alt="Responsive image"></div>
+        <div class="col-xs-6"><img src="image/b_large_lwjR_17260000101e1261.jpg" class="img-responsive img-rounded" alt="Responsive image"></div>
+      </div>
+    </div>
+
+
+
+
+
+
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+      <!-- Begin page content -->
+      <div class="container">
+        <div class="page-header">
+          <h1>Sticky footer</h1>
+        </div>
+        <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.</p>
+        <p>Use <a href="../sticky-footer-navbar">the sticky footer with a fixed navbar</a> if need be, too.</p>
+      </div>
+    </div>
+
+
+<!--     <div class="container">
+    </div> -->
+    <div class="container">
+      <div class="row">
+          <div class="col-md-9">
+            Level 1: .col-md-9
+            <div class="row">
+              <div class="col-md-6">Level 2: .col-md-6</div>
+              <div class="col-md-6">Level 2: .col-md-6</div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
+    <!-- head & small -->
+    <div class="container">
+        <h1>h1. Bootstrap heading <small>Secondary text</small></h1>
+        <h2>h2. Bootstrap heading <small>Secondary text</small></h2>
+        <h3>h3. Bootstrap heading <small>Secondary text</small></h3>
+        <h4>h4. Bootstrap heading <small>Secondary text</small></h4>
+        <h5>h5. Bootstrap heading <small>Secondary text</small></h5>
+        <h6>h6. Bootstrap heading <small>Secondary text</small></h6>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted credit"><a href="contact">Contact</a> | <a href="career">Career</a> | <a href="./">imajing</a> &copy; 2013-2014
+        <span class="separator">|</span>
+
+        <!-- Design <span class="glyphicon glyphicon-heart"></span>  Coding by <a href="http://weibo.com/1834092432/profile?topnav=1&wvr=5&user=1" target="__blank">@m4jing</a> -->
+        <span class="glyphicon glyphicon-heart"></span> <a href="http://weibo.com/1834092432/profile?topnav=1&wvr=5&user=1" target="__blank">@m4jing</a>
+        </p>
+      </div>
+    </div>
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- <script src="js/jquery-1.10.2.min.js"></script> -->
+    <script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- <script src="js/bootstrap.min.js"></script> -->
+    <!-- Hi，如果你要在自己的网站上引入bootstrap JS文件的话，请使用当前最新版本v3.0.3的CDN链接，页面加载速度会更快！
+<script src="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script> -->
+    <script src="http://cdn.bootcss.com/twitter-bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <!-- // <script src="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script> -->
+    <!-- From view-source:http://v3.bootcss.com/javascript/ -->
+    <!-- <script src="http://cdn.bootcss.com/holder/2.0/holder.min.js"></script> -->
+    <!-- <script src="http://cdn.bootcss.com/highlight.js/7.3/highlight.min.js"></script> -->
+    <!-- <script >hljs.initHighlightingOnLoad();</script> -->
+  </body>
 </html>
+
