@@ -1,5 +1,5 @@
 # m4jing.github.io
-m4jing's Web-space
+m4jing's Web-space - articles and experiments
 
 
 ## License
