@@ -3,15 +3,120 @@ layout: default
 title: Home
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
+<div id="profile" class="container">
+  <div class="jumbotron">
+    <h1 title="特别能吃苦，特别能战斗">Hello, world! <small>[博观而约取，厚积而薄发]</small></h1>
+    <div class="row">
+      <div id="word" class="col-xs-12 col-sm-8 col-md-8">
+        <pre class="center-block">
+  跑跑步，听听歌，看看书。
+  上过学，打过工，创过业。
+  工作时专注，闲暇时放松，奔跑时自由。
+  对家人宽容，与朋友真诚，跟自己死磕。
+  健康无价，真情可贵；
+  感恩的心，感谢有你。
+
+  当我们行走，我们要努力与世界相处；
+  当我们盛放，我们要努力与自己相处。
+
+  曾经在幽幽暗暗反反复复中追问，
+  才知道平平淡淡从从容容才是真。
+
+  心中那自由的世界，如此的清澈、高远。
+  打开自己的那扇门，才能迎接美好的风景。
+        </pre>
+      </div>
+      <div id="avatar" class="col-sm-4 col-md-4 hidden-xs">
+          <img src="/images/13-14-km.jpg" class="img-responsive img-circle" alt="13-14-km">
+          <p class="center-meta">2015-2-14 13:14<br />
+            13.14km @5m20s</p>
+      </div>
+    </div> <!-- div .row -->
+    <p><a href="/about" class="btn btn-primary btn-lg" role="button">More Information</a></p>
+  </div> <!-- div .jumbotron -->
+</div> <!-- div .container #profile -->
+
+<div id="projects" class="container">
+  <div class="row">
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3"> -->
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4"> -->
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <!-- <img data-src="holder.js/300x300" class="img-responsive img-circle" alt="13-14-km" style="width: 300px; height: 300px;" src="/images/13-14-km.jpg"> -->
+        <img data-src="holder.js/300x300" class="img-responsive" alt="13.14-km" style="width: 300px; height: 300px;" src="/images/13-14-km.jpg">
+        <div class="caption">
+          <h3><span class="glyphicon glyphicon-signal"></span> Just keep running</h3>
+          <p>偶然的机会，开始接触跑步。然后遇到了一些人。于是，开启了人生的一段新的旅程。这真是一个神奇的故事。<br />
+            很多事情并没有想象中的那么困难。<br />
+            跑步，也不仅仅是跑步。</p>
+          <p><a href="/why-i-run" title="何时开始跑步，又为什么跑步？" class="btn btn-primary" role="button">Why-I-Run</a> <a href="/run" title="更多关于跑步、健身的文章们" class="btn btn-default" role="button">More</a></p>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3"> -->
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4"> -->
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <img data-src="holder.js/300x300" alt="data+design-cover" style="width: 300px; height: 300px;" src="/images/data+design-cover.png">
+        <div class="caption">
+          <h3><span class="glyphicon glyphicon-book"></span> 《Data + Design》</h3>
+          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+          <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3"> -->
+    <!-- <div class="col-xs-6 col-sm-6 col-md-4"> -->
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <img data-src="holder.js/300x300" alt="interactive-py-course-cover" style="width: 300px; height: 300px;" src="/images/interactive-py-course-cover.png">
+        <div class="caption">
+          <h3><span class="glyphicon glyphicon-search"></span> [Interactive Python]</h3>
+          <p>A course on
+            <a href="https://www.coursera.org/" target="__blank" title="Coursera - Free Online Courses From Top Universities.">Coursera</a>:
+            <a href="https://www.coursera.org/course/interactivepython1" target="__blank" title="An Introduction to Interactive Programming in Python">An Introduction to Interactive Programming in Python</a>
+            , designed to be a fun introduction to the basics of programming in Python.</p>
+          <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> <!-- div .container #projects -->
+
+<div id="home" class="container">
+  <h1>Latest Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+</div> <!-- div .container #home -->
+
+<div id="tag-data" class="container">
+  <h1>Tag::Data</h1>
+  <ul class="posts">
+    {% for post in site.tags.data %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div> <!-- div .container #tag-data -->
+
+<div id="links" class="container">
+  <h1>Useful Links</h1>
+  <a href="http://www.google.com" target="__blank">Google</a>
+  <a href="www.google.com">谷歌</a>
+  <a href="www.google.com">Google</a>
+</div> <!-- div .container #links -->
+
+<!--
+From tomorrow on,
+Write to each of my dear ones,
+Telling them of my happiness what the
+lightening of happiness has told me.
+I will spread it to each of them.
+__ Hai Zi (1964-1989)
+-->
+<!-- Nike教练的话：累吗？这个累还是跑5km累？ -->
 
 
 
-
-</div>

@@ -1,11 +1,23 @@
 ---
 layout: default
 ---
-<div id="post">
-{{ content }}
+<div id="post" class="container">
+    {{ content }}
 </div>
 
-<div id="related">
+<div id="tags" class="container">
+<!--
+Word_Num: {{ page.content | number_of_words }}
+{{ page.tags | array_to_sentence_string }}
+{{ page.tags }}
+-->
+Tags
+{% for tag in page.tags %}
+  <span class="label label-primary">{{ tag }}</span>
+{% endfor %}
+</div>
+
+<div id="related" class="container">
   <h2>Related Posts</h2>
   <ul class="posts">
     {% for post in site.related_posts limit:3 %}
