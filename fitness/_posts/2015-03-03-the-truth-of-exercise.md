@@ -1,29 +1,21 @@
 ---
 layout: post
-title: 中文博客内容测试
-categories: chinese
-tags: data program
-excerpt: 这是整个站点的第一篇中文博客。看看效果如何。
+title: 锻炼的真相
+<!-- category: fitness -->
+tags: running fitness
+excerpt: 锻炼的真相是什么？我们应该如何保持健康、追求健美？
 blog_class: active
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">2015-02-10T17:48:23+08:00 - 北京</p>
+<p class="meta">2015-01-03T08:00:00+08:00 - 北京, 晴 @m4jing</p>
 
-这是整个站点的第一篇中文博客。看看效果[如何]({{ page.url }})。
+2014年北京马拉松，也是人生中第一个马拉松赛。男子全程：42.195公里。
+直到比赛当天去天安门广场的路上，还一直忐忑到底能不能跑完……[如何]({{ page.url }})。
 
 第14章 [我只给自己一个假期]({{ site.url }})
-
-<div class="container">
-  <div style="position:relative; color:white;">
-    <img src="/images/13-14-km.jpg" alt="13.14-km.jpg">
-    <!-- <span style="position:absolute; bottom:-5px; left:0; line-height:1.5; width:260px; background-color:rgba(0,0,0,0.5);">文字文字文字文字</span> -->
-    <span style="position:absolute; bottom:20px; left:20%; line-height:1.5; width:360px; background-color:rgba(0,0,0,0.5);">Just keep running.</span>
-
-  </div>
-</div>
 
 ![13.14 Kilometers](/images/13-14-km.jpg)
 
