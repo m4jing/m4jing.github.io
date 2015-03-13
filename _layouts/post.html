@@ -13,7 +13,7 @@ Word_Num: {{ page.content | number_of_words }}
 {{ page.tags }}
 -->
 {% if page.tags.size != 0 %}
-[Tags]
+<span class="glyphicon glyphicon-tags" style="margin-right:5px;"></span>
 {% for tag in page.tags %}
   <span class="label label-primary">{{ tag }}</span>
 {% endfor %}
