@@ -16,18 +16,19 @@ blog_class: active
 
 第14章 [我只给自己一个假期]({{ site.url }})
 
-<div class="container">
+<!-- <div class="container"> -->
   <div style="position:relative; color:white;">
     <img src="/images/13-14-km.jpg" alt="13.14-km.jpg">
     <!-- <span style="position:absolute; bottom:-5px; left:0; line-height:1.5; width:260px; background-color:rgba(0,0,0,0.5);">文字文字文字文字</span> -->
-    <span style="position:absolute; bottom:20px; left:20%; line-height:1.5; width:360px; background-color:rgba(0,0,0,0.5);">Just keep running.</span>
+    <span style="position:absolute; bottom:30px; left:20%; line-height:1.5; width:130px; background-color:rgba(0,0,0,0.5);">Just keep running.</span>
 
   </div>
-</div>
-
+<!-- </div> -->
+<br />
 ![13.14 Kilometers](/images/13-14-km.jpg)
 
 <img src="/images/13-14-km.jpg" alt="13.14 Kilometers" />
+
 <img src="/images/13-14-km.jpg" class="img-responsive" alt="13.14 Kilometers" />
 <img src="/images/13-14-km.jpg" class="img-responsive img-thumbnail" alt="13.14 Kilometers" />
 <img src="/images/13-14-km.jpg" class="img-responsive img-circle img-thumbnail" alt="13.14 Kilometers" />
