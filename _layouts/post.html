@@ -4,7 +4,7 @@ layout: default
 
 <div id="post" class="container">
     {{ content }}
-</div>
+<!-- </div> -->
 
 <div id="tags" class="container">
 <!--
@@ -18,6 +18,10 @@ Word_Num: {{ page.content | number_of_words }}
   <span class="label label-primary">{{ tag }}</span>
 {% endfor %}
 {% endif %}
+<span style="margin-left:5px;">
+    本文地址：<a href="{{ page.url }}">{{ site.myhost }}{{ page.url }}</a>
+</span>
+</div>
 </div>
 
 <div id="more" class="container">

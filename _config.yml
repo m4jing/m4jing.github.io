@@ -3,3 +3,4 @@ highlighter: pygments
 # permalink: /:categories/:year-:month-:day/:title
 # permalink: pretty
 permalink: /:categories/:title
+myhost: http://www.imajing.com.cn
