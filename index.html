@@ -35,7 +35,7 @@ title: Home
     </div> <!-- div .row -->
     <p><a href="/about" class="btn btn-primary btn-lg" role="button"><span class="glyphicon glyphicon-music"></span> More Information</a></p>
   </div> <!-- div .jumbotron -->
-</div> <!-- div .container #profile -->
+</div> <!-- #profile -->
 
 <div id="projects" class="container">
   <div class="row">
@@ -61,8 +61,14 @@ title: Home
         <img data-src="holder.js/300x300" alt="data+design-cover" style="width: 300px; height: 300px;" src="/images/data+design-cover.png">
         <div class="caption">
           <h3><span class="glyphicon glyphicon-book"></span> 《Data + Design》</h3>
-          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-          <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+          <p>Information design is about understanding data. <a href="https://infoactive.co/data-design" target="__blank">This book</a> is a simple introduction to preparing and visualizing information.
+          </p>
+          <p><a href="http://dataunion.org/" target="__blank" title="数盟 - 数据科学家联盟">数盟</a> - <a href="http://dataunion.org/book/datadesign/acknowledgments01.html" target="__blank">翻译组成员</a>。<a href="http://dataunion.org/book/datadesign/" target="__blank">《数据 + 设计》</a>本书部分章节翻译+校对
+          </p>
+          <p>
+            <a href="https://infoactive.co/data-design" title="《Data + Design》" class="btn btn-primary" role="button" target="__blank">En-infoactive</a>
+            <a href="http://dataunion.org/book/datadesign/" title="《数据 + 设计》" class="btn btn-default" role="button" target="__blank">中文-数盟</a>
+          </p>
         </div>
       </div>
     </div>
@@ -74,15 +80,22 @@ title: Home
         <div class="caption">
           <h3><span class="glyphicon glyphicon-search"></span> [Interactive Python]</h3>
           <p>A course on
-            <a href="https://www.coursera.org/" target="__blank" title="Coursera - Free Online Courses From Top Universities.">Coursera</a>:
+            <a href="https://www.coursera.org/" target="__blank" title="Coursera - Free Online Courses From Top Universities.">Coursera</a>:<br />
             <a href="https://www.coursera.org/course/interactivepython1" target="__blank" title="An Introduction to Interactive Programming in Python">An Introduction to Interactive Programming in Python</a>
-            , designed to be a fun introduction to the basics of programming in Python.</p>
-          <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+            , designed to be a fun introduction to the basics of programming in
+            <a href="https://www.python.org/" target="__blank" title="Python programming language">Python</a>.
+          </p>
+          <p><a href="http://www.guokr.com/" target="__blank" title="果壳网 科技有意思">果壳网</a> - <a href="http://mooc.guokr.com/" target="__blank" title="MOOC学院 果壳网旗下慕课学习社区">MOOC学院</a> - <a href="http://www.guokr.com/blog/762401/" target="__blank" title="果壳 Python 字幕组翻译证书">翻译组成员</a>。此 Coursera 课程英文字幕翻译+校对
+          </p>
+          <p>
+            <a href="https://www.coursera.org/course/interactivepython1" target="__blank" title="An Introduction to Interactive Programming in Python" class="btn btn-primary" role="button">Coursera</a>
+            <a href="http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-Python%EF%BC%88part-1%EF%BC%89/" target="__blank" title="Python交互式编程导论" class="btn btn-default" role="button">MOOC学院(果壳)</a>
+          </p>
         </div>
       </div>
     </div>
   </div>
-</div> <!-- div .container #projects -->
+</div> <!-- #projects -->
 
 <div id="home" class="container">
   <h1>Latest Posts</h1>
@@ -91,7 +104,7 @@ title: Home
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div> <!-- div .container #home -->
+</div> <!-- #home -->
 
 <div id="tag-data" class="container">
   <h1>Tag::Data</h1>
@@ -100,13 +113,13 @@ title: Home
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div> <!-- div .container #tag-data -->
+</div> <!-- #tag-data -->
 
 <div id="links" class="container">
   <h1>Useful Links</h1>
-  <a href="http://www.google.com" target="__blank">Google</a>
-  <a href="http://www.buaa.edu.cn" target="__blank">BUAA</a>
-</div> <!-- div .container #links -->
+  <a href="http://www.buaa.edu.cn" target="__blank" title="五道口计算机学院">BUAA</a>
+  <a href="http://www.google.com" target="__blank" title="谷歌">Google</a>
+</div> <!-- #links -->
 
 <!--
 From tomorrow on,
