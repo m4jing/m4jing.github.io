@@ -4,7 +4,6 @@ layout: default
 
 <div id="post" class="container">
     {{ content }}
-<!-- </div> -->
 
 <div id="tags" class="container">
 <!--
@@ -31,8 +30,8 @@ Word_Num: {{ page.content | number_of_words }}
 <div>
 本文地址：<a href="{{ page.url }}">{{ site.myhost }}{{ page.url }}</a>
 </div>
-</div> <!-- #tags -->
 
+</div> <!-- #tags -->
 </div> <!-- #post -->
 
 <div id="more" class="container">
@@ -47,13 +46,19 @@ Word_Num: {{ page.content | number_of_words }}
 <script>
 window._bd_share_config = {
     "common": {
-        "bdSnsKey": {},
+        // "bdSnsKey": {},
+        "bdSnsKey": {"tsina":"m4jing"},
         "bdText": "",
+        "review":"normal",
+        // added "review" 2015-03-16T15:26:48+08:00
         "bdMini": "2",
         "bdMiniList": false,
         "bdPic": "",
         "bdStyle": "1",
-        "bdSize": "16"
+        // "bdSize": "16"
+        "bdSize": "16",
+        // "wbuid": "m4jing"
+        "wbuid": "1834092432"
     },
     "share": {}
 };
