@@ -91,6 +91,25 @@ img {
   margin-left: 10px;
 }
 
+/* Posts */
+#post h1 {
+  font-size: 28px;
+}
+
+#post h2 {
+  font-size: 22px;
+}
+
+#post h3 {
+  font-size: 20px;
+}
+
+#more h2 {
+  font-size: 22px;
+}
+
+
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
