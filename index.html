@@ -100,25 +100,31 @@ title: Home
   </div>
 </div> <!-- #projects -->
 
-<div id="home" class="container">
-  <h1>Latest Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div> <!-- #home -->
+<div class="container">
+  <div class="row">
+    <div id="home" class="col-xs-12 col-sm-6 col-md-6">
+    <!-- <div id="home" class="container"> -->
+      <h1>Latest Posts</h1>
+      <ul class="posts">
+        {% for post in site.posts limit:5 %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div> <!-- #home -->
 
-<div id="tag-data" class="container">
-  <h1>Tag::Data</h1>
-  <ul class="posts">
-    {% for post in site.tags.data %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div> <!-- #tag-data -->
+    <div id="tag-data" class="col-xs-12 col-sm-6 col-md-6">
+    <!-- <div id="tag-data" class="container"> -->
+      <h1>Tag::Data</h1>
+      <ul class="posts">
+        {% for post in site.tags.data %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div> <!-- #tag-data -->
+  </div>
+</div>
 
-<div id="links" class="container">
+<div id="links" class="container" style="margin-bottom:6px;">
   <h1>#Links</h1>
   <a href="http://www.buaa.edu.cn" target="__blank" title="五道口计算机学院">BUAA</a>
   <a href="http://www.google.com.hk" target="__blank" title="谷歌">Google</a>

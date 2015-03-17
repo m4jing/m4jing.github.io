@@ -12,25 +12,41 @@ blog_class: active
 
 <p class="meta">2015-01-03T08:00:00+08:00 - 北京, 晴 @m4jing</p>
 
-## 了解自己，知道自己当前的身体状况
+## 了解自己，知道自己当前的*身体状况*
 问问自己：
-- 每天的运动量够了吗？
-- 生活方式是否足够健康？
-- 有没有定期的进行体育项目？
-- 体重超标了吗？
 
+* 每天的运动量够了吗？
+* 生活方式是否足够健康？
+* 有没有定期的进行体育项目？
+* 体重超标了吗？
 
-### 什么时候健身最佳？什么时候跑步更有好处？
-我的答案是：Whenever you are ready is OK. 也就是说，任何时候，只要你想训练，那就做好准备 && 开始。真理永远是很简单的：当你穿上跑鞋，迈出家门，就已经成功了一大半了。当你犹豫的时候，时间过得飞快！
+#### Hello
+##### Hello
+###### Hello
 
-# 身体是最好的答案
+1. 每天的运动量够了吗？
+2. 生活方式是否足够健康？
+3. 有没有定期的进行体育项目？
+4. 体重超标了吗？
+
+### 什么时候健身最佳？什么时候**跑步**更有好处？
+我的答案是：
+
+>**Whenever you are ready is OK.**
+>>也就是说，任何时候，只要你想训练，那就做好准备 && 开始。真理永远是很简单的：当你穿上跑鞋，迈出家门，就已经成功了一大半了。当你犹豫的时候，时间过得飞快！
+
+***身体***是最好的答案
+--------------
+
 你的训练内容、训练量的大小是否适合自己？训练中，随时关注自身的变化和反应，那是最直接的反馈。当你跑太快时，你会心率猛增、气息急促、口发干
+
+***
 
 第14章 [我只给自己一个假期]({{ site.url }})
 
-![13.14 Kilometers](/images/13-14-km.jpg)
+<!-- ![13.14 Kilometers](/images/13-14-km.jpg) -->
 
-<img src="/images/13-14-km.jpg" alt="13.14 Kilometers" />
+<!-- <img src="/images/13-14-km.jpg" alt="13.14 Kilometers" /> -->
 <img src="/images/13-14-km.jpg" class="img-responsive" alt="13.14 Kilometers" />
 <img src="/images/13-14-km.jpg" class="img-responsive img-thumbnail" alt="13.14 Kilometers" />
 <img src="/images/13-14-km.jpg" class="img-responsive img-circle img-thumbnail" alt="13.14 Kilometers" />
