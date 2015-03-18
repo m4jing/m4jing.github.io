@@ -2,7 +2,7 @@
 layout: post
 title: Markdown 简介 (XBeta Wiki)
 category: tool
-tags: markdown program tool
+tags: markdown program tool translation
 excerpt: Markdown 简介 (XBeta Wiki)
 blog_class: active
 ---

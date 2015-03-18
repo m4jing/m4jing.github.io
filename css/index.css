@@ -6,8 +6,6 @@
 body {
   padding-top: 60px;
 }
-
-
 /* 2.Sticky footer styles  */
 /*http://v3.bootcss.com/examples/sticky-footer/sticky-footer.css */
 html,
@@ -15,7 +13,6 @@ body {
   height: 100%;
   /* The html and body elements cannot have any padding or margin. */
 }
-
 img {
   position: relative;
   display:block;
@@ -26,7 +23,6 @@ img {
 blockquote p {
   font-size: 14.0px;
 }
-
 /* Set the fixed height of the footer here */
 #footer {
   height: 40px;
@@ -43,7 +39,6 @@ blockquote p {
   margin: 10px 0;
 }
 
-
 /*modify bootstrap.css p5227 for component [jumbotron] */
 .jumbotron {
   margin-bottom: 20px;
@@ -51,31 +46,21 @@ blockquote p {
 }
 
 /* Home */
-#home h1 {
+.container .row h1 {
   font-size: 1.5em;
 }
-
 #profile small {
   font-size: 36%;
 }
-/*#profile h1 {
-  font-size: 200%;
-}*/
 
-#profile #avatar {
-  /*background-image: /images/13-14-km.jpg;*/
-  /*background: url(/images/13-14-km.jpg) right -1px no-repeat;*/
-  /*background: url(/images/13-14-km.jpg) 100% 10% no-repeat;
+/*background: url(/images/13-14-km.jpg) right -1px no-repeat;*/
+/*#profile #avatar {
+  background: url(/images/13-14-km.jpg) 100% 10% no-repeat;
   max-height: 300px;
   min-height: 200px;
   max-width: 300px;
-  min-width: 200px;*/
-}
-
-/* Tag-data */
-#tag-data h1 {
-  font-size: 1.5em;
-}
+  min-width: 200px;
+}*/
 
 /* Links */
 #links h1 {
@@ -86,11 +71,9 @@ blockquote p {
 #blog h1 {
   font-size: 1.5em;
 }
-
 #blog small{
   margin-left: 10px;
 }
-
 #blog h1 span{
   margin-left: 10px;
 }
@@ -99,42 +82,32 @@ blockquote p {
 #post h1 {
   font-size: 28px;
 }
-
 #post h2 {
   font-size: 24px;
 }
-
 #post h3 {
   font-size: 22px;
 }
-
 #post h4 {
   font-size: 20px;
 }
-
 #post h5 {
   font-size: 18px;
 }
-
 #post h6 {
   font-size: 16px;
 }
-
 #more h2 {
   font-size: 22px;
 }
-
-
 
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
-
 ul.posts li {
   line-height: 1.5em;
 }
-
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;

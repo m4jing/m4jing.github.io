@@ -111,9 +111,23 @@ title: Home
         {% endfor %}
       </ul>
     </div> <!-- #home -->
-
+    <div id="tag-collection" class="col-xs-12 col-sm-6 col-md-6">
+      <h1>Tag::Collection</h1>
+      <ul class="posts">
+        {% for post in site.tags.collection %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div> <!-- #tag-collection -->
+    <div id="tag-translation" class="col-xs-12 col-sm-6 col-md-6">
+      <h1>Tag::Translation</h1>
+      <ul class="posts">
+        {% for post in site.tags.translation %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div> <!-- #tag-translation -->
     <div id="tag-data" class="col-xs-12 col-sm-6 col-md-6">
-    <!-- <div id="tag-data" class="container"> -->
       <h1>Tag::Data</h1>
       <ul class="posts">
         {% for post in site.tags.data %}
@@ -152,6 +166,13 @@ __ Hai Zi (1964-1989)
 sublime text 2:
 Ctrl+Shift+P - install - search: html/tag
 Ctrl+Shift+P - remove - find+highlight + Enter
+Preferences - System-More - Syntax Specific-User:
+  add the following line to make Markdown work better:
+  {
+      "trim_trailing_white_space_on_save": false
+  }
+  /home/m4jing/.config/sublime-text-2/Packages/User/Markdown.sublime-settings
+
  -->
 
 
