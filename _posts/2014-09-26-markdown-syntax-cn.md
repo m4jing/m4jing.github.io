@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown 语法 (简体中文)
+title: Markdown 语法
 category: tool
 tags: markdown program tool translation
 excerpt: Markdown 语法 (简体中文)

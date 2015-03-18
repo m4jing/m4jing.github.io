@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown 简介 (XBeta Wiki)
+title: Markdown 简介(XBeta)
 category: tool
 tags: markdown program tool translation
 excerpt: Markdown 简介 (XBeta Wiki)
