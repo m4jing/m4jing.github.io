@@ -8,6 +8,10 @@ body {
   min-height: 100%;
   font-family: ".SFNSText-Regular", "Helvetica Neue", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "sans-serif";
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: ".SFNSText-Regular", "Helvetica Neue", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "sans-serif";
+}
 /* 2.Sticky footer styles  */
 /*http://v3.bootcss.com/examples/sticky-footer/sticky-footer.css */
 html,
