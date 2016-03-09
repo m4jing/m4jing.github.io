@@ -5,6 +5,8 @@
 }*/
 body {
   padding-top: 60px;
+  min-height: 100%;
+  font-family: ".SFNSText-Regular", "Helvetica Neue", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "sans-serif";
 }
 /* 2.Sticky footer styles  */
 /*http://v3.bootcss.com/examples/sticky-footer/sticky-footer.css */
@@ -28,7 +30,7 @@ blockquote p {
   height: 40px;
   background-color: #f5f5f5;
 }
-/* Custom page CSS  */
+
 /* Not required for template or sticky footer method. */
 .container {
   width: auto;
@@ -51,6 +53,19 @@ blockquote p {
 }
 #profile small {
   font-size: 36%;
+  text-align: center;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-block;
+}
+#profile h1 {
+  font-size: 30px;
+  /*margin-bottom: 20px;*/
+}
+#word {
+  padding: 0;
 }
 
 /*background: url(/images/13-14-km.jpg) right -1px no-repeat;*/

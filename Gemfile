@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 gem 'github-pages'
-gem 'execjs' 
+gem 'execjs'
 gem 'therubyracer'
-
+gem 'pygments.rb'
