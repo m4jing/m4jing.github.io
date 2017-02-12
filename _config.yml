@@ -1,10 +1,13 @@
 # markdown: kramdown
 # markdown: rdiscount
-highlighter: pygments
+# highlighter: pygments
+highlighter: rouge
 # permalink: /:categories/:year-:month-:day/:title
 # permalink: pretty
 permalink: /:categories/:title
 myhost: http://www.imajing.com.cn
+name: m4jing's WebSpace
+description: m4jing's adventures
 gems:
   - jekyll-feed
 feed:
