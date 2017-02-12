@@ -2,7 +2,7 @@
 layout: post
 title: 2014年北京马拉松(首马)
 <!-- permalink: 2014bjmarathon -->
-<!-- category: run -->
+category: blog
 tags: running fitness
 <!-- date: 2009-11-11 -->
 excerpt: 2014年北京马拉松，也是人生中第 1 个马拉松赛。男子全程：42.195公里。直到比赛当天去天安门广场的路上，还一直忐忑到底能不能跑完……

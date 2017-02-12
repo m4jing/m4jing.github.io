@@ -32,17 +32,32 @@ blockquote p {
 /* Set the fixed height of the footer here */
 #footer {
   height: 40px;
+  line-height: 40px;
   background-color: #f5f5f5;
+}
+#footer p {
+  margin: auto;
 }
 
 /* Not required for template or sticky footer method. */
 .container {
   width: auto;
-  max-width: 1000px;
+  max-width: 90%;
   padding: 0 15px;
 }
-.credit {
-  margin: 10px 0;
+.container2 {
+  width: auto;
+  /*max-width: 90%;*/
+  padding: 0 15px;
+}
+.active a {
+  height: 52px;
+}
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
 }
 
 /*modify bootstrap.css p5227 for component [jumbotron] */
@@ -56,7 +71,7 @@ blockquote p {
   font-size: 1.5em;
 }
 #profile small {
-  font-size: 36%;
+  font-size: 40%;
   text-align: center;
   overflow: hidden;
   vertical-align: middle;
@@ -66,7 +81,8 @@ blockquote p {
 }
 #profile h1 {
   font-size: 30px;
-  /*margin-bottom: 20px;*/
+  margin-bottom: 16px;
+  text-align: center;
 }
 #word {
   padding: 0;
@@ -142,10 +158,3 @@ ul.posts span {
   color: #aaa;
   text-align: center;
 }
-
-
-
-
-
-
-
