@@ -59,6 +59,14 @@ blockquote p {
   margin-left: auto;
   text-align: center;
 }
+pre {
+  border: initial;
+  border-radius: 5px;
+  /*padding: 6px;*/
+}
+pre.center {
+  border: inset;
+}
 
 /*modify bootstrap.css p5227 for component [jumbotron] */
 .jumbotron {

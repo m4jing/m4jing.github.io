@@ -1,7 +1,7 @@
 # markdown: kramdown
 # markdown: rdiscount
 # highlighter: pygments
-highlighter: rouge
+# highlighter: rouge
 # permalink: /:categories/:year-:month-:day/:title
 # permalink: pretty
 permalink: /:categories/:title
