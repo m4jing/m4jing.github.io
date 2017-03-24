@@ -60,9 +60,9 @@ blockquote p {
   text-align: center;
 
   font-weight: 500;
-  box-shadow: 4px 4px 4px 0px rgba(96, 90, 93, 0.93);
-  -webkit-box-shadow: 4px 4px 4px 0px rgba(96, 90, 93, 0.93);
-  -moz-box-shadow: 4px 4px 4px 0px rgba(96, 90, 93, 0.93);
+  box-shadow: 4px 4px 10px 1px rgba(96, 90, 93, 0.93);
+  -webkit-box-shadow: 4px 4px 10px 1px rgba(96, 90, 93, 0.93);
+  -moz-box-shadow: 4px 4px 10px 1px rgba(96, 90, 93, 0.93);
 }
 pre {
   border: initial;
