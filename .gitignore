@@ -7,3 +7,5 @@ target/
 .npmglobal/
 coverage/
 npm-debug.log
+.sass-cache/
+.jekyll-metadata
