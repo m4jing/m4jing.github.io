@@ -2,10 +2,11 @@ _drafts/
 _site/
 .DS_Store
 .idea/
-node_modules/
-target/
 .npmglobal/
-coverage/
-npm-debug.log
-.sass-cache/
 .jekyll-metadata
+.sass-cache/
+build/
+coverage/
+node_modules/
+npm-debug.log
+target/
