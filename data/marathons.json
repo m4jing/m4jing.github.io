@@ -53,7 +53,10 @@
     "type": "marathon",
     "role": "athlete",
     "result": "finished",
-    "tags": [],
+    "tags": [
+      "跑团",
+      "北航马协"
+    ],
     "datetime": "2015-01-03 08:00",
     "timestamp": 1420243200000,
     "location": {
@@ -62,7 +65,7 @@
       "city": "厦门"
     },
     "url": "http://www.xmim.org/",
-    "note": ""
+    "note": "因为北航马协小伙伴们而去参加；田老师带队，北航参加高校邀请赛"
   },
   {
     "name": "beijing-marathon",
@@ -224,7 +227,9 @@
     "role": "athlete",
     "result": "finished",
     "tags": [
-      "no-score"
+      "no-score",
+      "跑团",
+      "北航马协"
     ],
     "datetime": "2016-09-24 07:30",
     "timestamp": 1474673400000,
@@ -234,7 +239,7 @@
       "city": "衡水"
     },
     "url": "http://hengshuimalasong.com/",
-    "note": "没有成绩：可能是芯片坏掉，过终点后没有收到芝华安方的成绩短信；之后联系组委会并配合提供分段成绩、赛道中照片等，然而并没有什么用，成绩依然没给加上"
+    "note": "北航马协组织一起参赛，校友会大力支持；没有成绩：可能是芯片坏掉，过终点后没有收到芝华安方的成绩短信；之后联系组委会并配合提供分段成绩、赛道中照片等，然而并没有什么用，成绩依然没给加上"
   },
   {
     "name": "shanghai-marathon",
