@@ -8,7 +8,7 @@ permalink: /:categories/:title
 myhost: http://www.imajing.com.cn
 name: m4jing's WebSpace
 description: m4jing's adventures
-gems:
+plugins:
   - jekyll-feed
 feed:
   path: atom.xml

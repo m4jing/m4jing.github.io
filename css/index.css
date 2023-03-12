@@ -21,9 +21,9 @@ body {
 }
 img {
   position: relative;
-  display:block;
-  margin:0 auto;
-  vertical-align:middle;
+  display: block;
+  margin: 0 auto;
+  /* vertical-align: middle; */
 }
 
 blockquote p {
@@ -64,10 +64,18 @@ blockquote p {
   -webkit-box-shadow: 4px 4px 10px 1px rgba(96, 90, 93, 0.93);
   -moz-box-shadow: 4px 4px 10px 1px rgba(96, 90, 93, 0.93);
 }
+.center-meta {
+  font-size: 80%;
+  color: #aaa;
+  text-align: center;
+}
 pre {
   border: initial;
   border-radius: 5px;
   /*padding: 6px;*/
+}
+pre.center {
+  font-size: 14px;
 }
 
 /*modify bootstrap.css p5227 for component [jumbotron] */
@@ -103,7 +111,7 @@ pre {
   padding: 0;
 }
 #avatar {
-  margin-top: 3.5em;
+  margin-top: 4em;
 }
 
 /*background: url(/images/13-14-km.jpg) right -1px no-repeat;*/
@@ -168,11 +176,9 @@ ul.posts span {
 }
 
 #site .meta {
-    color: #aaa;
+  color: #aaa;
 }
 
-.center-meta {
-  font-size: 80%;
-  color: #aaa;
-  text-align: center;
+h3 span {
+  margin-right: 10px;
 }
