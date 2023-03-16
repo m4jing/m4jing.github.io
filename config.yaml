@@ -1,0 +1,63 @@
+baseurl: "http://www.imajing.com.cn/"
+# languageCode: "en-us" # zh-cn
+languageCode: "zh-cn"
+title: "Jing Ma | 马景"
+theme: hugo-lithium
+enableEmoji: true
+hasCJKLanguage: true
+footnotereturnlinkcontents: "↩"
+
+googleAnalytics: ''
+disqusShortname: ''
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+permalinks:
+  post: /:year-:month-:day/:slug/
+
+menu:
+  main:
+    - name: Research
+      url: /research/
+      weight: 1
+    - name: Running
+      url: /running/
+      weight: 2
+    - name: Project
+      url: /project/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+
+params:
+  author: Jing Ma
+  description: Jing Ma's Web Space. A certified running coach, love Data Science, (R/ggplot2/tidyverse/Python), Running. 马景的个人网站。喜欢数据科学的跑步教练：R语言、ggplot2、tidyverse、Python，也喜欢跑步：马景教练，跑向巅峰。
+  footer: "&copy; Jing Ma 2014 - {Year}"
+  # footer: "&copy;[Jing Ma](/) 2014 - {Year}"
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    # - yaml
+  # highlightjsTheme: Gml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  customCSS:
+    - css/custom.css
+  favicon: favicon.png
+  # favicon: favicon.ico
+  logo:
+    alt: Logo
+    height: 50
+    url: logo.png
+    width: 50
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
