@@ -7,7 +7,8 @@ categories:
   - blog
 tags:
   - running
-# description: "A big big running world."
+draft: true
+description: "A big big running world."
 ---
 
 > <code>如果让你用一种动物来形容自己，你觉得什么<a href="/">比较合适</a>，为什么？狗。如果让你用一种动物来形容自己，你觉得什么比较合适，为什么？狗。如果让你用一种动物来形容自己，你觉得什么比较合适，为什么？狗。</code>

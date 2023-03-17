@@ -1,5 +1,5 @@
 baseurl: "http://www.imajing.com.cn/"
-# languageCode: "en-us" # zh-cn
+# languageCode: "en-us"
 languageCode: "zh-cn"
 title: "Jing Ma | 马景"
 theme: hugo-lithium

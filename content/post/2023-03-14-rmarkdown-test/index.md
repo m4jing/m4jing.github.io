@@ -13,6 +13,7 @@ output:
     toc: true
 #     fig_width: 6
 #     # dev: "svg"
+draft: true
 ---
 
 # To test Rmd rendering :smile: :rabbit2:
