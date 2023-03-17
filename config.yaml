@@ -1,4 +1,4 @@
-baseurl: "http://www.imajing.com.cn/"
+baseurl: "https://www.imajing.com.cn/"
 # languageCode: "en-us"
 languageCode: "zh-cn"
 title: "Jing Ma | 马景"
@@ -7,8 +7,8 @@ enableEmoji: true
 hasCJKLanguage: true
 footnotereturnlinkcontents: "↩"
 
-googleAnalytics: ''
-disqusShortname: ''
+# googleAnalytics: ''
+# disqusShortname: ''
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
