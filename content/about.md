@@ -3,9 +3,20 @@ title: About
 toc: true
 ---
 
+![ouyang](/images/唐-欧阳询书《般若波罗蜜多心经》(拓本).jpg)
+`唐-欧阳询书《般若波罗蜜多心经》(拓本)`
+
 ## About me
 
 THIS is [*Jing Ma*](/), from China. I've been in Beijing for several years. I graduated from Beihang University (also known as BUAA, Beijing University of Aeronautics and Astronautics), majoring in Electronic Engineering and Information, and now I'm a graduate in Capital University of Physical Education and Sports, researching sports and rehabilitation.
+
+I know a little about computer science:
+
+> 擅长 Word、Excel、PPT、Pages、Numbers、Keynote等软件的安装与卸载；
+>
+> 精通 data.frame、Matrix、ggplot2、Python、SPSS、MATLAB、Opensim、Footscan等单词的拼写；
+>
+> 熟悉 Windows、Linux、macOS、Android、iOS等系统的开关机。
 
 I'm fascinated by Data Science (for research and better life) and Running (an ancient but really attractive physical activity).
 
@@ -14,6 +25,9 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
 ## Research interests
 
 - Running biomechanics
+  - Kinematics
+  - Kinetics
+  - Spatialtemporal parameters
 - Running-related injuries (RRI)
 - Sports rehabilitation
 - Data Analysis
@@ -58,7 +72,7 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
 I don't want to spend much time on chatting unless necessary, so there's no Instant Message here.
 
 - 微信公众号: [跑向巅峰](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjE3OTA5Nw==&hid=2&sn=dae198d6a70891709756d37700eb1d3d&scene=18#wechat_redirect)
-- ![跑向巅峰](/images/qrcode_for_gh_f54de0ac8436_430x430.jpg)
+- <img src="/images/qrcode_for_gh_f54de0ac8436_430x430.jpg" style="max-width:200px;min-width:120px;float:initial;" alt="跑向巅峰">
 - [Github/m4jing](https://github.com/m4jing)
 - E-mail: mjingm87@qq.com
 
