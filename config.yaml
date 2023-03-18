@@ -52,12 +52,14 @@ params:
   highlightjsVersion: 9.12.0
   customCSS:
     - css/custom.css
-  favicon: favicon.png
+  favicon: c4c33ca8ea0842fda881a6fc16abf162.png
+  # favicon: favicon.png
   # favicon: favicon.ico
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: c4c33ca8ea0842fda881a6fc16abf162.png
+    # url: logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

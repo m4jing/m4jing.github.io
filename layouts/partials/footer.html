@@ -4,8 +4,9 @@
             <a href="{{ .Site.RSSLink | relURL }}" type="application/rss+xml" target="_blank">RSS feed</a>
           </li>
           <li>
-            <a href="/" class="footer-links-kudos"><img src="{{ "images/logo.png" | relURL }}" alt="Jing Ma's webspace" width="22" height="22"></a>
-          {{ with .Site.Params.footer }} {{ replace . "{Year}" now.Year | markdownify}} {{ end }}</li>
+            <a href="/" class="footer-links-kudos"><img src="{{ .Site.Params.logo.url | relURL }}" alt="Logo" width="22" height="22"></a>
+          {{ with .Site.Params.footer }} {{ replace . "{Year}" now.Year | markdownify}} {{ end }}
+          </li>
         </ul>
       </footer>
 
