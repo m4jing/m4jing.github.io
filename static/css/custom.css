@@ -2,6 +2,11 @@
   border-bottom: 3px dotted #CBF8DF;
   box-shadow: unset;
 }
+.article-meta {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 0 12px;
+}
 
 .highlight {
   margin: unset;
@@ -54,4 +59,14 @@ tr:nth-child(even) { background: #eee; }
 #TableOfContents, #TOC {
   border: 1px solid #eee;
   border-radius: 5px;
+}
+@media (min-width: 1440px) {
+  #TableOfContents, #TOC {
+    position: fixed;
+    top: 100px;
+    right: 0;
+    max-width: 335px;
+    min-width: 240px;
+    margin-right: 2%;
+  }
 }
