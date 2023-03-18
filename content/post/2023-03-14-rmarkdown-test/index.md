@@ -8,13 +8,18 @@ categories:
 tags:
   - R Markdown
 description: A test of R Markdown document usage.
-output:
-  blogdown::html_page:
-    toc: true
-#     fig_width: 6
-#     # dev: "svg"
+toc: true
+# output:
+#   blogdown::html_page:
+#     toc: true
+# #     fig_width: 6
+# #     # dev: "svg"
 draft: true
 ---
+
+> 当我们行走，要努力与世界相处
+>
+>> 当我们***盛放***，要努力与自己相处
 
 # To test Rmd rendering :smile: :rabbit2:
 
@@ -68,6 +73,10 @@ R Markdown 中怎么显示注释？[^2]
 - <http://localhost:4321/tags/r-markdown/>
 - <http://localhost:4321/categories/blog/>
 - <http://localhost:4321/categories/r/>
+
+## Fetch data
+
+http://localhost:4321/data/marathons.json
 
 ## A blockquote
 

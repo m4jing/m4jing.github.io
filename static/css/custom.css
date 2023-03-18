@@ -31,6 +31,7 @@ blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
   padding: 3px 0.5em 3px;
+  margin-left: 0.6rem;
 }
 .article blockquote > p {
   margin: 6px 0;
@@ -69,4 +70,26 @@ tr:nth-child(even) { background: #eee; }
     min-width: 240px;
     margin-right: 2%;
   }
+}
+
+.thumbnail {
+  display: flex;
+  height: auto;
+  max-width: 100%;
+  padding: 4px;
+  margin-bottom: 10px;
+  line-height: 1.428571429;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.thumbnail>img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto
+}
+.thumbnail .caption {
+  padding: 0 1.2rem;
+  color: #333
 }

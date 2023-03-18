@@ -12,9 +12,9 @@ THIS is [*Jing Ma*](/), from China. I've been in Beijing for several years. I gr
 
 I know a little about computer science:
 
-> 擅长 Word、Excel、PPT、Pages、Numbers、Keynote等软件的安装与卸载；
+> 擅长 Word、Excel、PPT、Pages、Numbers、Keynote、XMind等软件的安装与卸载；
 >
-> 精通 data.frame、Matrix、ggplot2、Python、SPSS、MATLAB、Opensim、Footscan等单词的拼写；
+> 精通 data.frame、Matrix、ggplot2、Python、SPSS、MATLAB、OpenSim、Footscan等单词的拼写；
 >
 > 熟悉 Windows、Linux、macOS、Android、iOS等系统的开关机。
 
