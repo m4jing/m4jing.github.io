@@ -8,7 +8,7 @@ toc: true
 
 ## About me
 
-THIS is [*Jing Ma*](/), from China. I've been in Beijing for several years. I graduated from Beihang University (also known as BUAA, Beijing University of Aeronautics and Astronautics), majoring in Electronic Engineering and Information, and now I'm a graduate in Capital University of Physical Education and Sports, researching sports and rehabilitation.
+THIS is [*Jing Ma*](/), from China. I've been in Beijing for several years. I graduated from Beihang University (also known as BUAA, Beijing University of Aeronautics and Astronautics)[^bh], majoring in Electronic Engineering and Information, and now I'm a graduate in Capital University of Physical Education and Sports (Beijing Institute for International Olympics Studies)[^cupes], researching sports and rehabilitation.
 
 I know a little about computer science:
 
@@ -58,13 +58,14 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
 ## A few words
 
 - 德才兼备，知行合一
-- 博观约取,厚积薄发
+- 博观约取，厚积薄发
 - 文明其精神，野蛮其体魄
 - 永远年轻，永远热泪盈眶
 - 没有什么能够阻挡，我对自由的向往
 - 纵使寒风凛冽又孤寂冷清，奈何吾心向往之
 - 这个世界，唯一不变的，就是在不停地改变
 - Stay hungry, stay foolish[^steve1][^steve2]
+- Discover your potential && Design your future
 - Work smarter && Run wiser && Live better
 
 ## Contact me
@@ -80,6 +81,8 @@ I don't want to spend much time on chatting unless necessary, so there's no Inst
 
 - [田园木竹的博客](https://blog.niean.name/)
 
+[^bh]: 五道口计算机学院: https://buaa.edu.cn/
+[^cupes]: 北京国际奥林匹克学院: https://www.cupes.edu.cn/
 [^r]: R language: https://www.r-project.org/
 [^py]: Python language: https://www.python.org/
 [^xw]: 许巍: https://music.163.com/#/artist?id=5770
