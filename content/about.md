@@ -72,7 +72,7 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
 
 I don't want to spend much time on chatting unless necessary, so there's no Instant Message here.
 
-- 微信公众号: [跑向巅峰](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjE3OTA5Nw==&hid=2&sn=dae198d6a70891709756d37700eb1d3d&scene=18#wechat_redirect)
+- 微信公众号: [跑向巅峰](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjE3OTA5Nw==&hid=2&sn=dae198d6a70891709756d37700eb1d3d&scene=18#wechat_redirect); 视频号: 马景教练
 - <img src="/images/qrcode_for_gh_f54de0ac8436_430x430.jpg" style="max-width:200px;min-width:120px;float:initial;" alt="跑向巅峰">
 - [Github/m4jing](https://github.com/m4jing)
 - E-mail: mjingm87@qq.com
