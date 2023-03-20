@@ -2,6 +2,11 @@
   border-bottom: 3px dotted #CBF8DF;
   box-shadow: unset;
 }
+.article-content p {
+  /* overflow-wrap: break-word; */
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
 .article-meta {
   border: 1px solid #eee;
   border-radius: 5px;
@@ -92,4 +97,13 @@ tr:nth-child(even) { background: #eee; }
 .thumbnail .caption {
   padding: 0 1.2rem;
   color: #333
+}
+
+img.show {
+  transform: scale(1);
+  transition: all 0.5s ease 0s;
+}
+img.show:hover {
+  transform: scale(1.2);
+  transition: all 0.5s ease 0s;
 }
