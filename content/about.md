@@ -50,7 +50,7 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
   - **Chongli Trail Race 50km**: Actually 57+ km due to the alteration of route halfway by the event committee
   - **JinShanling - The Great Wall Trail Race**: Got several awards from there
   - ...
-- **Coaching**: I am a **certified running coach**, giving lectures, leading running groups, and coaching in marathon training camps. I also like 1-vs-1 teaching about running.
+- **Coaching**: I am a **certified running coach**, giving lectures, leading running groups, and coaching in marathon training camps. I also like 1-vs-1 teaching about running.[^run]
 - **Table tennis**: Ping pong has grown bigger, so I need to learn how to play again. I was once a player in my school back in BUAA. I like *Xu Xin*'s elegant playing style, as well as *Ma Long*'s comprehensive skills and tactics.
 - **Plank**: 4-point plank, with your body being a straight line. A good way to train your core; My personal best is about *40min*.
 - **Music**: Xu Wei[^xw], is one of my favorite singers.
@@ -86,6 +86,7 @@ I don't want to spend much time on chatting unless necessary, so there's no Inst
 [^cupes]: 北京国际奥林匹克学院: https://www.cupes.edu.cn/
 [^r]: R language: https://www.r-project.org/
 [^py]: Python language: https://www.python.org/
+[^run]: [我的跑步故事](/2019-07-14/why-i-run/)
 [^xw]: 许巍: https://music.163.com/#/artist?id=5770
 [^steve1]: Steve Jobs to 2005 graduates: ‘Stay hungry, stay foolish’: https://news.stanford.edu/2005/06/12/steve-jobs-2005-graduates-stay-hungry-stay-foolish/
 [^steve2]: ‘You’ve got to find what you love,’ Jobs says: https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
