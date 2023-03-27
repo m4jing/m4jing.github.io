@@ -4,6 +4,8 @@ title: A Plain Markdown Post
 draft: true
 ---
 
+Markdown syntax document.[^md]
+
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:
 
 1. You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```` ```{r} ````);
@@ -23,3 +25,5 @@ When creating a new post, you have to decide whether the post format is Markdown
 ```r
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
+
+[^md]: Markdown syntax: https://daringfireball.net/projects/markdown/syntax

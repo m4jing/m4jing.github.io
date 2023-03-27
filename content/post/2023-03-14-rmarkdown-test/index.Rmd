@@ -1,13 +1,14 @@
 ---
-title: RMarkdown-test
+title: R Markdown doc
 author: Jing Ma
 date: '2023-03-14'
-slug: rmarkdown-test
+slug: rmarkdown-doc
 categories:
   - R
 tags:
+  - doc
   - R Markdown
-description: A test of R Markdown document usage.
+description: A brief document of R Markdown doc.
 toc: true
 # output:
 #   blogdown::html_page:
@@ -20,6 +21,7 @@ draft: true
 > 当我们行走，要努力与世界相处
 >
 >> 当我们***盛放***，要努力与自己相处
+>>> This one
 
 # To test Rmd rendering :smile: :rabbit2:
 
@@ -49,14 +51,6 @@ For .Rmd posts to be rendered to .html,you can use $math$ for inline math expres
 [^1]: This is a footnote
 
 `math`, `S_n = \sum_{i=1}^n X_i`, `$math$`
-
-## Embedding Hugo shortcode in R Markdown
-
-
-
-R Markdown 中怎么显示注释？[^2]
-
-[^2]: Another footnote
 
 ## List page
 
@@ -94,16 +88,3 @@ Rendering content/post/2023-03-14-rmarkdown-test/index.Rmd... Done.
 > Launched the hugo server in the background (process ID: 6646). To stop it, call blogdown::stop_server() or restart the R session.
 >
 > Rendering content/post/2023-03-14-rmarkdown-test/index.Rmd... Done.
-
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
-
-# Ch01
-
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
-
-```r
-summary(Orange)
-```
-
-# Ch02
-
