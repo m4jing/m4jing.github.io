@@ -3,10 +3,12 @@ title: About
 toc: true
 ---
 
-![ouyang](/images/唐-欧阳询书《般若波罗蜜多心经》(拓本).jpg)
-`唐-欧阳询书《般若波罗蜜多心经》(拓本)`
+<!-- ![ouyang](/images/唐-欧阳询书《般若波罗蜜多心经》(拓本).jpg)
+`唐-欧阳询书《般若波罗蜜多心经》(拓本)` -->
 
 ## About me
+
+![Jing Ma](/images/wp/running-technique-training.jpeg)
 
 THIS is [*Jing Ma*](/), from China. I've been in Beijing for several years. I graduated from Beihang University (also known as BUAA, Beijing University of Aeronautics and Astronautics)[^bh], majoring in Electronic Engineering and Information, and now I'm a graduate in Capital University of Physical Education and Sports (Beijing Institute for International Olympics Studies)[^cupes], researching sports and rehabilitation.
 
