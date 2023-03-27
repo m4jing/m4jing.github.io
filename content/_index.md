@@ -28,7 +28,7 @@ disable_highlight: true
       <h3>:runner: 跑向巅峰 - Keep Running</h3>
       <p>偶然的机会，开始接触跑步。然后遇到了一些人。于是，开启了人生的一段新的旅程。这真是一个神奇的故事。很多事情并没有想象中的那么困难。而跑步，也不仅仅是跑步。</p>
       <p>
-        <a href="/fitness/why-i-run" title="何时开始跑步，又为什么跑步？" class="btn btn-primary">Why-I-Run</a>
+        <a href="/2019-07-14/why-i-run/" title="何时开始跑步，又为什么跑步？" class="btn btn-primary">总有些事，让你愿意为之努力</a>
         <!-- <a href="/fitness" title="更多关于跑步、健身的文章们" class="btn btn-default">More</a> -->
       </p>
     </div>
