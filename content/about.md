@@ -3,9 +3,6 @@ title: About
 toc: true
 ---
 
-<!-- ![ouyang](/images/唐-欧阳询书《般若波罗蜜多心经》(拓本).jpg)
-`唐-欧阳询书《般若波罗蜜多心经》(拓本)` -->
-
 ## About me
 
 ![Jing Ma](/images/wp/running-technique-training.jpeg)
