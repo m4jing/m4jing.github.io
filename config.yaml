@@ -26,9 +26,12 @@ menu:
     - name: Post
       url: /post/
       weight: 1
+    - name: Inspire
+      url: /inspire/
+      weight: 2
     - name: About
       url: /about/
-      weight: 2
+      weight: 3
     # - name: Running
     #   url: /running/
     #   weight: 2
