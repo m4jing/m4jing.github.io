@@ -6,7 +6,7 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-<img class="show" src="/images/2017-xiamen-marathon.jpg" title="I was deeply focused on running at the moment" style="border-radius:10%;float:right" width=240/>
+<img class="show fr r10" src="/images/2017-xiamen-marathon.jpg" title="I was deeply focused on running at the moment" width=220/>
 
 > I was deeply **focused** on running at the moment in the race.
 >
@@ -23,7 +23,7 @@ disable_highlight: true
 
 <div id="projects" class="container">
   <div class="thumbnail">
-    <img class="show" alt="13.14-km" title="2015-2-14 13:14 13.14km pace=5m20s" style="width: 300px;max-height:300px;" src="/images/when-i-was-running_Sharpness.jpeg">
+    <img class="show case" alt="13.14-km" title="2015-2-14 13:14 13.14km pace=5m20s" src="/images/when-i-was-running_Sharpness.jpeg">
     <div class="caption">
       <h3>:runner: 跑向巅峰 - Keep Running</h3>
       <p>偶然的机会，开始接触跑步。然后遇到了一些人。于是，开启了人生的一段新的旅程。这真是一个神奇的故事。很多事情并没有想象中的那么困难。而跑步，也不仅仅是跑步。</p>
@@ -34,7 +34,7 @@ disable_highlight: true
     </div>
   </div>
   <div class="thumbnail">
-    <img class="show" alt="big-data-analytics-with-spark" style="width: 300px; height: 300px;" src="/images/big-data-analytics-with-spark.png">
+    <img class="show case" alt="big-data-analytics-with-spark" src="/images/big-data-analytics-with-spark.png">
     <div class="caption">
       <h3>:book:《Spark大数据分析：核心概念、技术及实践》</h3>
       <p>
@@ -50,7 +50,7 @@ disable_highlight: true
     </div>
   </div>
   <div class="thumbnail">
-    <img class="show" alt="data+design-cover" style="width: 300px; height: 300px;" src="/images/data+design-cover.png">
+    <img class="show case" alt="data+design-cover" src="/images/data+design-cover.png">
     <div class="caption">
       <h3>:book:《Data + Design》</h3>
       <p>Information design is about understanding data. <a href="https://github.com/infoactive/data-design" target="_blank">This book</a> is a simple introduction to preparing and visualizing information.
@@ -64,7 +64,7 @@ disable_highlight: true
     </div>
   </div>
   <div class="thumbnail">
-    <img class="show" alt="interactive-py-course-cover" style="width: 300px; height: 300px;" src="/images/interactive-py-course-cover.png">
+    <img class="show case" alt="interactive-py-course-cover" src="/images/interactive-py-course-cover.png">
     <div class="caption">
       <h3>:computer: 《Interactive Python》</h3>
       <p><h4><a href="https://www.coursera.org/course/interactivepython1" target="_blank" title="An Introduction to Interactive Programming in Python">An Introduction to Interactive Programming in Python (Part 1)</a></h4>

@@ -104,6 +104,26 @@ img.show {
   transition: all 0.5s ease 0s;
 }
 img.show:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   transition: all 0.5s ease 0s;
+}
+img.case {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 300px;
+}
+.fr {
+  float: right;
+}
+.fl {
+  float: left;
+}
+.r10 {
+  border-radius: 10%;
+}
+@media (max-width: 600px) {
+  img.show {
+    max-width: 45%;
+  }
 }
