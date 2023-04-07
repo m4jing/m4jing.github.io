@@ -107,6 +107,9 @@ img.show:hover {
   transform: scale(1.1);
   transition: all 0.5s ease 0s;
 }
+img.avatar {
+  max-width: 180px;
+}
 img.case {
   width: auto;
   height: auto;
@@ -123,7 +126,11 @@ img.case {
   border-radius: 10%;
 }
 @media (max-width: 600px) {
-  img.show {
-    max-width: 45%;
+  .thumbnail {
+    flex-wrap: wrap;
+  }
+  img.case {
+    max-width: 50%;
+    /* max-height: 200px; */
   }
 }

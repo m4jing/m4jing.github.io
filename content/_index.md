@@ -6,7 +6,7 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-<img class="show fr r10" src="/images/2017-xiamen-marathon.jpg" title="I was deeply focused on running at the moment" width=220/>
+<img class="show avatar fr r10" src="/images/2017-xiamen-marathon.jpg" title="I was deeply focused on running at the moment"/>
 
 > I was deeply **focused** on running at the moment in the race.
 >
