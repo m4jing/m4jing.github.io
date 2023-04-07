@@ -8,6 +8,9 @@
     {{ end }}
 
     <h1 class="article-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <h2 class="subtitle">{{ . }}</h2>
+    {{ end }}
 
     {{ if .Params.author}}
     <span class="article-author">@{{ .Params.Author }}</span>
@@ -34,6 +37,9 @@
     {{ .TableOfContents }}
     {{ end }}
 
+    <!-- {{ if .Params.description}}
+    <span class="article-description">{{ .Params.description }}</span>
+    {{ end }} -->
     <div class="article-content">
       {{ .Content }}
     </div>
