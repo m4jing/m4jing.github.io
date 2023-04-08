@@ -1,3 +1,6 @@
+.content {
+  max-width: 760px;
+}
 .article-content a {
   border-bottom: 3px dotted #CBF8DF;
   box-shadow: unset;
@@ -14,6 +17,7 @@
 }
 .subtitle {
   margin: 0;
+  padding-top: 5px;
 }
 
 .highlight {

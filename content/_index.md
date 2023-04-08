@@ -1,6 +1,6 @@
 ---
 title: Win or Go Home
-subtitle: Stay hungry + stay foolish
+subtitle: Stay hungry, stay foolish
 date: '2023-03-17'
 disable_mathjax: true
 disable_highlight: true
@@ -15,7 +15,6 @@ disable_highlight: true
 - 德才兼备，知行合一
 - 博观约取，厚积薄发
 - 以挑战者精神拼搏创新
-- Stay hungry, stay foolish
 
 ---
 
@@ -83,3 +82,5 @@ disable_highlight: true
 </div>
 
 ---
+
+## Latest posts
