@@ -37,9 +37,11 @@
     {{ .TableOfContents }}
     {{ end }}
 
-    <!-- {{ if .Params.description}}
-    <span class="article-description">{{ .Params.description }}</span>
-    {{ end }} -->
+    {{ if and (.Params.description) (.Params.showdesc)}}
+    <blockquote class="desc">
+      <p class="article-description">{{ .Params.description }}</p>
+    </blockquote>
+    {{ end }}
     <div class="article-content">
       {{ .Content }}
     </div>
