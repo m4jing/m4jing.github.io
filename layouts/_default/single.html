@@ -21,7 +21,7 @@
 
     {{ if or (.Params.categories) (.Params.tags)}}
     <div class="article-meta">
-      <p class="terms">
+      <p class="terms info">
         {{ range $i := (slice "categories" "tags") }}
         {{ with ($.Param $i) }}
         {{ $i | title }}:

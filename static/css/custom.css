@@ -83,6 +83,22 @@ tr:nth-child(even) { background: #eee; }
     margin-right: 2%;
   }
 }
+#TableOfContents a,
+.info a {
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 3px dashed #CBF8DF;
+  /* box-shadow: inset 0 -2px 0 #cbf8df; */
+  background: transparent;
+  transition: background 150ms ease;
+}
+#TableOfContents a:hover,
+#TableOfContents a:focus,
+.info a:hover,
+.info a:focus {
+  background: #CBF8DF;
+}
+
 
 .thumbnail {
   display: flex;
