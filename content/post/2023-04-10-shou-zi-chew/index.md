@@ -12,13 +12,13 @@ tags:
 toc: true
 ---
 
-前段时间，TikTok面临被禁危机，CEO周受资在面对美国国会时，展现出“舌战群儒”的冷静与才华，也让大家了解到这位年轻的商界精英。[^talk]
+前段时间，TikTok面临被禁危机，CEO周受资在面对美国国会时，展现出“舌战群儒”的冷静与才华，也让大家了解到这位年轻的商界精英。[^talk] [^cnn]
 
 > 周受资（Shou Chew，1983年-），新加坡国籍
 >
 > 毕业于伦敦大学学院经济系，并持有哈佛商学院MBA学位，现任TikTok首席执行官。
 
-去年3月，他为自己的母校伦敦大学学院（UCL，University College London）[^ucl]的毕业生做了一场演讲，用自己的经历鼓励学子们勇敢走出舒适圈。
+去年3月，他为自己的母校伦敦大学学院（UCL，University College London）[^ucl]的毕业生做了一场演讲，用自己的经历鼓励学子们勇敢走出舒适圈。[^video]
 
 这场演讲以视频形式发布，全长不到 4 分钟，下面整理并翻译演讲全文。
 
@@ -111,4 +111,6 @@ The world is changing quickly, and there are always new situations that you're n
 No matter what you encounter, have confidence that the skills and knowledge you've acquired will carry you through. And know that your professors will be cheering you on and friends and family will be supporting you along the way.
 
 [^talk]: Who is Shou Zi Chew? What to know about the TikTok CEO testifying before Congress: https://www.cbsnews.com/news/tiktok-ceo-shou-zi-chew/
+[^cnn]: Who is Shou Zi Chew? Mounting scrutiny on TikTok puts new spotlight on its CEO: https://edition.cnn.com/2023/01/20/tech/tiktok-ceo-shou-zi-chew/index.html
 [^ucl]: University College London: https://www.ucl.ac.uk/
+[^video]: Shou Zi Chew alumni video address (Graduation March 2022): 腾讯视频 - https://v.qq.com/x/page/f35097wlsz3.html ；YouTube - https://www.youtube.com/watch?v=UKSA4rnUcb4
