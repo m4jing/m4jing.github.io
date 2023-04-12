@@ -40,8 +40,8 @@ disable_highlight: true
         A Practitioner's Guide to Using Spark for Large-Scale Data Processing, Machine Learning, Graph Analytics, and High-velocity Data Stream Processing.
       <p>和前同事<em>陈冠诚</em>、<em>赵斌</em>一起翻译；参与本书部分章节的翻译工作。感谢他们。</p>
       <p>
-        <a href="http://product.china-pub.com/5738047" title="《Spark大数据分析：核心概念、技术及实践》" target="_blank">互动出版社</a> |
-        <a href="https://www.hzcourse.com/web/refbook/detail/7005/209" title="《Spark大数据分析：核心概念、技术及实践》" target="_blank">华章图书</a>
+        <a href="http://product.china-pub.com/5738047" title="《Spark大数据分析：核心概念、技术及实践》">互动出版社</a> |
+        <a href="https://www.hzcourse.com/web/refbook/detail/7005/209" title="《Spark大数据分析：核心概念、技术及实践》">华章图书</a>
       </p>
     </div>
   </div>
@@ -49,13 +49,13 @@ disable_highlight: true
     <img class="show case" alt="data+design-cover" src="/images/data+design-cover.png">
     <div class="caption">
       <h3>:book:《Data + Design》</h3>
-      <p>Information design is about understanding data. <a href="https://github.com/infoactive/data-design" target="_blank">This book</a> is a simple introduction to preparing and visualizing information.
+      <p>Information design is about understanding data. <a href="https://github.com/infoactive/data-design">This book</a> is a simple introduction to preparing and visualizing information.
       </p>
-      <p><a href="http://datadesigncn.github.io/" target="_blank">开源协作</a> - <a href="http://datadesigncn.github.io/acknowledgments01.html" target="_blank">翻译组成员</a>。<a href="http://datadesigncn.github.io/titlepage01.html" target="_blank">《数据 + 设计》</a>本书部分章节翻译+校对
+      <p><a href="http://datadesigncn.github.io/">开源协作</a> - <a href="http://datadesigncn.github.io/acknowledgments01.html">翻译组成员</a>。<a href="http://datadesigncn.github.io/titlepage01.html">《数据 + 设计》</a>本书部分章节翻译+校对
       </p>
       <p>
-        <a href="https://trinachi.github.io/data-design-builds/copyright-page01.html" title="《Data + Design》" target="_blank">English Version</a> |
-        <a href="http://datadesigncn.github.io/titlepage01.html" title="《数据 + 设计》" target="_blank">中文版</a>
+        <a href="https://trinachi.github.io/data-design-builds/copyright-page01.html" title="《Data + Design》">English Version</a> |
+        <a href="http://datadesigncn.github.io/titlepage01.html" title="《数据 + 设计》">中文版</a>
       </p>
     </div>
   </div>
@@ -63,15 +63,15 @@ disable_highlight: true
     <img class="show case" alt="interactive-py-course-cover" src="/images/interactive-py-course-cover.png">
     <div class="caption">
       <h3>:computer: 《Interactive Python》</h3>
-      <h4><a href="https://www.coursera.org/course/interactivepython1" target="_blank" title="An Introduction to Interactive Programming in Python">An Introduction to Interactive Programming in Python (Part 1)</a></h4>
+      <h4><a href="https://www.coursera.org/course/interactivepython1" title="An Introduction to Interactive Programming in Python">An Introduction to Interactive Programming in Python (Part 1)</a></h4>
         A course on
-        <a href="https://www.coursera.org/" target="_blank" title="Coursera - Free Online Courses From Top Universities.">Coursera</a> from <a href="https://www.rice.edu/" target="_blank" title="Coursera - Free Online Courses From Top Universities.">Rice University</a>, designed to be a fun introduction to the basics of programming in
-        <a href="https://www.python.org/" target="_blank" title="Python programming language">Python</a>.
-      <p><a href="https://www.guokr.com/" target="_blank" title="果壳网 科技有意思">果壳网</a> - <a href="http://mooc.guokr.com/" target="_blank" title="MOOC学院 果壳网旗下慕课学习社区">MOOC学院</a> - <a href="http://www.guokr.com/blog/762401/" target="_blank" title="果壳 Python 字幕组翻译证书">翻译组成员</a>。此 Coursera 课程英文字幕翻译+校对
+        <a href="https://www.coursera.org/" title="Coursera - Free Online Courses From Top Universities.">Coursera</a> from <a href="https://www.rice.edu/" title="Coursera - Free Online Courses From Top Universities.">Rice University</a>, designed to be a fun introduction to the basics of programming in
+        <a href="https://www.python.org/" title="Python programming language">Python</a>.
+      <p><a href="https://www.guokr.com/" title="果壳网 科技有意思">果壳网</a> - <a href="http://mooc.guokr.com/" title="MOOC学院 果壳网旗下慕课学习社区">MOOC学院</a> - <a href="http://www.guokr.com/blog/762401/" title="果壳 Python 字幕组翻译证书">翻译组成员</a>。此 Coursera 课程英文字幕翻译+校对
       </p>
       <p>
-        <a href="https://www.coursera.org/course/interactivepython1" target="_blank" title="An Introduction to Interactive Programming in Python">Coursera</a> |
-        <a href="http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-Python%EF%BC%88part-1%EF%BC%89/" target="_blank" title="Python交互式编程导论">MOOC学院(果壳)</a>
+        <a href="https://www.coursera.org/course/interactivepython1" title="An Introduction to Interactive Programming in Python">Coursera</a> |
+        <a href="http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-Python%EF%BC%88part-1%EF%BC%89/" title="Python交互式编程导论">MOOC学院(果壳)</a>
       </p>
     </div>
   </div>
