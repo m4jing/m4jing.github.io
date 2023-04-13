@@ -7,7 +7,7 @@ slug: shou-zi-chew
 categories:
   - blog
 tags:
-  - speech
+  - Speech
   - English
 toc: true
 ---
@@ -110,7 +110,7 @@ The world is changing quickly, and there are always new situations that you're n
 
 No matter what you encounter, have confidence that the skills and knowledge you've acquired will carry you through. And know that your professors will be cheering you on and friends and family will be supporting you along the way.
 
-[^talk]: Who is Shou Zi Chew? What to know about the TikTok CEO testifying before Congress: https://www.cbsnews.com/news/tiktok-ceo-shou-zi-chew/
-[^cnn]: Who is Shou Zi Chew? Mounting scrutiny on TikTok puts new spotlight on its CEO: https://edition.cnn.com/2023/01/20/tech/tiktok-ceo-shou-zi-chew/index.html
-[^ucl]: University College London: https://www.ucl.ac.uk/
-[^video]: Shou Zi Chew alumni video address (Graduation March 2022): 腾讯视频 - https://v.qq.com/x/page/f35097wlsz3.html ；YouTube - https://www.youtube.com/watch?v=UKSA4rnUcb4
+[^talk]: Who is Shou Zi Chew? What to know about the TikTok CEO testifying before Congress: <https://www.cbsnews.com/news/tiktok-ceo-shou-zi-chew/>
+[^cnn]: Who is Shou Zi Chew? Mounting scrutiny on TikTok puts new spotlight on its CEO: <https://edition.cnn.com/2023/01/20/tech/tiktok-ceo-shou-zi-chew/index.html>
+[^ucl]: University College London: <https://www.ucl.ac.uk/>
+[^video]: Shou Zi Chew alumni video address (Graduation March 2022): 腾讯视频 - <https://v.qq.com/x/page/f35097wlsz3.html> ；YouTube - <https://www.youtube.com/watch?v=UKSA4rnUcb4>
