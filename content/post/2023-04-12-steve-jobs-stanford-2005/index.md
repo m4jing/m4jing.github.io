@@ -22,7 +22,35 @@ toc: true
 
 ## 演讲文稿（中文翻译版）
 
-TODO: translation
+我很荣幸，今天能和大家一起参加这个世界上最好的大学之一的毕业典礼。
+
+说实话，我从未大学毕业。这是我离大学毕业最近的一次了。
+
+今天我想向你们讲述我人生中的三个故事。就这样，没什么大不了的事情，就是三个故事而已。
+
+### 连点成线
+
+第一个故事，是关于如何把生命中的点滴连起来。
+
+我在里德学院（Reed College [^reed]）读了6个月后就退学了。不过，在真正退学之前，我作为一名旁听生继续在学校待了大约18个月。那么，我为什么要退学呢？
+
+这要从我出生的时候讲起。我的生母是一个年轻的、没有结婚的大学生，她决定让别人收养我。
+
+她特别想让我被大学毕业生收养，所以她为我被一个律师家庭收养做好了一切准备。
+
+意外的是，当我出生之后，律师夫妇突然很想要一个女孩。
+
+于是，我的养父母（在候选名单上）半夜接到电话问道：“我们这儿有一个意外出生的男婴，你们想要他吗？”他们回答：“当然！”
+
+我生母随后发现，我养母大学没毕业，而我养父甚至没有高中毕业。
+
+她拒绝在最终的收养文书上签字。几个月后，当我养父母答应让我上大学时，她最终答应了。
+
+这就是我生命的开始。
+
+17年后，我的确上了大学。但是我很天真地选了一个几乎和斯坦福大学[^stanford] 一样贵的学校。我工薪阶层父母的所有积蓄都花在了我的学费上。
+
+6个月后，我看不到其中的价值所在。我也不知道要做什么，不知道大学能不能帮我找到答案。
 
 ## Speech (English Version)
 
@@ -38,17 +66,63 @@ The first story is about connecting the dots.
 
 I dropped out of Reed College after the first 6 months, but then stayed around as a drop-in for another 18 months or so before I really quit. So why did I drop out?
 
-It started before I was born. My biological mother was a young, unwed college graduate student, and she decided to put me up for adoption. She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife. Except that when I popped out they decided at the last minute that they really wanted a girl. So my parents, who were on a waiting list, got a call in the middle of the night asking: “We have an unexpected baby boy; do you want him?” They said: “Of course.” My biological mother later found out that my mother had never graduated from college and that my father had never graduated from high school. She refused to sign the final adoption papers. She only relented a few months later when my parents promised that I would someday go to college.
+It started before I was born. My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.
 
-And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents’ savings were being spent on my college tuition. After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out. And here I was spending all of the money my parents had saved their entire life. So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made. The minute I dropped out I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked interesting.
+She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.
 
-It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms, I returned Coke bottles for the 5¢ deposits to buy food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. I loved it. And much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on. Let me give you one example:
+Except that when I popped out they decided at the last minute that they really wanted a girl.
 
-Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed. Because I had dropped out and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this. I learned about serif and sans serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great. It was beautiful, historical, artistically subtle in a way that science can’t capture, and I found it fascinating.
+So my parents, who were on a waiting list, got a call in the middle of the night asking: “We have an unexpected baby boy; do you want him?” They said: “Of course.”
 
-None of this had even a hope of any practical application in my life. But 10 years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac. It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts. And since Windows just copied the Mac, it’s likely that no personal computer would have them. If I had never dropped out, I would have never dropped in on this calligraphy class, and personal computers might not have the wonderful typography that they do. Of course it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backward 10 years later.
+My biological mother found out later that my mother had never graduated from college and that my father had never graduated from high school.
 
-Again, you can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+She refused to sign the final adoption papers. She only relented a few months later when my parents promised that I would go to college.
+
+This was the start in my life.
+
+And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents’ savings were being spent on my college tuition.
+
+After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out.
+
+And here I was spending all of the money my parents had saved their entire life. So I decided to drop out and trust that it would all work out OK.
+
+It was pretty scary at the time, but looking back it was one of the best decisions I've ever made.
+
+The minute I dropped out I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked far more interesting.
+
+It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms. I returned Coke bottles for the 5-cent deposits to buy food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple.
+
+I loved it.
+
+And much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on. Let me give you one example.
+
+Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.
+
+Because I had dropped out and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this.
+
+I learned about serif and sans serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.
+
+It was beautiful, historical, artistically subtle in a way that science can’t capture, and I found it fascinating.
+
+None of this had even a hope of any practical application in my life. But 10 years later, when we were designing the first Macintosh computer, it all came back to me.
+
+And we designed it all into the Mac. It was the first computer with beautiful typography.
+
+If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.
+
+And since Windows just copied the Mac, it’s likely that no personal computer would have them.
+
+If I had never dropped out, I would have never dropped in on that calligraphy class, and personal computers might not have the wonderful typography that they do.
+
+Of course it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards 10 years later.
+
+Again, you can’t connect the dots looking forward; you can only connect them looking backwards.
+
+So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever.
+
+Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path, and that will make all the difference.
+
+### Love and loss
 
 My second story is about love and loss.
 
@@ -88,3 +162,5 @@ Thank you all very much.
 
 [^text]: ‘You’ve got to find what you love,’ Jobs says: <https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/>
 [^video]: 史蒂夫·乔布斯2005年在斯坦福大学毕业典礼上的演讲视频: <https://www.bilibili.com/video/BV14J411H73r/>
+[^reed]: Reed College: <https://www.reed.edu>
+[^stanford]: Stanford University: <https://stanford.edu>
