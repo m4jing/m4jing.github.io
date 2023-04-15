@@ -28,19 +28,20 @@ function toggleButtons() {
   }
 }
 
-// 初次加载页面时判断
+// initiation when first loading
 toggleButtons();
 
-// 滚动时判断按钮状态
+// added scroll events
 window.addEventListener("scroll", toggleButtons);
 
-// 点击按钮进行跳转
+// added click events
 goTopButton.addEventListener("click", function () {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
 goBottomButton.addEventListener("click", function () {
   window.scrollTo({
-    top: documentHeight - windowHeight,
-    behavior: "smooth",
+    left: 0,
+    top: documentHeight - window.innerHeight,
+    behavior: "smooth"
   });
 });
