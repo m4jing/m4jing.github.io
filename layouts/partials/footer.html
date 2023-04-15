@@ -9,11 +9,15 @@
           </li>
         </ul>
       </footer>
-
+      <div id="fixed-buttons">
+        <button id="go-top">↑</button>
+        <button id="go-bottom">↓</button>
+      </div>
     </div>
     {{ partial "footer_highlightjs" . }}
     {{ partial "footer_mathjax" . }}
     {{ template "_internal/google_analytics.html" . }}
     {{ partial "footer_linktarget" . }}
+    {{ partial "footer_topbottom" . }}
   </body>
 </html>
