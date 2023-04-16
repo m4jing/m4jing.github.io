@@ -19,3 +19,4 @@ Thumbs.db
 /resources/
 .hugo_build.lock
 /doc/
+*.code-workspace
