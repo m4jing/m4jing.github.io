@@ -7,7 +7,7 @@ enableEmoji: true
 hasCJKLanguage: true
 footnotereturnlinkcontents: "↩"
 
-# googleAnalytics: ''
+googleAnalytics: 'G-KF5S5V8P5Z'
 # disqusShortname: ''
 ignoreFiles:
   - \.Rmd$
