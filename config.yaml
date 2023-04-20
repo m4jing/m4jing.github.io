@@ -1,4 +1,4 @@
-baseurl: "https://www.imajing.com.cn/"
+baseurl: "https://m4jing.github.io/"
 # languageCode: "en-us"
 languageCode: "zh-cn"
 title: "Jing Ma | 马景"
@@ -40,7 +40,7 @@ menu:
     #   weight: 3
 
 params:
-  author: Jing Ma
+  author: Jing Ma(@m4jing)
   description: Jing Ma's Web Space. A certified running coach, love Data Science, (R/ggplot2/tidyverse/Python), Running. 马景的个人网站。喜欢数据科学的跑步教练：R语言、ggplot2、tidyverse、Python，也喜欢跑步：马景教练，跑向巅峰。
   footer: "&copy; Jing Ma 2014 - {Year}"
   # footer: "&copy;[Jing Ma](/) 2014 - {Year}"
