@@ -91,7 +91,7 @@ y_ticks <- seq(0, 1, by = 0.1)
 
 # plot: do not use default y_ticks
 plot(df$x, df$y, pch = 16, col = "black",
-  xlab = "Index", ylab = "Value",
+  xlab = "Trial", ylab = "Frequency(Probability)",
   ylim = c(0, 1), yaxt = "n"
 )
 # set y_ticks
