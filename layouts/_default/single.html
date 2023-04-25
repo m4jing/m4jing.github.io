@@ -45,16 +45,12 @@
     <div class="article-content">
       {{ .Content }}
 
-      {{ if or (.Prev) (.Next) }}
+      {{ if .Section }}
       <hr>
-      {{ if .Prev }}
       <nav class="post-nav">
-        <a class="nav-prev" href="{{ .Prev.RelPermalink }}">&larr; {{ .Prev.Title }}</a>
-      {{ end }}
-      {{ if .Next }}
-        <a class="nav-next" href="{{ .Next.RelPermalink }}">{{ .Next.Title }} &rarr;</a>
+        {{ with .PrevInSection }}<a class="nav-prev" href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{ end }}
+        {{ with .NextInSection }}<a class="nav-next" href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{ end }}
       </nav>
-      {{ end }}
       {{ end }}
     </div>
   </article>
