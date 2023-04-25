@@ -49,10 +49,10 @@
       <hr>
       {{ if .Prev }}
       <nav class="post-nav">
-        <a href="{{ .Prev.RelPermalink }}">&larr; {{ .Prev.Title }}</a>
+        <a class="nav-prev" href="{{ .Prev.RelPermalink }}">&larr; {{ .Prev.Title }}</a>
       {{ end }}
       {{ if .Next }}
-        <a href="{{ .Next.RelPermalink }}">{{ .Next.Title }} &rarr;</a>
+        <a class="nav-next" href="{{ .Next.RelPermalink }}">{{ .Next.Title }} &rarr;</a>
       </nav>
       {{ end }}
       {{ end }}
