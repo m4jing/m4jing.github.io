@@ -186,3 +186,16 @@ img.case {
   background-color: rgba(255, 255, 255, 0.2);
   cursor: pointer;
 }
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+}
+.nav-next {
+  margin-left: 1em;
+  text-align: right;
+}
+.nav-prev {
+  margin-right: 1em;
+}
