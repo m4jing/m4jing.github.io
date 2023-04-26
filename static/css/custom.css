@@ -78,8 +78,10 @@ tr:nth-child(even) { background: #eee; }
     position: fixed;
     top: 100px;
     right: 0;
-    max-width: 335px;
+    max-width: calc(50% - 415px);
     min-width: 240px;
+    max-height: 80%;
+    overflow-y: auto;
     margin-right: 2%;
   }
 }
