@@ -7,7 +7,7 @@ categories:
  - blog
 tags:
  - running
-description: Kangaroos Running：袋鼠对于我们跑步的启示
+description: Kangaroos Running：袋鼠对于我们跑步的启示。大自然是块宝藏，等着你去发现点什么。
 keywords: kangaroo,袋鼠,hopping,跳跃,biomechanics
 toc: true
 ---
@@ -18,7 +18,7 @@ toc: true
 
 其中，跑步又是在人类进化过程中发挥重要作用的运动。
 
-近年来，无论是闪电博尔特（Usain Bolt）领衔的 100m 飞人大战，还是基普乔格（Eliud Kipchoge）在马拉松项目上屡破世界纪录，人们对于跑步的热爱持续升温，部分爱好者开始尝试马拉松比赛。
+近年来，随着闪电博尔特（Usain Bolt）领衔的 100m 飞人大战，以及基普乔格（Eliud Kipchoge）在马拉松项目上屡破世界纪录，人们对于跑步的热爱持续升温，部分爱好者开始尝试马拉松比赛。
 
 ## 二、袋鼠的“跑”：跳
 
@@ -45,7 +45,7 @@ toc: true
 ![Movement pattern of kangaroos](/images/wp/kangaroo-movement-pattern.jpg)
 `Fig 1. Movement pattern of kangaroos`
 
-这种形式的动作，耗能随着速度增加而急剧增加（Fig 2），而且这个阶段袋（姑且称为“走”~“快走”）鼠主要通过增加步频（叫“跳频”也行）来加速。（Fig 3）
+这种形式的动作，耗能随着速度增加而急剧增加（Fig 2），而且这个阶段（姑且称为“走”~“快走”）袋鼠主要通过增加步频（叫“跳频”也行）来加速。（Fig 3）
 
 速度继续提升到 6~7km/h时，袋鼠开始转换成跳，尾巴就不再用于支撑身体，而是保持平衡和控制身体的俯仰角度。（Fig 1. ②）
 
@@ -73,9 +73,9 @@ toc: true
 
 很多人发现，高手（比如：肯尼亚人）跑步时，很Q弹，而自己跑步好像灌了铅一样、腿很沉重。
 
-这可能是因为跑步的模式不对，或者发力方式不对，亦或者跟腱弹性不足，那么就需要进行详细的评估，对症下训练方案。
+这可能是因为跑步的模式不对，或者发力方式不对，亦或者跟腱弹性不足，那么就需要进行详细的评估，对症下训练方案。[^3] [^4] [^5]
 
-另外，跑步参数方面，袋鼠的步频、步幅模式，跟人类跑步的模式非常契合：
+另外，跑步参数方面，袋鼠的步频、步幅模式，跟人类跑步的模式非常契合：[^6] [^7]
 
 - 低速时 (走~快走)，加速要是加步频，加到一定程度就要开始跑了
 - 中速时 (跑)，步频一致，加速主要是步幅增加
@@ -83,5 +83,10 @@ toc: true
 
 大自然很神奇，总能给人惊喜。
 
-[^1]: [跑步机与地面跑步，究竟有哪些不同？](/post/2023-04-27-treadmill-vs-overground-running)
+[^1]: [跑步机与地面跑步，究竟有哪些不同？](/2023-04-27/treadmill-vs-overground-running)
 [^2]: Dawson, T. J. (1977). Kangaroos. Scientific American, 237(2), 78–89.
+[^3]: [精英跑者的训练策略](/2023-04-25/elite-runners-strategies/)
+[^4]: [跑步省力的关键：「弹」](https://mp.weixin.qq.com/s?__biz=MzAxMjE3OTA5Nw==&mid=2652009907&idx=1&sn=287f3ab1ae9485ba507cd2a81e3c8067&chksm=80531645b7249f5318010ee8f7c5a2ecd6205f29349bcc6c2775924fd79eb7e98c7d38f00f83&scene=21#wechat_redirect)
+[^5]: [一个“小动作”，迅速提高跑步效率](https://mp.weixin.qq.com/s?__biz=MzAxMjE3OTA5Nw==&mid=2652009804&idx=1&sn=336fa89644c2433dca50110be60be8d1&chksm=805316bab7249fac91ea4e6125677d731a641d1ab91f5d18d0eb5c3becd11c7425c0e29e63f0&scene=21#wechat_redirect)
+[^6]: [关于跑步『最佳步频』的讨论](https://mp.weixin.qq.com/s?__biz=MzAxMjE3OTA5Nw==&mid=2652010144&idx=1&sn=064877697cdf5b129f16ae2c5bdf583b&chksm=80531556b7249c40f7755f3b387779855bcc52164d3bbd5c4e3d20850be72923605b3aae447e&scene=21#wechat_redirect)
+[^7]: [从跑步的步频说起](https://mp.weixin.qq.com/s?__biz=MzAxMjE3OTA5Nw==&mid=2652010090&idx=1&sn=36d76f87054de741877ec4a4a999767a&chksm=8053159cb7249c8aa677d44f5a71b72b8dc16d768f4a491867c165970e95485a7c7ff30cb180&scene=21#wechat_redirect)
