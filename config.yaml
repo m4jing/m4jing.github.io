@@ -66,6 +66,10 @@ params:
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
+  highlight:
+    codeFences: true
+    style: "github"
+    linenos: true
   goldmark:
     renderer:
       unsafe: yes
