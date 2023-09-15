@@ -8,6 +8,7 @@ categories:
   - Cultivation
 tags:
   - Buddhism
+  - Philosophy
 keywords: Diamond sutra,金刚经,慧能,坛经
 ---
 

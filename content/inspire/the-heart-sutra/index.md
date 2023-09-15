@@ -8,6 +8,7 @@ categories:
   - Cultivation
 tags:
   - Buddhism
+  - Philosophy
 ---
 
 ![ouyang](/images/唐-欧阳询书《般若波罗蜜多心经》(拓本).jpg)
