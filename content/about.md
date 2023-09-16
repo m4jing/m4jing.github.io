@@ -75,17 +75,17 @@ I don't want to spend much time on chatting unless necessary, so there's no Inst
 - <img src="/images/qrcode_for_gh_f54de0ac8436_430x430.jpg" style="max-width:200px;min-width:120px;float:initial;" alt="跑向巅峰">
 - [Github/m4jing](https://github.com/m4jing)
 - [Welcome to discuss with me](https://github.com/m4jing/m4jing.github.io/discussions)
-- E-mail: mjingm87@qq.com
+- E-mail: <mjingm87@qq.com>
 
 ## Some links
 
 - [田园木竹的博客](https://blog.niean.name/)
 
-[^bh]: 五道口计算机学院: https://buaa.edu.cn/
-[^cupes]: 北京国际奥林匹克学院: https://www.cupes.edu.cn/
-[^r]: R language: https://www.r-project.org/
-[^py]: Python language: https://www.python.org/
+[^bh]: 五道口计算机学院: <https://buaa.edu.cn/>
+[^cupes]: 北京国际奥林匹克学院: <https://www.cupes.edu.cn/>
+[^r]: R language: <https://www.r-project.org/>
+[^py]: Python language: <https://www.python.org/>
 [^run]: [我的跑步故事](/2019-07-14/why-i-run/)
-[^xw]: 许巍: https://music.163.com/#/artist?id=5770
-[^steve1]: Steve Jobs to 2005 graduates: ‘Stay hungry, stay foolish’: https://news.stanford.edu/2005/06/12/steve-jobs-2005-graduates-stay-hungry-stay-foolish/
-[^steve2]: ‘You’ve got to find what you love,’ Jobs says: https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+[^xw]: 许巍: <https://music.163.com/#/artist?id=5770>
+[^steve1]: Steve Jobs to 2005 graduates: ‘Stay hungry, stay foolish’: <https://news.stanford.edu/2005/06/12/steve-jobs-2005-graduates-stay-hungry-stay-foolish/>
+[^steve2]: ‘You’ve got to find what you love,’ Jobs says: <https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/>
