@@ -10,6 +10,7 @@ tags:
   - Philosophy
 keywords: 凯文·凯利,Kevin Kelly,Excellent Advice for Living,宝贵的人生建议
 toc: true
+showdate: true
 ---
 
 > :heart: A new book by Kevin Kelly (KK):
