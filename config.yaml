@@ -26,9 +26,15 @@ menu:
     #   weight: 1
     - name: English-in-use
       url: https://m4jing.github.io/english-in-use
+      params:
+        # rel: external
+        # class: center
+        target: _blank
+      # pre: <i class="fa fa-heart">i</i>
       weight: 1
     - name: Post
-      url: /post/
+      pageRef: /post/
+      # url: /post/
       weight: 1
     - name: Inspire
       url: /inspire/
