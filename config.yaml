@@ -31,16 +31,20 @@ menu:
         # class: center
         target: _blank
       # pre: <i class="fa fa-heart">i</i>
+      title: Use your English
       weight: 1
     - name: Post
       pageRef: /post/
       # url: /post/
+      title: Ideas and thoughts
       weight: 1
     - name: Inspire
       url: /inspire/
+      title: Thinking and practice
       weight: 2
     - name: About
       url: /about/
+      title: Know more about Jing Ma
       weight: 3
     # - name: Running
     #   url: /running/
