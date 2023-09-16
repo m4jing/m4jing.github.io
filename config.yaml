@@ -17,12 +17,16 @@ ignoreFiles:
   - \.utf8\.md$
 permalinks:
   post: /:year-:month-:day/:slug/
+  # inspire: /:year-:month/:slug/
 
 menu:
   main:
     # - name: Research
     #   url: /research/
     #   weight: 1
+    - name: English-in-use
+      url: https://m4jing.github.io/english-in-use
+      weight: 1
     - name: Post
       url: /post/
       weight: 1
