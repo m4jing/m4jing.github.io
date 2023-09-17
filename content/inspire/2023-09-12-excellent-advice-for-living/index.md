@@ -78,5 +78,17 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `一开始不要追求完美，否则就永远完不成，因为完美太难达到了`
 
+## 4
+
+> Over the long term, the future is decided by optimists.
+>
+> To be an optimist you don’t have to ignore the multitude of problems we create; you just have to imagine how much our ability to solve problems improves.
+
+从长期来看，未来是由乐观者决定的。
+
+作为一个乐观主义者，你不必忽视我们制造的众多问题；你只需要想象我们解决问题的能力提高了多少。
+
+→ `改变是第一驱动力：关注自身的能力提升；没有问题，就没有提升`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
