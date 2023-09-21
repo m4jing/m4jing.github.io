@@ -90,5 +90,17 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `改变是第一驱动力：关注自身的能力提升；没有问题，就没有提升`
 
+## 5
+
+> Most overnight successes —— in fact, any significant successes —— take at least 5 years.
+>
+> Budget your life accordingly.
+
+大多数一夜成名——事实上，任何重大的成功——都需要至少5年。
+
+合理规划你的人生。
+
+→ `没有人能随随便便成功`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
