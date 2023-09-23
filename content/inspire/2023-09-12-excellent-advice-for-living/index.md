@@ -102,5 +102,17 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `没有人能随随便便成功`
 
+## 6
+
+> You don’t need more time because you already have all the time that you will ever get;
+>
+> you need more focus.
+
+你不需要更多的时间，因为你已经拥有了所有的时间；
+
+你需要的是更多的专注。
+
+→ `知止而后有定`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
