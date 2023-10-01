@@ -33,7 +33,7 @@ showdate: true
 
 一个值得追求的人生目标是，成为有影响力、行为不能被预测的人。
 
-也就是说，要做那些AI难以模仿的事。做一个不能被算法模型化的人， 这样你将无可取代。
+也就是说，要做那些AI难以模仿的事。做一个不能被算法模型化的人，这样你将无可取代。
 
 → `自主思考，做自己，独一无二`
 
@@ -113,6 +113,33 @@ so even if your effort falls short, it may exceed an ordinary success.
 你需要的是更多的专注。
 
 → `知止而后有定`
+
+## 7
+
+> With sharp things, always cut away from yourself.
+
+对于锋利的东西，一定要远离自己。
+
+→ `含德之厚，比于赤子。蜂虿虺蛇不螫，猛兽不据，攫鸟不搏。`
+
+## 8
+
+> Passion, persistence, belief, and ingenuity are required to invent new things.
+
+发明新事物，需要热情、坚持、信念和独创性。
+
+→ `Stay hungry, stay foolish.`
+
+## 9
+
+> It is much easier to change how you think by changing your behavior than it is to change your behavior by changing how you think.
+
+通过改变行为来改变思维方式，要比通过改变思维方式来改变行为容易得多。
+
+→ *认知不协调*：
+
+- `不一定先得改认知才能改行为。`
+- `直接改行为，从而促进认知的改善。`
 
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
