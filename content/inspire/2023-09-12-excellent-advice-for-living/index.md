@@ -141,5 +141,21 @@ so even if your effort falls short, it may exceed an ordinary success.
 - `不一定先得改认知才能改行为。`
 - `直接改行为，从而促进认知的改善。`
 
+## 10
+
+> Ignore what others may be thinking of you, because they aren’t thinking of you.
+
+不要理会别人对你的看法，因为他们并没有为你着想。
+
+→ `无所求，无所待，无所靠`
+
+## 11
+
+> All the greatest prizes in life in wealth, relationships, or knowledge come from the magic of compounding interestby amplifying small steady gains.
+
+在财富、人际关系或知识方面，人生中所有最大的收获都来自于神奇的复利，即通过放大微小的稳定收益。
+
+→ `积少成多，聚沙成塔，集腋成裘`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
