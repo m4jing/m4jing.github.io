@@ -157,5 +157,49 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `积少成多，聚沙成塔，集腋成裘`
 
+## 12
+
+> If your goal does not have a schedule, it is a dream.
+
+如果你的目标没有时间安排表，那就只是个梦而已。
+
+→ `没有在日历中安排日程的内容，大概率是完不成的`
+
+## 13
+
+> Every person you meet knows an amazing lot about something you know virtually nothing about.
+>
+> It won’t be obvious and your job is to discover what it is.
+>
+> Cultivate an allergy to average.
+
+你遇到的每一个人都对某些你几乎一无所知的事情了如指掌。
+
+它不会很明显，而你需要去发现它。
+
+培养对平凡的过敏性。
+
+→ `三人行，必有我师焉`
+
+## 14
+
+> A problem that can easily be solved with money is not really a problem because its solution is obvious.
+>
+> Focus on problems with non-obvious solutions.
+
+很容易用钱解决的问题不是一个真正的问题，因为它的解决方案是显而易见的。
+
+把注意力集中在没有明显解决方案的问题上。
+
+→ `关注“真问题”`: *最重要的事情是看不见的*
+
+## 15
+
+> About 99% of the time, the right time is right now.
+
+大约99%的情况下，正确的时间就是现在。
+
+→ `时不我待`: “种一棵树，最好的时间是10年前，其次最好的时间是现在”
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
