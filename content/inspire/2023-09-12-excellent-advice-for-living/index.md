@@ -201,5 +201,29 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `时不我待`: “种一棵树，最好的时间是10年前，其次最好的时间是现在”
 
+## 16
+
+> Take one simple thing — almost anything —
+>
+> but take it extremely seriously, as if it is the only thing in the world - or maybe the entire world is in it,
+>
+> and by taking it seriously, you'll light up the sky.
+
+选一件简单的事情——几乎任何事情都可以，但要极其认真地对待它，就好像它是世界上唯一的事情——或者说它就是整个世界——只要认真对待，你就能照亮天空。
+
+→ `简单、极致、快`
+
+## 17
+
+> When making something, always get a few extras — extra material - extra parts, extra space, extra finishes.
+>
+> The extras serve as backups for mistakes, reduce stress and fill your inventory for the future.
+
+做事情时，尽量多做一些——额外的部件、额外的空间、额外的处理。
+
+那些额外的部分，可以作为出错时的备用材料，减轻你的压力，并为将来做好准备。
+
+→ `有备无患`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
