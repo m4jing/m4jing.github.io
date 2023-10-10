@@ -22,15 +22,16 @@
 
 .highlight {
   margin: unset;
+  overflow-x: auto;
 }
 .highlight pre {
   padding: unset;
 }
-@media (min-width: 600px) {
+/* @media (min-width: 600px) {
   .highlight {
     margin: unset;
   }
-}
+} */
 
 code {
   box-shadow: 1px 1px 5px #aaa;
