@@ -225,5 +225,49 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `有备无患`
 
+## 18
+
+> The expanding universe is overflowing with abundance.
+>
+> It is so full that improvement can often be gained only by subtracting.
+>
+> Keep removing, until you can't.
+>
+> End with wanting more, not less.
+
+不断膨胀的宇宙充溢着丰富。
+
+它是如此充盈，以至于往往只能通过做减法来获得改善。
+
+不断做减法，直到做不下去为止。
+
+最后，只求更多，不求更少。
+
+→ `损之又损，以至于无为`
+
+## 19
+
+> Figure out what time of day you are most productive and protect that time period.
+
+找出一天中哪个时间段你的工作效率最高，并保护好这个时间段。
+
+→ `管理你的精力能量`
+
+## 20
+
+> Greatness is incompatible with optimizing in the short term.
+>
+> To achieve greatness requires a long view.
+>
+> Raise your time horizon to raise your goal.
+
+伟大与短期优化是不相容的。
+
+要成就伟业，就必须放眼长远。
+
+提高你的时间跨度，才能提高你的目标。
+
+→ `终局思维`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
