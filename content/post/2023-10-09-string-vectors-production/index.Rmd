@@ -1,0 +1,95 @@
+---
+title: 字符串向量的“积” (R/Python)
+subtitle: String vectors production
+author: Jing Ma
+date: '2023-10-08'
+slug: string-vectors-production
+categories:
+  - R
+tags:
+  - R
+  - R Markdown
+description: 字符串向量的“积”
+keywords: R,Python,vector computation
+toc: true
+---
+
+## 场景
+
+在处理 OpenSim 导出的 `.sto` 数据时，需要构建自定义的数据框：
+
+- 获取原始数据并计算，得到自己想要的结果数据
+- 将对应的结果数据放在相应的列名下
+
+列名是由 2 部分组合而成：
+
+```{r params}
+params <- c('hip_flexion_l_moment', 'knee_angle_l_moment', 'ankle_angle_l_moment')
+suffix <- c('min', 'max')
+```
+
+最终的列名应该是这样的：
+
+```
+[1] "hip_flexion_l_moment_min" "hip_flexion_l_moment_max"
+[3] "knee_angle_l_moment_min"  "knee_angle_l_moment_max"
+[5] "ankle_angle_l_moment_min" "ankle_angle_l_moment_max"
+```
+
+## R 语言实现
+
+直观做法是用循环去遍历，然后拼接：
+
+```{r loop}
+# params <- c('hip_flexion_l_moment', 'knee_angle_l_moment', 'ankle_angle_l_moment')
+# suffix <- c('min', 'max')
+
+# 初始化结果向量
+result <- vector("character", length(params) * length(suffix))
+
+# 使用循环遍历参数列表和值列表，并将它们组合成需要的字符串形式
+for (i in 1:length(params)) {
+  for (j in 1:length(suffix)) {
+    result[(i * length(suffix))-1 + j-1] <- paste0(params[i], '_', suffix[j])
+  }
+}
+
+# 输出结果向量
+print(result)
+```
+
+但其实，用 R 来实现的话，有非常简洁的做法：
+
+```{r concise}
+# params <- c('hip_flexion_l_moment', 'knee_angle_l_moment', 'ankle_angle_l_moment')
+# suffix <- c('min', 'max')
+
+new_params <- paste(
+  rep(params, each = length(suffix)),
+  rep(suffix, times = length(params)),
+  sep = '_'
+)
+new_params
+```
+
+主要是运用了 R 中的 `rep()` 和 `paste()` 函数：
+
+- `rep()` 的`each`和`times`参数分别将 `params`和`suffix` 向量扩展为同样长度(=目标长度)的向量
+- `paste()` 将二者以**向量**的方式拼接起来，分隔符为 `_`
+
+## 同样功能的 Python 实现
+
+```python
+import numpy as np
+
+params = ['hip_flexion_l_moment', 'knee_angle_l_moment', 'ankle_angle_l_moment']
+suffix = ['min', 'max']
+
+new_params = np.char.add(
+  np.repeat(params, len(suffix)),
+  np.char.add('_', suffix * len(params))
+)
+print(new_params)
+```
+
+对比可知，R 的内置函数相当强大而简洁，而 Python 的库也很不错。
