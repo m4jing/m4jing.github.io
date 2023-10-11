@@ -269,5 +269,25 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `终局思维`
 
+## 21
+
+> Most wonderful things quickly become unwonderful if they are repeated too often.
+>
+> *Once-in-a-life* is often the optimal interval.
+
+如果重复的次数过多，大多数美好的事物很快就会变得不再美好。
+
+*一生一次*往往是最佳间隔。
+
+→ `You have nothing to lose. - Steve Jobs`
+
+## 22
+
+> The greatest teacher is called “doing.”
+
+最伟大的老师叫“做”。
+
+→ `知而不行，只是未知`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
