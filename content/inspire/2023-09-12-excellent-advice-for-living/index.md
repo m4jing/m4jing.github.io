@@ -289,5 +289,25 @@ so even if your effort falls short, it may exceed an ordinary success.
 
 → `知而不行，只是未知`
 
+## 23
+
+Learning probability and statistics is far more useful than learning algebra and calculus.
+
+学习概率论和统计学比学习代数和微积分有用得多。
+
+→ `看清世界的真相`
+
+## 24
+
+The consistency of your endeavors (exercise, companionship, work) is more important than the quantity.
+
+Nothing beats small things done every day, which is way more important than what you do occasionally.
+
+努力的持续性（锻炼、陪伴、工作）比数量更重要。
+
+没有什么能胜过每天做的小事，这比你偶尔做的事重要得多。
+
+→ `习惯的力量`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
