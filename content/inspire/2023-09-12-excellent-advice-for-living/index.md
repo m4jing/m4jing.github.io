@@ -309,5 +309,39 @@ Nothing beats small things done every day, which is way more important than what
 
 → `习惯的力量`
 
+## 25
+
+> Efficiency is highly overrated; goofing off is highly underrated.
+>
+> Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind.
+>
+> The best work ethic requires a good rest ethic.
+
+效率被高估了，“偷懒”却被低估了。
+
+定期的休假、公休、休假、休息、随意的散步和放空时间，对于任何一种工作的最佳表现都是必不可少的。
+
+最好的职业道德需要良好的休息道德。
+
+→ `“悟空”`
+
+## 26
+
+> Speak confidently as if you are right,
+>
+> but listen carefully as if you are wrong.
+
+说话时要充满自信，仿佛自己是正确的；但同时要仔细聆听，仿佛自己是错的。
+
+> 强调了在交流中既要表达自己的观点，又要尊重他人的意见，虚心听取他人的看法。
+
+→ `德才兼备；克己复礼`
+
+- 三人行，必有我师焉。——《论语·述而》
+- 知之为知之，不知为不知，是知也。——《论语·为政》
+- 谦受益，满招损。——《尚书·大禹谟》
+- 虚心使人进步，骄傲使人落后。——毛泽东
+- 他山之石，可以攻玉。——《诗经·小雅·鹤鸣》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
