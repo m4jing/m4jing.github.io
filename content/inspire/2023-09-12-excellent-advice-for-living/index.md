@@ -343,5 +343,31 @@ Nothing beats small things done every day, which is way more important than what
 - 虚心使人进步，骄傲使人落后。——毛泽东
 - 他山之石，可以攻玉。——《诗经·小雅·鹤鸣》
 
+## 27
+
+> Productivity is often a distraction.
+>
+> Don’t aim for better ways to get through your tasks as quickly as possible.
+>
+> Instead aim for better tasks that you never want to stop doing.
+
+*效率*往往会让人分心。
+
+不要把目标定为寻找更快完成任务的方法，而应该定为寻找那些让你永远不想停止的更好的任务。
+
+→ `做正确的事，而不是正确地做事`
+
+## 28
+
+> The biggest lie we tell ourselves is:
+>
+> “I don’t need to write this down because I will remember it.”
+
+我们对自己撒的最大的谎就是：
+
+“我不需要把这些写下来，因为我会记住它。“
+
+→ `好记性不如烂笔头`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
