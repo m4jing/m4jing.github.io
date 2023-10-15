@@ -60,6 +60,8 @@ I love running because it makes me feel **inner peace**. When I was coaching peo
 - 博观约取，厚积薄发
 - 文明其精神，野蛮其体魄
 - 永远年轻，永远热泪盈眶
+- 学而不思则罔，思而不学则殆[^con]
+- 吾尝终日而思矣，不如须臾之所学也[^quanxue]
 - 没有什么能够阻挡，我对自由的向往
 - 纵使寒风凛冽又孤寂冷清，奈何吾心向往之
 - 这个世界，唯一不变的，就是在不停地改变
@@ -89,3 +91,5 @@ I don't want to spend much time on chatting unless necessary, so there's no Inst
 [^xw]: 许巍: <https://music.163.com/#/artist?id=5770>
 [^steve1]: Steve Jobs to 2005 graduates: ‘Stay hungry, stay foolish’: <https://news.stanford.edu/2005/06/12/steve-jobs-2005-graduates-stay-hungry-stay-foolish/>
 [^steve2]: ‘You’ve got to find what you love,’ Jobs says: <https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/>
+[^con]: 《论语》，孔子
+[^quanxue]: 《劝学》,荀子
