@@ -369,5 +369,28 @@ Nothing beats small things done every day, which is way more important than what
 
 → `好记性不如烂笔头`
 
+## 29
+
+> Don’t keep making the same mistakes;
+>
+> try to make new mistakes.
+
+不要老是犯同样的错误；
+
+尝试犯新的错误。
+
+→ `学会“犯错”：犯正确的错误`
+
+## 30
+
+> You can find no better medicine for your family than regular meals together without screens.
+
+没有比一家人围坐在一起吃饭、不看屏幕更好的家庭良方了。
+
+→ `正常的东西，反而变成了难事`：*我们都在忙些什么？*
+
+- 想起了一本书：《浅薄：互联网如何毒化了我们的大脑》
+- 家和万事兴。——《增广贤文》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
