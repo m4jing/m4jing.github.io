@@ -392,5 +392,31 @@ Nothing beats small things done every day, which is way more important than what
 - 想起了一本书：《浅薄：互联网如何毒化了我们的大脑》
 - 家和万事兴。——《增广贤文》
 
+## 31
+
+> There is no such thing as being “on time.”
+>
+> Either you are late or you are early.
+>
+> Your choice.
+
+没有所谓的“准时”。你不是迟到就是早到。
+
+一切在于你的选择。
+
+→ `“早起能干很多事”`
+
+## 32
+
+> Learn how to be alone without being lonely.
+>
+> Solitude is essential for creativity.
+
+学会独处而不觉孤独。
+
+独处对创造力来说，至关重要。
+
+→ `学会独处，享受孤独`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
