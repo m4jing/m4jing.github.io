@@ -418,5 +418,41 @@ Nothing beats small things done every day, which is way more important than what
 
 → `学会独处，享受孤独`
 
+## 33
+
+> When you feel like quitting, just do five more:
+>
+> 5 more minutes, 5 more pages, 5 more steps. Then repeat.
+>
+> Sometimes you can break through and keep going, but even if you can’t, you ended five ahead.
+>
+> Tell yourself that you will quit tomorrow, but not today.
+
+当你想放弃的时候，就再多做几个“5”：多坚持 5 分钟，再多读 5 页书，再多走 5 步；然后重复这个过程。
+
+有时，你可以突破自我、继续前进，但即使不能，你也已经向前走了五步。
+
+告诉自己，明天才会放弃，而不是今天。
+
+→ `Win or Go home`
+
+## 34
+
+> When you need to cut something extremely exact, don’t try to do it with one cut.
+>
+> Instead, cut it a bit bigger and then keep trimming it bit by bit until perfect.
+>
+> Professional makers call this "creeping up" to the precise measurement.
+
+当你需要切得非常精确时，不要试图一刀切下。
+
+相反，可以先切大一点，然后一点一点地修剪，直到完美为止。
+
+专业制作者称这种方法为"*逐步提高*"精确测量。
+
+→ `步步为营`
+
+> 可激劝士卒，拔寨前进，步步为营，诱渊来战而擒之，此乃反客为主之法。（明·罗贯中《三国演义》第71回）
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
