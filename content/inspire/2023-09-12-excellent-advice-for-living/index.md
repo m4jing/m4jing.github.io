@@ -454,5 +454,25 @@ Nothing beats small things done every day, which is way more important than what
 
 > 可激劝士卒，拔寨前进，步步为营，诱渊来战而擒之，此乃反客为主之法。（明·罗贯中《三国演义》第71回）
 
+## 35
+
+> Constantly search for overlapping areas of agreement and dwell there. Disagreements will appear to be edge cases.
+
+不断寻找意见一致的重叠区域，并停在这个区域内。分歧会出现在边缘。
+
+→ `寻求共识`
+
+## 36
+
+> 90% of everything is crap.
+>
+> If you think you don’t like opera, romance novels, TikTok, country music, vegan food, NFTs, keep trying to see if you can find the 10% that is not crap.
+
+90%的东西都是垃圾。
+
+如果你认为自己不喜欢歌剧、言情小说、TikTok、乡村音乐、素食、NFT，那就继续尝试，看看能不能找到那 10% 不是垃圾的东西。
+
+→ `奥卡姆剃刀：去掉一切不创造价值的环节`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
