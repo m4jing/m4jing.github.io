@@ -474,5 +474,41 @@ Nothing beats small things done every day, which is way more important than what
 
 → `奥卡姆剃刀：去掉一切不创造价值的环节`
 
+## 37
+
+> We tend to overestimate what we can do in a day, and underestimate what we can achieve in a decade.
+>
+> Miraculous things can be accomplished if you give it 10 years.
+>
+> A long game will compound small gains that will be able to overcome even big mistakes.
+
+我们往往高估了自己一天能做的事情，却低估了自己十年能取得的成就。
+
+如果你能坚持十年，就能创造奇迹。
+
+长期的积累可以让小收益不断增长，从而弥补甚至超越大的失误。
+
+→ `1天 vs 10年；短期 vs 长期`
+
+- 千里之堤毁于蚁穴，万事之功败于垂成。
+- 不积跬步无以至千里，不积小流无以成江海。
+- 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。
+
+## 38
+
+> A wise man said: Before you speak, let your words pass through three gates.
+>
+> - At the first gate, ask yourself, "Is it true?"
+> - At the second gate ask, "Is it necessary?"
+> - At the third gate ask, "Is it kind?"
+
+一位智者说：说话之前，先让你的话过三道关：
+
+- 到第一道门，问自己：“这是真的吗？”
+- 在第二道门问：“有必要吗？”
+- 在第三道门问：“它是善良的吗？”
+
+→ `三思而后行`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
