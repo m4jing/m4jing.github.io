@@ -510,5 +510,31 @@ Nothing beats small things done every day, which is way more important than what
 
 → `三思而后行`
 
+## 39
+
+> Your best job will be one that you were unqualified for, because it stretches you.
+>
+> In fact, only apply to jobs you are unqualified for.
+
+你最好的工作是那个你一开始无法胜任的工作，因为它能拓展你的能力。
+
+事实上，你只应该申请你暂时无法胜任的工作。
+
+→ `跳一跳，够得着`
+
+## 40
+
+> What you actually pay for something can be twice the listed price,
+>
+> because the energy, time, and money needed to set it up, learn, maintain, repair it and then dispose of it when done all have their own cost.
+>
+> Not all prices appear on labels.
+
+你实际为某样东西付出的代价可能是标价的两倍，因为购买、学习、维护、修理和处理它所需的精力、时间和金钱都有其自身的成本。
+
+并非所有的价格都会在标签上体现。
+
+→ `明枪易躲，暗箭难防。——《增广贤文》`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
