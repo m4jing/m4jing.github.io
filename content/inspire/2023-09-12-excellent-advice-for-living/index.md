@@ -522,6 +522,8 @@ Nothing beats small things done every day, which is way more important than what
 
 → `跳一跳，够得着`
 
+- “君子不器”——《论语·为政》(君子不应像器具一样，只有一种固定的用途，而应该博学多才、素质全面、通达治世)
+
 ## 40
 
 > What you actually pay for something can be twice the listed price,
@@ -535,6 +537,30 @@ Nothing beats small things done every day, which is way more important than what
 并非所有的价格都会在标签上体现。
 
 → `明枪易躲，暗箭难防。——《增广贤文》`
+
+## 41
+
+> It’s possible that a not-so-smart person who can communicate well can do much better than a super-smart person who can’t communicate well.
+>
+> That is good news because it is much easier to improve your communication skills than your intelligence.
+
+一个不那么聪明但能良好沟通的人，可能会比一个非常聪明但不能良好沟通的人做得更好。
+
+这是一个好消息，因为提高沟通技巧比提高智力更容易。
+
+→ `“巧言如簧，颜之厚矣。”《诗经·小雅·巧言》`
+
+## 42
+
+> Looking ahead, focus on direction rather than destinations.
+>
+> Maintain the right direction and you’ll arrive at where you want to go.
+
+向前看，关注方向，而不是目的地。
+
+保持正确的方向，你就会到达你想去的地方。
+
+→ `“路漫漫其修远兮，吾将上下而求索。”屈原《离骚》`
 
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
