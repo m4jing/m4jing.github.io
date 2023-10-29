@@ -562,5 +562,25 @@ Nothing beats small things done every day, which is way more important than what
 
 → `“路漫漫其修远兮，吾将上下而求索。”屈原《离骚》`
 
+## 43
+
+> When you are stuck explain your problem to others.
+>
+> Often simply laying out a problem will present a solution.
+>
+> Make “explaining the problem” part of your troubleshooting process.
+
+当你遇到困难时，向他人解释你的问题。
+
+通常，仅仅把问题摆出来就会呈现出解决方案。
+
+将“解释问题”作为故障排除过程的一部分。
+
+→ `把问题说清楚`
+
+- 当局者迷，旁观者清。——《旧唐书·元行冲传》
+- 横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。——苏轼《题西林壁》
+- 不畏浮云遮望眼，只缘身在最高层。——王安石《登飞来峰》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
