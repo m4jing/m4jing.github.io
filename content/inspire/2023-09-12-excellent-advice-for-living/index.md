@@ -582,5 +582,25 @@ Nothing beats small things done every day, which is way more important than what
 - 横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。——苏轼《题西林壁》
 - 不畏浮云遮望眼，只缘身在最高层。——王安石《登飞来峰》
 
+## 44
+
+> When introduced to someone make eye contact and count to four or say to yourself, “I see you.”
+>
+> You’ll both remember each other.
+>
+> Your group can achieve great things way beyond your means simply by showing people that they are appreciated.
+
+当你被介绍给某个人时，进行眼神交流并数到四，或者对自己说：“我看到你了。”
+
+这样你们两个都会记住对方。
+
+只要向人们表达感激之情，你的团队就能取得超越自身能力的巨大成就。
+
+→ `状态自尊`
+
+- 士为知己者死，女为悦己者容。——《战国策·赵策一》
+- 海内存知己，天涯若比邻。——王勃《送杜少府之任蜀州》
+- 人生贵相知，何必金与钱。——李白《赠友人三首》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
