@@ -602,5 +602,27 @@ Nothing beats small things done every day, which is way more important than what
 - 海内存知己，天涯若比邻。——王勃《送杜少府之任蜀州》
 - 人生贵相知，何必金与钱。——李白《赠友人三首》
 
+## 45
+
+> Be a pro. Back up your backup.
+>
+> Have at least one physical backup and one backup in the cloud.
+>
+> Have more than one of each.
+>
+> How much would you pay to retrieve all your data, photos, notes if you lost them?
+>
+> Backups are cheap compared to regrets.
+
+备份很重要，应该做好充分的备份工作，包括物理备份和云备份，并且最好有多个备份。
+
+因为数据丢失所带来的损失是巨大的，备份花费的成本与之相比是微不足道的。
+
+→ `有备无患`
+
+- 居安思危，思则有备，有备无患。——《左传·襄公十一年》
+- 凡事预则立，不预则废。——《礼记·中庸》
+- 人无远虑，必有近忧。——《论语·卫灵公》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
