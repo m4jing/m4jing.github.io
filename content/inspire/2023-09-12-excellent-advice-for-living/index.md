@@ -624,5 +624,20 @@ Nothing beats small things done every day, which is way more important than what
 - 凡事预则立，不预则废。——《礼记·中庸》
 - 人无远虑，必有近忧。——《论语·卫灵公》
 
+## 46
+
+> Your time and space are limited.
+>
+> Remove, give away, throw out anything that no longer gives you joy in order to make room for those that do.
+
+你的时间和空间是有限的。
+
+那些已经失去价值、不能再给我们带来快乐的人事物，理应果断舍弃，才能为真正有价值的东西腾出空间。
+
+→ `断舍离`：当断则断，当舍则舍，当离则离
+
+- 人生苦短，逝者如斯。
+- 弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
