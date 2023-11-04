@@ -641,7 +641,7 @@ Nothing beats small things done every day, which is way more important than what
 
 ## 47
 
-> Explore or optimize?
+> *Explore* or *optimize*?
 >
 > Do you optimize what you know will sell or explore with something new?
 >
@@ -673,3 +673,23 @@ Nothing beats small things done every day, which is way more important than what
 
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
+
+## 48
+
+> Occasionally your first idea is best, but usually it’s the fifth idea.
+>
+> You need to get all the obvious ideas out of the way.
+>
+> Try to surprise yourself.
+
+有时候，你的第一个想法是最好的，但通常情况下，第五个想法才是最佳选择。
+
+你需要摆脱那些显而易见的想法。
+
+试着让自己感到惊讶。
+
+→ `很明显的方法，不是真方法`
+
+- 行成于思毁于随。——韩愈《进学解》
+- 千淘万漉虽辛苦，吹尽狂沙始到金。——刘禹锡《浪淘沙》（其八）
+- 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
