@@ -639,5 +639,37 @@ Nothing beats small things done every day, which is way more important than what
 - 人生苦短，逝者如斯。
 - 弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。
 
+## 47
+
+> Explore or optimize?
+>
+> Do you optimize what you know will sell or explore with something new?
+>
+> Do you order a restaurant dish you are sure is great (optimize) or do you try something new?
+>
+> Do you keep dating new folks (explore) or try to commit to someone you met?
+>
+> The ideal balance for exploring new things vs. optimizing those already found is ⅓.
+>
+> Spend ⅓ of your time on exploring and ⅔ on optimizing and deepening.
+>
+> As you mature it is harder to devote time to exploring because it seems unproductive but aim for ⅓.
+
+你是选择在已知领域进行优化，还是选择探索新的领域？
+
+你是选择在餐厅点你确定很好吃的菜（优化），还是选择尝试新的菜品（探索）？
+
+你是选择继续与新人约会（探索），还是选择与已经认识的人建立更深入的关系（优化）？
+
+探索新事物和优化已有的事物之间的理想平衡是 1/3。将 1/3 的时间用于探索新事物，2/3 的时间用于优化和深化已有的事物。
+
+随着年龄的增长，人们会发现很难将时间用于探索，因为这似乎效率低下，但请尝试保持 1/3 的时间用于探索。
+
+→ `新 VS 旧；拓展 VS 优化`
+
+- 学而不思则罔，思而不学则殆。——《论语》
+- 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
+- 问渠那得清如许？为有源头活水来。——朱熹《观书有感》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
