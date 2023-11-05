@@ -671,9 +671,6 @@ Nothing beats small things done every day, which is way more important than what
 - 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
 - 问渠那得清如许？为有源头活水来。——朱熹《观书有感》
 
-[^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
-[^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
-
 ## 48
 
 > Occasionally your first idea is best, but usually it’s the fifth idea.
@@ -693,3 +690,16 @@ Nothing beats small things done every day, which is way more important than what
 - 行成于思毁于随。——韩愈《进学解》
 - 千淘万漉虽辛苦，吹尽狂沙始到金。——刘禹锡《浪淘沙》（其八）
 - 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
+
+## 49
+
+> Don’t bother fighting the old, just build the new.
+
+不要费力与旧事物抗争，而是去创造新事物。
+
+→ `别纠结过去，去创造未来`
+
+- 问渠那得清如许？为有源头活水来。——朱熹《观书有感》（其一）
+
+[^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
+[^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
