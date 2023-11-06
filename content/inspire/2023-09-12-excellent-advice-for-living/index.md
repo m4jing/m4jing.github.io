@@ -701,5 +701,16 @@ Nothing beats small things done every day, which is way more important than what
 
 - 问渠那得清如许？为有源头活水来。——朱熹《观书有感》（其一）
 
+## 50
+
+> When negotiating, don’t aim for a bigger piece of the pie; aim to create a bigger pie.
+
+在谈判时，不要只关注如何分到更大的一块蛋糕，而应该致力于创造一个更大的蛋糕。
+
+→ `零和游戏` VS `无限游戏`
+
+- 独乐乐不如众乐乐。——《孟子·梁惠王下》
+- 不谋全局者，不足以谋一域。——《寤言二·迁都建藩议》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
