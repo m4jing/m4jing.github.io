@@ -712,5 +712,17 @@ Nothing beats small things done every day, which is way more important than what
 - 独乐乐不如众乐乐。——《孟子·梁惠王下》
 - 不谋全局者，不足以谋一域。——《寤言二·迁都建藩议》
 
+## 51
+
+> You are as big as the things that make you angry.
+
+你的气度有多大，取决于让你生气的事情有多大。
+
+→ `格局`：含德之厚，比于赤子
+
+- 海纳百川，有容乃大。——林则徐
+- 宰相肚里能撑船。——俗语
+- 心似大海宽，气吞山河壮。——《警世贤文》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
