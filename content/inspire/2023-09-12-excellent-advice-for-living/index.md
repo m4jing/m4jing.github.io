@@ -724,5 +724,19 @@ Nothing beats small things done every day, which is way more important than what
 - 宰相肚里能撑船。——俗语
 - 心似大海宽，气吞山河壮。——《警世贤文》
 
+## 52
+
+> Do more of what looks like work to others but is play for you.
+
+多做那些在别人看来像是工作，但对你来说却是玩乐的事情。
+
+→ `培养自己的核心竞争力`
+
+- 自己就是玩，但对别人来说却很难
+- 你必须非常努力，才能看起来毫不费力
+- 行到水穷处，坐看云起时。——王维《终南别业》
+- 采菊东篱下，悠然见南山。——陶渊明《饮酒·其五》
+- 人生得意须尽欢，莫使金樽空对月。——李白《将进酒》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
