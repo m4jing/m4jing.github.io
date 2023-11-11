@@ -738,5 +738,19 @@ Nothing beats small things done every day, which is way more important than what
 - 采菊东篱下，悠然见南山。——陶渊明《饮酒·其五》
 - 人生得意须尽欢，莫使金樽空对月。——李白《将进酒》
 
+## 53
+
+> Copying others is a good way to start.
+>
+> Copying yourself is a disappointing way to end.
+
+模仿他人是一个好的开始方式，复制自己就要令人失望了。
+
+→ `模仿他人：迅速开始；但自己一直重复老样子，则毫无长进`
+
+- 博观而约取，厚积而薄发。——苏轼《稼说送张琥》
+- 善学者，假人之长以补其短。——《吕氏春秋·用众》
+- 学而不思则罔，思而不学则殆。——《论语·为政》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
