@@ -752,5 +752,13 @@ Nothing beats small things done every day, which is way more important than what
 - 善学者，假人之长以补其短。——《吕氏春秋·用众》
 - 学而不思则罔，思而不学则殆。——《论语·为政》
 
+## 54
+
+> Pay attention to what you pay attention to.
+
+留意你所关注的内容。
+
+→ `元认知` - `精力管理`
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
