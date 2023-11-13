@@ -760,5 +760,17 @@ Nothing beats small things done every day, which is way more important than what
 
 → `元认知` - `精力管理`
 
+## 55
+
+> For maximum results, focus on your biggest opportunities, not your biggest problems.
+
+为了获得最大的成果，我们应该关注最大的机会，而不是最大的问题。
+
+→ `关注事实` VS `关注效果`
+
+- 机不可失，时不再来。——《旧五代史·晋书·安重荣传》
+- 逝者如斯夫，不舍昼夜。——《论语·子罕》
+- 见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。——《战国策·楚策四》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
