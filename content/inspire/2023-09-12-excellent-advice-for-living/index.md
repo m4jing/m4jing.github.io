@@ -772,5 +772,21 @@ Nothing beats small things done every day, which is way more important than what
 - 逝者如斯夫，不舍昼夜。——《论语·子罕》
 - 见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。——《战国策·楚策四》
 
+## 56
+
+> It doesn’t matter how many people don’t appreciate you or your work.
+>
+> The only thing that counts is how many do.
+
+别人不欣赏你或你的工作并不重要。
+
+重要的是有多少人欣赏你。
+
+→ `知己`: 知 = 矢 + 口 (射箭中靶即为“知”)
+
+- 知我者谓我心忧，不知我者谓我何求。——《诗经·王风·黍离》
+- 众口铄金，积毁销骨。——《史记·张仪列传》
+- 人生得一知己足矣，斯世当以同怀视之。——鲁迅
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
