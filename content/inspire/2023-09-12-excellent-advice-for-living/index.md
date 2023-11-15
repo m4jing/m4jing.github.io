@@ -788,5 +788,25 @@ Nothing beats small things done every day, which is way more important than what
 - 众口铄金，积毁销骨。——《史记·张仪列传》
 - 人生得一知己足矣，斯世当以同怀视之。——鲁迅
 
+## 57
+
+> A superpower worth cultivating is learning from people you don’t like.
+>
+> It is called “humility.”
+>
+> This is the courage to let dumb, stupid, hateful, crazy, mean people teach you something, because despite their character flaws, they each know something you don’t.
+
+值得培养的一种超能力是向你不喜欢的人学习。
+
+这叫做“谦卑”。
+
+这是一种勇气，让愚蠢、讨厌、疯狂、刻薄的人教会你一些东西，因为尽管他们性格有缺陷，但他们每个人都知道一些你不知道的事情。
+
+→ `三人行，必有我师`
+
+- 三人行，必有我师焉。择其善者而从之，其不善者而改之。——《论语·述而》
+- 见贤思齐焉，见不贤而内自省也。——《论语·里仁》
+- 满招损，谦受益。——《尚书·大禹谟》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
