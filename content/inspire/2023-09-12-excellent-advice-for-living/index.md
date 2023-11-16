@@ -808,5 +808,21 @@ Nothing beats small things done every day, which is way more important than what
 - 见贤思齐焉，见不贤而内自省也。——《论语·里仁》
 - 满招损，谦受益。——《尚书·大禹谟》
 
+## 58
+
+> The trick to making wise decisions is to evaluate your choices as if you were looking back 25 years from today.
+>
+> What would your future self think?
+
+做出明智决策的诀窍是，从今天起往后看 25 年，评估你的选择。
+
+你未来的自己会怎么想？
+
+→ 乔布斯：`connecting the dots`
+
+- 凡事预则立，不预则废。——《礼记·中庸》
+- 人无远虑，必有近忧。——《论语·卫灵公》
+- 路遥知马力，日久见人心。——《元曲选·争报恩》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
