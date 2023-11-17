@@ -824,5 +824,17 @@ Nothing beats small things done every day, which is way more important than what
 - 人无远虑，必有近忧。——《论语·卫灵公》
 - 路遥知马力，日久见人心。——《元曲选·争报恩》
 
+## 59
+
+> When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room.
+>
+> Your eyes telegraph to others whether you really believe what you are saying.
+
+在向听众演讲时，最好将目光固定在少数人身上，而不是将目光“扫射”整个房间。
+
+你的眼睛会向他人传达你是否真正相信自己所说的话。
+
+→ `眼神交流`：不要飘忽不定，否则容易让人觉得你不自信——不相信/不了解自己所讲的东西
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
