@@ -836,5 +836,19 @@ Nothing beats small things done every day, which is way more important than what
 
 → `眼神交流`：不要飘忽不定，否则容易让人觉得你不自信——不相信/不了解自己所讲的东西
 
+## 60
+
+> You will thrive more — and so will others — when you promote what you love rather than bash what you hate.
+>
+> Life is short; focus on the good stuff.
+
+当你宣扬自己所爱，而非抨击自己所恨时，你会更加茁壮成长，其他人也会如此。生命短暂，专注于美好的事物吧。
+
+→ `人生苦短，关注美好`
+
+- 君子成人之美，不成人之恶。小人反是。——《论语·颜渊》
+- 祸福无门，惟人自召；善恶之报，如影随形。——《太上感应篇》
+- 取诸人以为善，是与人为善者也。故君子莫大乎与人为善。——《孟子·公孙丑上》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
