@@ -850,5 +850,17 @@ Nothing beats small things done every day, which is way more important than what
 - 祸福无门，惟人自召；善恶之报，如影随形。——《太上感应篇》
 - 取诸人以为善，是与人为善者也。故君子莫大乎与人为善。——《孟子·公孙丑上》
 
+## 61
+
+> When sharing, one person divides, the other chooses.
+
+在分享时，一个人进行分配，另一个人进行选择。
+
+→ `分治策略`
+
+- 不患寡而患不均，不患贫而患不安。——《论语·季氏》
+- 平出于公，公出于道。——《吕氏春秋·贵公》
+- 选贤举能，讲信修睦。——《墨子·尚贤下》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
