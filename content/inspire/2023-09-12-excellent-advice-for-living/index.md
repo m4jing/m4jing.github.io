@@ -862,5 +862,21 @@ Nothing beats small things done every day, which is way more important than what
 - 平出于公，公出于道。——《吕氏春秋·贵公》
 - 选贤举能，讲信修睦。——《墨子·尚贤下》
 
+## 62
+
+> Unhappiness comes from wanting what others have.
+>
+> Happiness comes from wanting what you already have.
+
+不幸福源于渴望拥有他人所拥有的。
+
+幸福源于满足于自己已经拥有的。
+
+→ `知足常乐`
+
+- 饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。——《论语·述而》
+- 知足不辱，知止不殆，可以长久。——《道德经》
+- 勿营华屋，勿谋良田。——《朱子家训》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
