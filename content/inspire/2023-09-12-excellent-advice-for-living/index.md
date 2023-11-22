@@ -878,5 +878,21 @@ Nothing beats small things done every day, which is way more important than what
 - 知足不辱，知止不殆，可以长久。——《道德经》
 - 勿营华屋，勿谋良田。——《朱子家训》
 
+## 63
+
+> To get your message across follow this formula used by ad writers everywhere:
+>
+> simplify, simplify, simplify, then exaggerate.
+
+要让你的信息传达到位，遵循广告撰写者们通用的公式：简化，简化，再简化，然后夸大。
+
+> 为了让信息能够有效地传达给受众，需要先将信息简化到最基本、最核心的内容，然后再通过夸大的手法来吸引人们的注意力。
+
+→ `刀锋竞争力`
+
+- 言寡尤，行寡悔，禄在其中矣。——《论语·为政》
+- 大道至简。——《道德经》
+- 易则易知，简则易从。——《周易·系辞上》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
