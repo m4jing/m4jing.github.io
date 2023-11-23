@@ -894,5 +894,19 @@ Nothing beats small things done every day, which is way more important than what
 - 大道至简。——《道德经》
 - 易则易知，简则易从。——《周易·系辞上》
 
+## 64
+
+> Pay attention to who you are around when you feel your best.
+>
+> Be with them more often.
+
+当你感觉状态最佳时，要注意你周围的人。多和他们在一起。
+
+→ `和优秀的人在一起`
+
+- 见贤思齐焉，见不贤而内自省也。——《论语·里仁》
+- 同声相应，同气相求。——《周易·乾·文言》
+- 嘤其鸣矣，求其友声。——《诗经·小雅·伐木》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
