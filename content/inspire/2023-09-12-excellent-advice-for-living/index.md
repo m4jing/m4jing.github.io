@@ -908,5 +908,31 @@ Nothing beats small things done every day, which is way more important than what
 - 同声相应，同气相求。——《周易·乾·文言》
 - 嘤其鸣矣，求其友声。——《诗经·小雅·伐木》
 
+## 65
+
+> The very best thing you can do for your kids is to love your spouse.
+>
+> Your golden ticket is being able to see things from other people’s point of view.
+>
+> This shift enables heartfelt empathy.
+>
+> It also allows you to persuade others and it is the key to great design.
+>
+> Mastering the view through the eyes of others will unlock so many doors.
+
+为孩子做的最好的事情就是爱你的配偶。
+
+你要能够从别人的角度看问题。
+
+这种转变能让你产生由衷的同理心。它还能让你说服他人，也是伟大设计的关键。
+
+通过别人的眼睛看世界，能打开许多扇门。
+
+→ `设身处地；推己及人`
+
+- 推己及人。——《论语·卫灵公》
+- 己所不欲，勿施于人。——《论语·颜渊》
+- 老吾老，以及人之老；幼吾幼，以及人之幼。——《孟子·梁惠王上》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
