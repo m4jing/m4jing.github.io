@@ -934,5 +934,38 @@ Nothing beats small things done every day, which is way more important than what
 - 己所不欲，勿施于人。——《论语·颜渊》
 - 老吾老，以及人之老；幼吾幼，以及人之幼。——《孟子·梁惠王上》
 
+## 66
+
+> To meditate, sit and pay attention to your breathing.
+>
+> Your mind will wander to thoughts.
+>
+> Then you bring your attention back to your breathing where it can’t think.
+>
+> Wander. Retreat.
+>
+> Keep returning to breath, no thoughts.
+>
+> That is all.
+
+冥想时，坐下来专注于呼吸。
+
+你的思绪会游走。
+
+然后把注意力拉回到呼吸上，让它无法思考。
+
+游走，再拉回。
+
+不断回到呼吸，没有思绪。
+
+仅此而已。
+
+→ `正念冥想`
+
+- `心无挂碍`：无挂碍故，无有恐怖，远离颠倒梦想，究竟涅槃。——《般若波罗蜜多心经》
+- 其始也，皆收视反听，耽思傍讯。——晋·陆机《文赋》
+- 先生心平而气和，故虽老而体胖。——《菜羹赋》[^caigenfu]
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
+[^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
