@@ -966,6 +966,22 @@ Nothing beats small things done every day, which is way more important than what
 - 其始也，皆收视反听，耽思傍讯。——晋·陆机《文赋》
 - 先生心平而气和，故虽老而体胖。——《菜羹赋》[^caigenfu]
 
+## 67
+
+> To have a great trip, head toward an interest rather than to a place.
+>
+> Travel to passions rather than destinations.
+
+要拥有美好的旅行体验，应该朝着自己的兴趣前进，而不是目的地。
+
+与其说是去目的地旅行，不如说是去追寻自己的激情所在。
+
+→ `旅行`：仰观宇宙之大，俯察品类之盛
+
+- 世界那么大，我想去看看
+- 读万卷书，行万里路
+- 人生如逆旅，我亦是行人
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
