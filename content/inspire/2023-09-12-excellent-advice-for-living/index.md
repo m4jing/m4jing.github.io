@@ -982,6 +982,21 @@ Nothing beats small things done every day, which is way more important than what
 - 读万卷书，行万里路
 - 人生如逆旅，我亦是行人
 
+## 68
+
+> The only way to write a great book is to first write an awful book.
+>
+> Ditto for a movie, song, piece of furniture or anything.
+
+写出一本好书的唯一方法是先写出一本糟糕的书。
+电影、歌曲、家具或任何其他事物也是如此。
+
+→ `先完成，再完美`
+
+- 宝剑锋从磨砺出，梅花香自苦寒来。——《警世贤文·勤奋篇》
+- 不积跬步，无以至千里；不积小流，无以成江海。——荀子《劝学》
+- 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
