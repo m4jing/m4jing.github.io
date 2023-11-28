@@ -997,6 +997,20 @@ Nothing beats small things done every day, which is way more important than what
 - 不积跬步，无以至千里；不积小流，无以成江海。——荀子《劝学》
 - 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
 
+## 69
+
+> It is impossible for you to become poor by giving.
+>
+> It is impossible for you to become wealthy without giving.
+
+给予不会使你变贫穷，而不给予你就不可能变富有。
+
+→ `圣人之道，为而不争`
+
+- 赠人玫瑰，手有余香。
+- 投我以桃，报之以李。——《诗经·大雅·抑》
+- 欲将取之，必先予之。——《道德经》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
