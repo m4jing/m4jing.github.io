@@ -1011,6 +1011,26 @@ Nothing beats small things done every day, which is way more important than what
 - 投我以桃，报之以李。——《诗经·大雅·抑》
 - 欲将取之，必先予之。——《道德经》
 
+## 70
+
+> Try hard to solicit constructive criticism early.
+>
+> You want to hear what’s not working as soon as possible.
+>
+> When it is finished you can’t improve it.
+
+尽早努力争取建设性的批评。
+
+你要尽早知道哪些方面不起作用。
+
+当事情结束时，你就无法改进它了。
+
+→ `火力侦察`
+
+- 当局者迷，旁观者清。——后晋·刘昫《旧唐书·元行冲传》(原句为“当局称迷，傍观见审”)
+- 亡羊补牢，犹未为晚。——《战国策·楚策四》
+- 见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。——《战国策·楚策四》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
