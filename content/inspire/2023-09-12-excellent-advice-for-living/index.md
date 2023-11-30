@@ -1031,6 +1031,23 @@ Nothing beats small things done every day, which is way more important than what
 - 亡羊补牢，犹未为晚。——《战国策·楚策四》
 - 见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。——《战国策·楚策四》
 
+## 71
+
+> To get better at speaking watch a recording of yourself speaking.
+>
+> It is shocking and painful but an effective way to improve.
+
+要想提高口语水平，可以观看自己说话的录像。
+
+这虽然令人震惊和痛苦，但却是一种有效的改进方法。
+
+→ 上帝视角 & 抽身出来：`学，然后知不足`
+
+- 虽有嘉肴，弗食，不知其旨也；虽有至道，弗学，不知其善也。是故学然后知不足，教然后知困。知不足，然后能自反也；知困，然后能自强也。故曰：教学相长也。《兑命》曰“学学半”，其此之谓乎！——两汉·戴圣《虽有嘉肴》
+- 欲穷千里目，更上一层楼。——王之涣《登鹳雀楼》
+- 见贤思齐焉，见不贤而内自省也。——《论语·里仁》
+- 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
