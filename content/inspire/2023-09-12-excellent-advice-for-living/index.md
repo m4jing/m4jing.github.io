@@ -1048,6 +1048,22 @@ Nothing beats small things done every day, which is way more important than what
 - 见贤思齐焉，见不贤而内自省也。——《论语·里仁》
 - 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
 
+## 72
+
+> Worry is ineffective.
+>
+> It is certain that 99% of the stuff you are anxious about won’t happen.
+
+担忧是没有用的。
+
+可以肯定的是，你所担心的事情中有 99% 都不会发生。
+
+→ 去除`妄念`；不要“杞人忧天”
+
+- 杞国无事忧天倾。——李白《梁甫吟》
+- 人生不满百，常怀千岁忧。——《古诗十九首》
+- 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。——苏轼《定风波·莫听穿林打叶声》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
