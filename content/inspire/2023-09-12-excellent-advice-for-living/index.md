@@ -1064,6 +1064,18 @@ Nothing beats small things done every day, which is way more important than what
 - 人生不满百，常怀千岁忧。——《古诗十九首》
 - 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。——苏轼《定风波·莫听穿林打叶声》
 
+## 73
+
+> Be extremely stingy in making promises because you must be generous in keeping them.
+
+在做出承诺时要极其吝啬，因为在履行承诺时必须慷慨大方。
+
+→ `言必信，行必果`
+
+- 轻诺必寡信。——老子《道德经》
+- 言必信，行必果。——孔子《论语·子路》
+- 一诺千金。——《史记·季布栾布列传》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
