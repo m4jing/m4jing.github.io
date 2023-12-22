@@ -1076,6 +1076,18 @@ Nothing beats small things done every day, which is way more important than what
 - 言必信，行必果。——孔子《论语·子路》
 - 一诺千金。——《史记·季布栾布列传》
 
+## 74
+
+> It is usually much easier to make big audacious changes than small incremental ones.
+
+通常情况下，进行大刀阔斧的变革比进行小规模的渐进式改变要容易得多。
+
+→ `功守道`：原有赛道的10% VS 新赛道的100%？
+
+- 不鸣则已，一鸣惊人。——司马迁《史记·滑稽列传》
+- 千里之行，始于足下。——老子《道德经》
+- 天下大事，必作于细。——老子《道德经》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
