@@ -1088,6 +1088,18 @@ Nothing beats small things done every day, which is way more important than what
 - 千里之行，始于足下。——老子《道德经》
 - 天下大事，必作于细。——老子《道德经》
 
+## 75
+
+> There is no perfection, only progress.
+>
+> Done is much better than perfect.
+
+没有完美，只有进步。
+
+完成比完美更重要。
+
+→ `完成` ＞ *完美*
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
