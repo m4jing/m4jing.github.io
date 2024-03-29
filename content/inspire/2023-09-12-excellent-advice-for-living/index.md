@@ -1100,6 +1100,18 @@ Nothing beats small things done every day, which is way more important than what
 
 → `完成` ＞ *完美*
 
+## 76
+
+> For a great payoff be especially curious about the things you are not interested in.
+
+为了获得巨大的回报，要对你不感兴趣的事情特别好奇。
+
+→ `不想做但必须做`：“今天不想跑，所以才去跑”
+
+- 三人行，必有我师焉。择其善者而从之，其不善者而改之。——孔子《论语》
+- 见贤思齐焉，见不贤而内自省也。——孔子《论语》
+- 博观而约取，厚积而薄发。——苏轼《稼说送张琥》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
