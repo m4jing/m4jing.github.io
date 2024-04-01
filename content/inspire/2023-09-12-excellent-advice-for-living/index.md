@@ -1112,6 +1112,26 @@ Nothing beats small things done every day, which is way more important than what
 - 见贤思齐焉，见不贤而内自省也。——孔子《论语》
 - 博观而约取，厚积而薄发。——苏轼《稼说送张琥》
 
+## 77
+
+> When you can’t decide, ask yourself, “Which choice will pay off more later than now?”
+>
+> The easy choice pays off right away.
+>
+> The best choice will pay off at the end.
+
+当你无法决定时，问问自己：“哪个选择在未来会带来更多的回报？”
+
+容易的选择会立即带来回报。
+
+最好的选择将在最后带来回报。
+
+→ 眼前 VS `未来`
+
+- 欲穷千里目，更上一层楼。——唐代王之涣《登鹳雀楼》
+- 不积跬步，无以至千里；不积小流，无以成江海。——荀子《劝学》
+- 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
