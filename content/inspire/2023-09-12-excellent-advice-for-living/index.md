@@ -1132,6 +1132,27 @@ Nothing beats small things done every day, which is way more important than what
 - 不积跬步，无以至千里；不积小流，无以成江海。——荀子《劝学》
 - 路漫漫其修远兮，吾将上下而求索。——屈原《离骚》
 
+## 78
+
+> As long as an idea stays in your head, it is perfect.
+>
+> But perfect things are never real.
+>
+> Immediately put an idea down into words or in a sketch, or as a cardboard prototype.
+>
+> Now your idea is much closer to reality because it is imperfect.
+
+只要一个想法停留在你的脑海中，它就是完美的。但完美的事物从来都不是真实的。
+
+立即将一个想法转化为文字、草图或纸板原型。
+
+现在你的想法更接近现实，因为它不完美了。
+
+→ `想法 → 行动`
+
+- 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
+- 不登高山，不知天之高也；不临深溪，不知地之厚也。——荀子《劝学》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
