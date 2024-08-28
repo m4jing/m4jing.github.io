@@ -1153,6 +1153,18 @@ Nothing beats small things done every day, which is way more important than what
 - 纸上得来终觉浅，绝知此事要躬行。——陆游《冬夜读书示子聿》
 - 不登高山，不知天之高也；不临深溪，不知地之厚也。——荀子《劝学》
 
+## 79
+
+> Your opinion on a contentious issue gains power when you can argue the opposite side as well as they can.
+
+对有争议的问题，当你能像对方一样有力地论证其对立面时，你的观点才更有说服力。
+
+→ `反者道之动`
+
+- 知己知彼，百战不殆。——《孙子兵法》
+- 横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。——苏轼《题西林壁》
+- 兼听则明，偏信则暗。——《资治通鉴》
+
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
 [^caigenfu]: 苏轼(宋)，《菜羹赋》: <https://so.gushiwen.cn/shiwenv_926b656a5efa.aspx>
