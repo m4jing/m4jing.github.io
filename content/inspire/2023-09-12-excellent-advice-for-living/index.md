@@ -8,7 +8,7 @@ categories:
   - Cultivation
 tags:
   - Philosophy
-keywords: 凯文·凯利,Kevin Kelly,Excellent Advice for Living,宝贵的人生建议
+keywords: 凯文·凯利,Kevin Kelly,Excellent Advice for Living,Wisdom I Wish I'd known Earlier,宝贵的人生建议
 toc: true
 showdate: true
 ---
@@ -1164,6 +1164,22 @@ Nothing beats small things done every day, which is way more important than what
 - 知己知彼，百战不殆。——《孙子兵法》
 - 横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。——苏轼《题西林壁》
 - 兼听则明，偏信则暗。——《资治通鉴》
+
+## 80
+
+> You will spend one third of your life in your bed sleeping, and almost another third in your chair sitting.
+>
+> It’s worth investing in a great bed and fantastic chair.
+
+你一生中有三分之一的时间会在床上睡觉，几乎还有三分之一的时间会坐在椅子上。
+
+因此，值得投资购买一张好床和一把好椅子。
+
+→ `工欲善其事，必先利其器`
+
+- 人生百年几今日，今日不为真可惜！——明代文嘉《今日歌》
+- 逝者如斯夫，不舍昼夜。——《论语·子罕》
+- 一寸光阴一寸金，寸金难买寸光阴。——《增广贤文》
 
 [^advice]: 《Excellent Advice for Living: Wisdom I Wish I'd known Earlier》，Kevin Kelly，2023，Penguin Random  House
 [^advice-cn]: 《宝贵的人生建议》，凯文·凯利，2023.09，中信出版集团
